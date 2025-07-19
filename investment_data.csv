@@ -1,0 +1,2001 @@
+Investment_ID,Investor_Name,Investment_Type,Investment_Amount,Investment_Date,Maturity_Date,Risk_Category,Return_Rate,Broker,Status
+100000,David,Mutual Funds,43894.15,2023-08-02,2029-09-27,High,10.85,BrokerD,Active
+100001,Eve,Real Estate,82033.47,2020-08-16,2028-02-23,Medium,4.79,BrokerA,Active
+100002,Charlie,Crypto,84403.46,2020-02-21,2029-04-21,High,14.08,BrokerA,Pending
+100003,Eve,Crypto,36558.15,2024-02-27,2029-08-04,Medium,2.92,BrokerD,Pending
+100004,Eve,Crypto,70893.72,2021-07-17,2028-06-27,Low,5.12,BrokerD,Pending
+100005,Bob,Mutual Funds,78256.67,2021-05-16,2028-06-10,High,8.52,BrokerA,Closed
+100006,Charlie,Real Estate,67191.82,2021-04-02,2028-10-14,Medium,9.14,BrokerD,Pending
+100007,Charlie,Bonds,19401.53,2020-10-12,2028-08-09,Low,1.71,BrokerD,Pending
+100008,Charlie,Bonds,88208.89,2024-02-17,2028-02-15,Low,12.04,BrokerB,Closed
+100009,Eve,Mutual Funds,56213.98,2020-07-28,2025-02-23,High,6.38,BrokerD,Closed
+100010,David,Crypto,31834.88,2023-10-17,2028-06-01,Low,6.99,BrokerC,Active
+100011,Charlie,Stocks,45396.68,2024-02-25,2028-09-09,Medium,12.43,BrokerB,Closed
+100012,Fay,Mutual Funds,8569.25,2023-01-21,2029-08-26,Low,6.62,BrokerC,Closed
+100013,Eve,Mutual Funds,17147.35,2020-06-27,2028-11-21,Low,2.14,BrokerD,Pending
+100014,Bob,Real Estate,77726.94,2023-04-24,2026-07-02,Medium,3.88,BrokerA,Active
+100015,David,Bonds,5001.11,2022-05-14,2025-03-01,Low,14.4,BrokerB,Active
+100016,Fay,Mutual Funds,44573.75,2020-03-06,2026-01-05,Low,2.45,BrokerA,Closed
+100017,Fay,Mutual Funds,54638.47,2020-03-02,2026-07-14,Low,6.29,BrokerB,Pending
+100018,Bob,Crypto,10190.27,2020-07-10,2028-12-10,Low,8.29,BrokerA,Pending
+100019,David,Crypto,97442.43,2021-03-23,2029-04-11,Medium,8.16,BrokerB,Pending
+100020,Eve,Stocks,26481.91,2021-04-21,2026-09-25,Low,1.55,BrokerB,Pending
+100021,Alice,Real Estate,33898.88,2022-10-31,2026-11-27,Medium,8.27,BrokerC,Closed
+100022,David,Stocks,33874.54,2023-05-17,2026-12-20,Low,6.68,BrokerA,Pending
+100023,Bob,Crypto,26889.58,2020-02-24,2025-01-13,Low,14.62,BrokerC,Active
+100024,Fay,Bonds,5140.01,2023-02-23,2026-01-07,Low,3.65,BrokerC,Active
+100025,Eve,Crypto,74287.76,2021-02-11,2029-11-17,Low,6.28,BrokerA,Closed
+100026,David,Real Estate,96850.32,2024-01-06,2025-10-21,Medium,7.16,BrokerB,Pending
+100027,Alice,Crypto,26307.88,2023-08-23,2028-03-05,Medium,6.77,BrokerC,Pending
+100028,Alice,Real Estate,67989.48,2023-12-07,2028-09-08,Medium,10.49,BrokerA,Pending
+100029,Charlie,Real Estate,75480.15,2023-01-21,2027-04-01,High,4.41,BrokerB,Pending
+100030,Charlie,Real Estate,85600.41,2022-05-09,2025-05-23,Low,4.48,BrokerC,Closed
+100031,Bob,Real Estate,45149.77,2021-03-27,2025-10-18,Low,11.34,BrokerC,Pending
+100032,David,Real Estate,33778.44,2022-07-08,2029-02-26,Medium,8.25,BrokerC,Closed
+100033,David,Bonds,35903.04,2023-04-21,2028-07-20,High,7.1,BrokerB,Pending
+100034,Fay,Stocks,72699.03,2021-07-23,2025-03-04,Low,3.78,BrokerC,Pending
+100035,Fay,Mutual Funds,82594.05,2024-07-15,2025-07-07,Medium,4.03,BrokerB,Active
+100036,Fay,Stocks,22253.33,2024-11-15,2029-03-09,Low,1.64,BrokerD,Closed
+100037,Charlie,Real Estate,40239.4,2020-01-14,2027-12-23,Low,2.73,BrokerC,Active
+100038,David,Bonds,90684.32,2024-04-03,2026-03-17,Medium,9.02,BrokerD,Closed
+100039,David,Crypto,81635.88,2024-07-08,2027-02-10,Medium,13.54,BrokerA,Pending
+100040,Alice,Bonds,98561.55,2020-11-22,2027-05-10,Low,5.38,BrokerC,Pending
+100041,Charlie,Real Estate,76653.58,2023-11-30,2027-07-19,Low,5.92,BrokerA,Closed
+100042,Eve,Bonds,42353.54,2022-05-15,2026-11-30,Medium,3.06,BrokerA,Active
+100043,Charlie,Bonds,61110.59,2021-11-27,2025-11-19,Low,6.75,BrokerA,Closed
+100044,Eve,Real Estate,67796.35,2021-07-23,2027-01-28,Low,2.0,BrokerD,Closed
+100045,Alice,Bonds,12453.3,2020-11-14,2026-10-01,Medium,13.89,BrokerB,Pending
+100046,Bob,Mutual Funds,56727.21,2021-03-16,2029-01-17,Low,10.59,BrokerD,Active
+100047,David,Mutual Funds,72385.48,2024-04-12,2026-10-27,Low,14.88,BrokerD,Closed
+100048,Alice,Bonds,20895.52,2021-11-20,2029-05-10,High,13.42,BrokerA,Active
+100049,David,Crypto,79160.01,2020-07-28,2028-03-08,Medium,7.89,BrokerC,Active
+100050,Fay,Real Estate,60458.41,2020-07-08,2028-05-06,High,8.52,BrokerB,Closed
+100051,Bob,Mutual Funds,95461.07,2022-02-17,2025-06-23,High,4.07,BrokerA,Active
+100052,Bob,Crypto,9030.12,2020-07-17,2029-12-15,High,7.74,BrokerB,Pending
+100053,Alice,Bonds,30205.98,2022-01-05,2025-04-18,Low,13.69,BrokerD,Pending
+100054,Bob,Crypto,62147.62,2024-10-01,2025-11-15,Low,2.19,BrokerB,Pending
+100055,Eve,Stocks,33173.19,2021-12-05,2025-11-19,High,13.16,BrokerB,Pending
+100056,Bob,Mutual Funds,72870.3,2023-05-21,2029-03-26,High,6.1,BrokerC,Active
+100057,David,Bonds,77105.5,2021-06-25,2028-06-19,High,13.64,BrokerA,Pending
+100058,David,Real Estate,14739.02,2024-07-10,2025-04-12,Low,14.2,BrokerB,Closed
+100059,David,Bonds,53816.17,2020-03-29,2028-10-12,High,10.56,BrokerB,Pending
+100060,David,Real Estate,53344.6,2024-02-03,2025-06-17,High,10.47,BrokerD,Closed
+100061,Eve,Bonds,40081.67,2022-07-29,2026-07-12,Medium,7.61,BrokerD,Closed
+100062,Charlie,Crypto,93627.86,2023-01-03,2027-06-27,Medium,12.78,BrokerB,Pending
+100063,Fay,Crypto,83613.1,2020-09-12,2028-09-17,Low,14.48,BrokerA,Pending
+100064,Alice,Crypto,71234.89,2022-02-14,2027-05-19,Medium,11.96,BrokerB,Active
+100065,David,Stocks,72861.03,2020-06-10,2027-09-22,Medium,9.9,BrokerB,Closed
+100066,Bob,Real Estate,48863.03,2023-02-04,2028-05-28,Medium,9.69,BrokerC,Pending
+100067,David,Crypto,92494.48,2021-08-23,2027-06-25,Low,12.97,BrokerA,Active
+100068,Bob,Stocks,70986.57,2024-08-25,2027-04-29,Medium,8.81,BrokerC,Pending
+100069,Fay,Real Estate,74253.2,2023-07-11,2026-07-14,Low,12.35,BrokerA,Pending
+100070,Fay,Bonds,86860.64,2023-06-20,2026-03-18,High,8.37,BrokerA,Pending
+100071,Fay,Stocks,31036.8,2024-12-18,2029-03-27,Medium,2.34,BrokerA,Closed
+100072,Bob,Mutual Funds,81671.74,2024-10-30,2027-11-16,Low,6.68,BrokerC,Pending
+100073,David,Stocks,23547.86,2022-01-10,2025-08-22,Medium,7.5,BrokerC,Active
+100074,Fay,Stocks,37807.49,2023-03-28,2026-12-08,High,3.41,BrokerC,Pending
+100075,Eve,Real Estate,36882.99,2021-01-28,2027-05-31,Low,2.88,BrokerD,Pending
+100076,Bob,Bonds,97959.92,2023-12-13,2025-08-16,Low,8.73,BrokerC,Active
+100077,Bob,Mutual Funds,86371.04,2020-05-22,2026-08-04,Low,2.65,BrokerD,Active
+100078,David,Crypto,71611.14,2020-04-03,2028-10-20,High,5.59,BrokerD,Closed
+100079,Bob,Crypto,74070.39,2023-09-16,2028-10-21,High,11.55,BrokerD,Closed
+100080,Bob,Stocks,58396.92,2021-04-11,2028-04-29,High,14.52,BrokerB,Closed
+100081,Fay,Real Estate,94973.61,2024-05-02,2027-09-24,Low,11.19,BrokerB,Closed
+100082,David,Real Estate,52144.58,2021-08-15,2027-12-16,High,14.9,BrokerB,Active
+100083,Fay,Crypto,41149.18,2020-06-12,2028-09-28,Medium,10.93,BrokerD,Pending
+100084,Fay,Mutual Funds,20488.36,2024-10-17,2026-09-24,High,5.47,BrokerD,Pending
+100085,David,Bonds,79689.54,2021-04-21,2025-04-04,Low,10.57,BrokerA,Pending
+100086,Alice,Mutual Funds,74772.17,2024-11-09,2026-03-28,Medium,10.98,BrokerD,Closed
+100087,Fay,Bonds,41513.73,2020-07-25,2027-03-21,High,6.52,BrokerB,Active
+100088,Eve,Crypto,7393.37,2022-02-17,2028-05-12,Medium,1.74,BrokerD,Active
+100089,Eve,Bonds,84704.75,2021-07-23,2025-04-23,Medium,10.99,BrokerD,Active
+100090,Bob,Real Estate,6084.71,2022-07-17,2025-01-16,Low,1.79,BrokerA,Pending
+100091,Eve,Stocks,71851.48,2023-07-25,2026-02-23,Medium,10.02,BrokerD,Closed
+100092,Bob,Stocks,97174.43,2024-09-04,2026-09-10,Medium,3.71,BrokerC,Active
+100093,Alice,Crypto,46577.83,2022-01-17,2026-03-09,Low,9.14,BrokerA,Closed
+100094,David,Real Estate,27322.47,2020-11-29,2029-04-21,Low,8.3,BrokerD,Active
+100095,David,Mutual Funds,71962.75,2022-01-28,2025-10-09,Low,1.68,BrokerD,Closed
+100096,David,Real Estate,82627.17,2021-12-28,2029-04-15,Medium,6.4,BrokerA,Active
+100097,Eve,Stocks,56910.88,2021-03-05,2026-06-08,Medium,9.61,BrokerD,Closed
+100098,Alice,Stocks,96868.35,2023-10-04,2026-08-16,Medium,12.96,BrokerB,Active
+100099,Eve,Real Estate,9908.53,2021-06-30,2026-11-03,Low,13.5,BrokerC,Active
+100100,Eve,Real Estate,52955.58,2023-12-08,2025-09-03,High,8.03,BrokerC,Closed
+100101,Alice,Stocks,73253.12,2023-10-31,2025-01-16,Medium,11.33,BrokerB,Closed
+100102,Alice,Mutual Funds,86950.84,2023-08-20,2027-10-16,High,5.77,BrokerD,Pending
+100103,Alice,Crypto,22029.28,2020-05-26,2029-03-10,Low,6.12,BrokerD,Closed
+100104,Alice,Crypto,81000.33,2023-06-01,2027-06-01,Medium,4.13,BrokerC,Active
+100105,David,Real Estate,57507.17,2023-07-24,2025-12-26,High,9.09,BrokerD,Active
+100106,Charlie,Crypto,42672.6,2020-12-16,2025-09-22,Medium,5.75,BrokerC,Closed
+100107,Charlie,Stocks,17512.93,2022-12-29,2027-02-18,Medium,2.64,BrokerC,Pending
+100108,Alice,Stocks,87203.1,2024-02-02,2027-12-27,Medium,10.75,BrokerB,Closed
+100109,Charlie,Real Estate,19940.95,2021-05-16,2028-12-12,High,11.05,BrokerC,Active
+100110,Charlie,Real Estate,34429.85,2020-11-30,2026-04-17,Low,6.36,BrokerD,Active
+100111,Alice,Real Estate,32554.33,2022-08-04,2027-10-22,Medium,2.54,BrokerD,Pending
+100112,Charlie,Mutual Funds,87784.33,2022-02-16,2028-02-19,Low,7.26,BrokerA,Closed
+100113,Eve,Crypto,68906.78,2021-07-06,2029-09-03,Low,7.47,BrokerD,Active
+100114,Bob,Real Estate,80684.73,2023-08-03,2028-09-30,High,10.53,BrokerA,Active
+100115,Bob,Bonds,28794.45,2023-11-10,2029-07-10,High,5.76,BrokerC,Active
+100116,Alice,Bonds,64363.04,2023-02-14,2026-12-27,Low,10.72,BrokerD,Closed
+100117,David,Stocks,59315.87,2021-03-25,2025-05-28,Medium,13.27,BrokerB,Closed
+100118,Alice,Crypto,84118.89,2023-11-03,2027-03-25,High,4.71,BrokerB,Pending
+100119,David,Real Estate,91078.27,2021-10-26,2029-10-31,Medium,14.72,BrokerB,Active
+100120,Bob,Bonds,6154.89,2024-09-22,2029-02-28,Medium,6.72,BrokerC,Active
+100121,Alice,Crypto,69031.89,2024-04-22,2025-03-28,Medium,5.11,BrokerC,Pending
+100122,Fay,Stocks,9924.4,2024-05-08,2027-06-13,Low,7.19,BrokerA,Active
+100123,Eve,Mutual Funds,57141.57,2020-04-24,2025-02-08,Medium,2.77,BrokerB,Pending
+100124,Charlie,Crypto,32325.11,2021-04-14,2027-07-31,Low,3.2,BrokerA,Pending
+100125,David,Crypto,34143.78,2024-08-10,2025-06-09,Low,7.09,BrokerA,Active
+100126,Fay,Mutual Funds,38531.06,2020-03-06,2029-11-01,Medium,11.79,BrokerD,Closed
+100127,Charlie,Crypto,64022.78,2024-07-06,2026-10-04,Medium,13.65,BrokerD,Closed
+100128,Charlie,Stocks,36734.75,2021-10-08,2028-03-25,Medium,10.48,BrokerB,Closed
+100129,Alice,Stocks,74606.41,2022-04-01,2027-05-30,Medium,2.92,BrokerC,Closed
+100130,Charlie,Mutual Funds,43430.1,2021-07-02,2028-03-20,Low,10.57,BrokerD,Active
+100131,Eve,Real Estate,11493.55,2020-05-15,2027-04-09,Medium,10.08,BrokerC,Pending
+100132,Fay,Bonds,79457.19,2021-03-08,2028-12-24,Medium,12.38,BrokerA,Pending
+100133,Charlie,Real Estate,32147.04,2023-03-07,2028-08-04,Low,12.64,BrokerA,Active
+100134,Alice,Crypto,46112.85,2024-11-29,2027-05-06,High,13.22,BrokerA,Closed
+100135,Eve,Bonds,70117.17,2024-01-10,2026-08-16,High,7.09,BrokerA,Pending
+100136,Bob,Mutual Funds,36583.33,2021-10-06,2025-08-24,Low,10.92,BrokerB,Active
+100137,Fay,Mutual Funds,10375.64,2021-03-11,2027-04-10,High,5.12,BrokerA,Active
+100138,Charlie,Bonds,40522.5,2023-09-04,2025-02-12,Low,14.99,BrokerD,Closed
+100139,Alice,Stocks,94722.62,2022-10-19,2026-10-28,Medium,3.87,BrokerA,Active
+100140,Bob,Bonds,65964.77,2022-03-21,2025-12-18,Medium,1.64,BrokerC,Pending
+100141,Bob,Crypto,68790.52,2024-12-16,2029-06-30,High,3.51,BrokerD,Pending
+100142,David,Stocks,65066.8,2023-08-09,2028-06-19,Medium,11.97,BrokerC,Active
+100143,Eve,Mutual Funds,23904.25,2022-07-28,2027-08-01,High,7.53,BrokerC,Pending
+100144,Charlie,Bonds,44741.72,2020-10-19,2029-08-31,High,7.54,BrokerB,Active
+100145,Alice,Real Estate,76339.28,2021-06-26,2028-11-13,Medium,14.39,BrokerB,Pending
+100146,David,Real Estate,14630.43,2020-10-12,2027-01-12,Medium,13.92,BrokerC,Closed
+100147,Eve,Crypto,31396.01,2021-05-20,2025-06-30,High,5.7,BrokerC,Pending
+100148,David,Real Estate,31250.32,2024-03-05,2027-06-14,Medium,4.32,BrokerA,Closed
+100149,Fay,Bonds,46041.8,2023-02-23,2029-09-26,Low,12.95,BrokerD,Closed
+100150,Eve,Bonds,98135.03,2023-01-08,2025-08-05,Medium,13.73,BrokerA,Active
+100151,Eve,Real Estate,11412.74,2021-06-22,2026-05-14,Medium,8.81,BrokerB,Closed
+100152,Charlie,Bonds,54276.59,2024-03-09,2027-06-12,Low,10.0,BrokerB,Pending
+100153,Eve,Crypto,22039.64,2023-04-12,2028-04-21,Medium,4.97,BrokerA,Pending
+100154,David,Stocks,97214.27,2022-05-27,2027-04-01,Medium,12.31,BrokerD,Closed
+100155,Eve,Crypto,15763.83,2023-04-10,2027-12-10,High,10.03,BrokerC,Active
+100156,Charlie,Crypto,43342.1,2022-03-28,2025-06-11,Medium,8.3,BrokerA,Closed
+100157,Charlie,Bonds,75099.07,2022-01-11,2027-03-22,Medium,2.31,BrokerB,Pending
+100158,Fay,Stocks,71932.67,2021-03-25,2029-11-18,Low,13.87,BrokerD,Pending
+100159,David,Bonds,45159.22,2020-10-10,2026-09-28,High,9.81,BrokerB,Closed
+100160,Bob,Mutual Funds,37919.8,2022-11-09,2029-03-08,High,4.1,BrokerD,Closed
+100161,Bob,Bonds,42773.18,2022-10-07,2026-11-27,High,9.69,BrokerD,Closed
+100162,Eve,Bonds,30106.25,2020-07-05,2026-03-30,Medium,10.65,BrokerD,Pending
+100163,Fay,Bonds,24506.63,2024-03-27,2026-11-14,High,8.6,BrokerA,Pending
+100164,Alice,Stocks,50888.77,2020-04-06,2029-05-15,Low,11.19,BrokerA,Pending
+100165,Eve,Bonds,30510.71,2024-10-29,2025-12-11,High,9.35,BrokerA,Active
+100166,Fay,Stocks,32308.86,2020-08-12,2025-06-06,Low,14.29,BrokerD,Pending
+100167,David,Real Estate,67391.83,2020-11-09,2027-11-12,High,2.22,BrokerD,Pending
+100168,David,Mutual Funds,97011.05,2023-07-09,2028-07-20,High,2.93,BrokerB,Active
+100169,David,Stocks,62345.53,2020-11-23,2025-08-22,Low,3.84,BrokerC,Active
+100170,David,Real Estate,12313.05,2024-06-10,2027-12-23,High,10.82,BrokerA,Active
+100171,David,Stocks,12180.44,2023-10-25,2027-11-11,High,10.22,BrokerD,Active
+100172,Fay,Stocks,95385.21,2022-05-14,2026-02-02,High,13.54,BrokerB,Active
+100173,Fay,Mutual Funds,33242.63,2023-05-06,2029-05-09,Medium,11.39,BrokerB,Active
+100174,Charlie,Crypto,13746.36,2020-05-10,2026-12-17,Low,8.36,BrokerB,Closed
+100175,Bob,Crypto,61909.24,2022-02-27,2026-12-21,High,14.89,BrokerA,Closed
+100176,David,Stocks,64246.63,2022-02-20,2029-01-29,Low,5.09,BrokerA,Closed
+100177,Alice,Bonds,66607.96,2023-05-05,2029-08-05,Low,12.75,BrokerC,Closed
+100178,Fay,Real Estate,30403.19,2022-08-16,2028-08-14,Low,7.26,BrokerB,Pending
+100179,Alice,Bonds,6435.52,2022-12-19,2029-07-28,High,10.26,BrokerA,Active
+100180,Alice,Bonds,96676.46,2021-05-29,2025-10-30,High,11.32,BrokerB,Pending
+100181,Alice,Stocks,28834.84,2023-02-07,2026-04-29,Low,10.06,BrokerD,Active
+100182,Charlie,Stocks,69222.5,2024-10-28,2025-07-30,Medium,3.4,BrokerB,Active
+100183,Fay,Stocks,72129.84,2020-01-24,2025-10-27,Low,7.48,BrokerC,Pending
+100184,Alice,Stocks,62950.7,2023-10-25,2026-06-09,Medium,9.08,BrokerA,Closed
+100185,David,Crypto,34726.2,2024-01-16,2026-02-09,Low,12.96,BrokerD,Pending
+100186,Eve,Stocks,30754.14,2020-08-22,2025-12-22,Low,7.49,BrokerA,Pending
+100187,Alice,Crypto,61778.49,2023-10-28,2028-05-18,Low,13.9,BrokerD,Active
+100188,Charlie,Crypto,87279.09,2024-12-17,2025-11-10,High,7.45,BrokerB,Active
+100189,Fay,Stocks,94939.7,2023-01-04,2029-04-06,Medium,8.91,BrokerB,Active
+100190,Charlie,Mutual Funds,15061.05,2024-03-17,2029-04-04,Medium,12.25,BrokerC,Closed
+100191,Alice,Real Estate,19708.72,2021-06-30,2028-09-04,Low,9.37,BrokerC,Pending
+100192,Fay,Bonds,94749.94,2024-04-23,2025-06-04,High,14.46,BrokerD,Pending
+100193,Eve,Crypto,74970.85,2023-08-05,2025-12-29,High,10.41,BrokerC,Closed
+100194,Alice,Real Estate,88884.41,2021-11-27,2029-05-02,Medium,8.56,BrokerC,Pending
+100195,Charlie,Mutual Funds,24250.1,2020-08-16,2028-07-10,High,1.82,BrokerC,Pending
+100196,Bob,Bonds,60820.66,2021-08-24,2027-10-09,Medium,7.09,BrokerC,Active
+100197,David,Bonds,71608.26,2022-06-09,2027-08-09,Medium,5.54,BrokerB,Closed
+100198,Charlie,Crypto,69610.63,2020-11-19,2029-03-26,Medium,11.6,BrokerC,Active
+100199,Fay,Stocks,43774.41,2022-07-18,2028-02-29,High,4.31,BrokerB,Closed
+100200,Alice,Mutual Funds,6462.51,2020-01-07,2029-04-06,Medium,4.27,BrokerB,Active
+100201,David,Crypto,60377.98,2024-01-18,2028-04-01,Medium,4.06,BrokerA,Pending
+100202,Alice,Mutual Funds,29044.65,2024-11-28,2027-07-09,Low,3.2,BrokerB,Closed
+100203,Fay,Stocks,47774.15,2024-01-13,2028-10-26,Medium,5.7,BrokerB,Closed
+100204,Alice,Stocks,95970.2,2021-06-23,2029-12-12,Medium,13.46,BrokerC,Active
+100205,Bob,Crypto,42908.36,2022-10-22,2028-03-02,Low,11.96,BrokerB,Closed
+100206,David,Stocks,84781.15,2024-04-09,2028-08-09,Low,11.43,BrokerD,Pending
+100207,David,Real Estate,22911.36,2020-12-31,2028-07-25,High,12.26,BrokerC,Pending
+100208,Fay,Bonds,68883.75,2022-11-05,2028-07-03,Medium,5.14,BrokerC,Pending
+100209,Bob,Crypto,97815.66,2020-08-05,2026-10-24,High,13.48,BrokerC,Active
+100210,Charlie,Mutual Funds,14679.84,2024-11-17,2029-11-05,High,3.35,BrokerA,Closed
+100211,Alice,Real Estate,5790.39,2023-07-04,2028-07-08,Low,6.04,BrokerC,Active
+100212,Eve,Crypto,46190.37,2021-09-03,2026-10-10,High,9.42,BrokerB,Pending
+100213,Alice,Stocks,13799.42,2024-09-19,2025-11-06,Medium,2.89,BrokerD,Closed
+100214,Alice,Stocks,76096.51,2023-08-01,2027-06-20,Low,11.36,BrokerC,Pending
+100215,Charlie,Stocks,91882.12,2022-11-05,2025-05-20,Medium,6.73,BrokerC,Closed
+100216,Alice,Stocks,46231.99,2023-06-01,2027-08-19,Medium,12.09,BrokerD,Closed
+100217,Bob,Mutual Funds,29577.61,2021-02-11,2027-06-25,Low,8.15,BrokerC,Active
+100218,Bob,Real Estate,46268.32,2020-11-09,2028-07-17,Medium,3.94,BrokerA,Closed
+100219,David,Bonds,73727.54,2022-02-04,2026-09-13,Low,11.42,BrokerB,Pending
+100220,Fay,Mutual Funds,5860.15,2024-04-10,2029-06-19,Medium,4.9,BrokerD,Closed
+100221,Eve,Mutual Funds,60998.13,2020-11-26,2026-07-17,Low,8.13,BrokerD,Pending
+100222,Alice,Bonds,63262.71,2023-01-09,2028-04-26,High,2.52,BrokerA,Active
+100223,Alice,Bonds,65580.38,2024-05-13,2025-04-26,Medium,9.84,BrokerB,Pending
+100224,Charlie,Stocks,27992.1,2022-12-22,2026-12-22,Low,10.49,BrokerA,Closed
+100225,Fay,Mutual Funds,72835.01,2020-01-02,2027-11-06,Medium,6.61,BrokerB,Pending
+100226,Bob,Crypto,13682.19,2023-05-11,2025-06-01,Medium,14.38,BrokerA,Pending
+100227,Eve,Bonds,23930.68,2021-10-25,2026-09-28,Medium,13.3,BrokerC,Closed
+100228,David,Bonds,88359.65,2022-09-27,2027-08-04,Low,11.06,BrokerA,Pending
+100229,Bob,Real Estate,75178.7,2020-02-09,2027-07-15,High,11.13,BrokerD,Closed
+100230,Fay,Crypto,6305.83,2020-08-17,2025-03-19,High,4.91,BrokerD,Active
+100231,David,Crypto,28595.74,2022-01-13,2025-04-27,High,10.37,BrokerD,Pending
+100232,Charlie,Bonds,25368.62,2024-12-04,2027-01-26,Low,4.18,BrokerA,Active
+100233,Charlie,Stocks,30726.6,2024-08-30,2029-08-31,High,3.44,BrokerD,Pending
+100234,Alice,Real Estate,28518.18,2024-07-10,2026-08-11,Low,14.99,BrokerD,Pending
+100235,Fay,Crypto,10940.0,2021-09-21,2025-06-07,Medium,9.9,BrokerC,Active
+100236,Eve,Bonds,48599.35,2021-05-05,2028-08-13,Medium,7.32,BrokerC,Pending
+100237,David,Crypto,74609.68,2020-04-28,2029-11-05,High,5.39,BrokerB,Pending
+100238,Bob,Real Estate,62639.51,2021-05-08,2029-10-18,Low,9.65,BrokerB,Active
+100239,Fay,Real Estate,68922.81,2024-12-03,2025-07-04,Medium,2.17,BrokerB,Pending
+100240,Fay,Mutual Funds,12709.17,2023-03-07,2028-06-13,Low,2.78,BrokerA,Closed
+100241,Charlie,Bonds,95391.62,2020-06-10,2028-05-01,Low,1.94,BrokerB,Pending
+100242,Alice,Real Estate,84656.72,2020-06-24,2027-11-05,Medium,8.24,BrokerA,Pending
+100243,Alice,Mutual Funds,81483.58,2024-02-07,2027-02-27,Low,9.61,BrokerA,Pending
+100244,David,Mutual Funds,83183.46,2022-09-22,2027-08-06,Medium,2.34,BrokerB,Active
+100245,Charlie,Crypto,93607.5,2024-07-29,2028-04-03,Medium,11.24,BrokerB,Closed
+100246,Fay,Crypto,56704.13,2020-05-21,2028-02-10,Medium,4.61,BrokerA,Closed
+100247,Eve,Mutual Funds,24026.79,2024-04-06,2029-06-10,Low,10.75,BrokerC,Pending
+100248,Charlie,Crypto,63594.44,2022-12-26,2029-02-22,Medium,14.76,BrokerD,Active
+100249,David,Real Estate,75573.74,2024-04-17,2025-03-26,Low,10.83,BrokerD,Active
+100250,David,Stocks,75102.15,2020-09-14,2027-07-11,Medium,13.42,BrokerD,Closed
+100251,Charlie,Real Estate,54537.66,2020-09-19,2029-07-17,Medium,14.3,BrokerC,Active
+100252,David,Mutual Funds,11503.58,2023-09-13,2028-03-16,High,8.07,BrokerA,Pending
+100253,Charlie,Mutual Funds,40255.73,2022-08-31,2028-08-27,High,10.98,BrokerB,Pending
+100254,Bob,Real Estate,92472.83,2023-01-30,2026-01-21,High,13.0,BrokerA,Active
+100255,Charlie,Crypto,60522.65,2020-12-04,2026-10-21,Low,6.31,BrokerA,Pending
+100256,Charlie,Crypto,56141.53,2021-06-26,2028-05-24,Low,5.03,BrokerB,Closed
+100257,David,Mutual Funds,30541.08,2022-12-16,2027-09-02,Medium,14.28,BrokerC,Pending
+100258,David,Bonds,40002.65,2024-11-21,2027-10-24,Medium,11.31,BrokerD,Active
+100259,Alice,Crypto,90057.88,2023-05-27,2025-11-05,Medium,4.47,BrokerD,Closed
+100260,Alice,Real Estate,68313.99,2022-05-16,2025-05-07,Medium,7.56,BrokerA,Pending
+100261,Bob,Crypto,79801.77,2021-03-09,2027-07-12,Low,12.25,BrokerC,Closed
+100262,Alice,Real Estate,48162.82,2023-01-09,2025-07-31,Medium,8.89,BrokerD,Active
+100263,Charlie,Mutual Funds,64873.49,2024-03-26,2029-07-19,Medium,10.27,BrokerC,Pending
+100264,David,Crypto,28596.44,2024-02-03,2029-09-11,High,11.68,BrokerB,Pending
+100265,Alice,Real Estate,72018.78,2023-11-13,2026-12-05,Medium,9.9,BrokerA,Closed
+100266,Alice,Mutual Funds,45622.13,2021-02-15,2029-01-02,Medium,8.79,BrokerA,Pending
+100267,Bob,Bonds,47041.82,2023-12-31,2025-06-22,Medium,11.62,BrokerC,Pending
+100268,Fay,Real Estate,66685.62,2021-09-30,2027-10-31,Low,11.32,BrokerD,Pending
+100269,Bob,Bonds,93946.66,2022-03-28,2028-08-16,High,10.0,BrokerC,Pending
+100270,Charlie,Bonds,11080.6,2023-10-07,2025-12-20,Medium,6.36,BrokerB,Active
+100271,David,Stocks,83350.61,2023-08-23,2025-03-22,Medium,6.98,BrokerD,Pending
+100272,Bob,Crypto,32776.4,2022-02-03,2026-05-23,High,14.6,BrokerD,Closed
+100273,Alice,Real Estate,47172.35,2022-06-16,2028-12-20,Medium,3.02,BrokerC,Active
+100274,David,Bonds,7081.77,2022-11-25,2027-06-16,Low,5.12,BrokerB,Closed
+100275,David,Stocks,33599.38,2022-07-13,2027-06-19,Medium,8.15,BrokerD,Closed
+100276,Alice,Mutual Funds,52749.97,2020-09-04,2027-12-10,Low,12.8,BrokerA,Closed
+100277,Bob,Real Estate,10336.73,2021-05-22,2027-12-07,Low,3.71,BrokerB,Active
+100278,Alice,Bonds,51654.09,2021-04-05,2028-06-02,Medium,5.24,BrokerD,Active
+100279,Fay,Crypto,93075.51,2020-05-11,2025-11-22,High,2.39,BrokerC,Active
+100280,David,Stocks,15012.36,2021-11-23,2027-01-16,Low,11.03,BrokerD,Pending
+100281,Eve,Bonds,77621.87,2020-02-13,2027-02-03,High,4.72,BrokerA,Closed
+100282,Eve,Crypto,43918.75,2023-04-19,2026-08-03,Medium,6.75,BrokerB,Active
+100283,Charlie,Bonds,67241.5,2023-02-08,2027-03-05,Low,7.49,BrokerD,Closed
+100284,Alice,Real Estate,29722.48,2021-04-16,2027-04-18,Medium,13.53,BrokerA,Active
+100285,Alice,Real Estate,20151.76,2023-04-20,2029-05-06,High,7.05,BrokerD,Active
+100286,Charlie,Real Estate,20243.95,2021-03-27,2026-11-24,Medium,3.46,BrokerD,Active
+100287,Charlie,Stocks,11696.73,2020-01-15,2028-10-22,Medium,8.58,BrokerB,Closed
+100288,Charlie,Real Estate,22636.44,2020-05-25,2028-05-09,Low,14.5,BrokerC,Pending
+100289,David,Crypto,68100.84,2023-12-20,2025-04-18,Medium,9.7,BrokerC,Active
+100290,Fay,Bonds,88760.61,2023-07-16,2029-06-05,Medium,14.78,BrokerA,Active
+100291,Alice,Mutual Funds,82341.94,2020-04-30,2028-07-16,Medium,12.85,BrokerA,Active
+100292,David,Crypto,70087.76,2021-04-13,2028-08-18,Low,1.99,BrokerA,Pending
+100293,Charlie,Crypto,15491.03,2020-05-18,2026-11-17,High,10.39,BrokerB,Closed
+100294,Alice,Real Estate,32472.81,2020-03-05,2025-05-15,High,5.37,BrokerC,Closed
+100295,David,Stocks,34431.65,2024-10-26,2026-11-07,Medium,9.05,BrokerA,Closed
+100296,Fay,Bonds,28745.91,2021-11-07,2025-07-13,Low,5.27,BrokerA,Closed
+100297,David,Stocks,53925.54,2020-05-25,2028-02-17,Medium,6.21,BrokerD,Active
+100298,Fay,Bonds,55877.61,2022-11-18,2028-10-21,High,13.96,BrokerD,Pending
+100299,Charlie,Bonds,38904.17,2021-05-02,2027-03-03,Low,4.29,BrokerA,Active
+100300,Fay,Stocks,38609.97,2021-07-24,2026-08-05,High,13.3,BrokerD,Pending
+100301,Alice,Crypto,83712.78,2023-10-02,2026-06-01,High,1.91,BrokerD,Closed
+100302,Charlie,Bonds,79982.82,2022-09-21,2029-01-22,Low,2.73,BrokerD,Pending
+100303,Alice,Stocks,34240.6,2021-03-14,2029-10-11,Low,13.04,BrokerB,Active
+100304,Eve,Bonds,91809.9,2023-01-09,2028-09-06,Medium,10.01,BrokerA,Active
+100305,Bob,Mutual Funds,95517.43,2020-09-27,2028-05-19,Medium,11.59,BrokerA,Closed
+100306,Fay,Crypto,36040.54,2024-01-21,2029-11-24,High,4.33,BrokerD,Active
+100307,Bob,Real Estate,38670.37,2024-12-12,2025-11-04,Low,8.75,BrokerB,Active
+100308,Bob,Bonds,53035.24,2023-03-15,2026-11-14,Low,11.45,BrokerD,Pending
+100309,Fay,Mutual Funds,94406.48,2023-03-26,2025-06-16,Medium,9.97,BrokerB,Active
+100310,Charlie,Real Estate,88250.35,2022-08-26,2028-04-08,High,7.87,BrokerA,Closed
+100311,Eve,Real Estate,14743.96,2021-05-12,2028-09-21,High,14.46,BrokerD,Closed
+100312,Alice,Bonds,42309.42,2024-05-25,2025-10-17,Medium,10.63,BrokerA,Active
+100313,David,Stocks,57570.26,2022-08-26,2026-12-18,Low,13.75,BrokerB,Closed
+100314,Alice,Bonds,52797.58,2024-07-11,2026-09-28,Medium,11.35,BrokerC,Pending
+100315,David,Mutual Funds,23416.99,2022-04-13,2028-09-05,Medium,11.43,BrokerB,Pending
+100316,Alice,Real Estate,86587.59,2021-01-24,2028-12-01,Medium,2.58,BrokerC,Active
+100317,Fay,Bonds,69309.37,2020-07-12,2028-09-18,Medium,6.35,BrokerA,Active
+100318,Eve,Stocks,84601.3,2020-07-17,2027-03-14,Low,13.09,BrokerA,Pending
+100319,David,Bonds,86582.61,2023-09-11,2025-09-22,Medium,4.64,BrokerD,Closed
+100320,Charlie,Crypto,76093.81,2022-06-01,2028-05-03,Low,3.06,BrokerC,Active
+100321,Alice,Stocks,46725.01,2021-12-26,2028-12-22,Medium,5.9,BrokerB,Active
+100322,Alice,Mutual Funds,63001.94,2022-05-17,2025-06-23,High,4.48,BrokerA,Closed
+100323,David,Real Estate,20234.71,2022-04-21,2026-09-27,Low,13.99,BrokerC,Active
+100324,Charlie,Bonds,68996.31,2022-08-14,2028-02-19,High,13.22,BrokerB,Closed
+100325,Charlie,Stocks,22029.06,2024-11-04,2027-02-11,Medium,8.25,BrokerC,Closed
+100326,Fay,Crypto,70925.21,2024-02-02,2028-08-10,Medium,2.33,BrokerB,Closed
+100327,Fay,Stocks,26811.83,2020-04-20,2029-06-10,Medium,11.15,BrokerB,Closed
+100328,Fay,Crypto,16167.37,2023-10-11,2026-11-04,Low,9.92,BrokerB,Closed
+100329,Fay,Mutual Funds,20702.03,2023-08-31,2029-07-24,High,14.6,BrokerB,Pending
+100330,Fay,Real Estate,5189.25,2023-08-16,2025-09-19,Low,9.05,BrokerC,Closed
+100331,Fay,Mutual Funds,73280.26,2020-07-20,2028-10-04,Low,6.04,BrokerC,Pending
+100332,Eve,Bonds,74578.1,2020-05-04,2028-12-10,Medium,8.51,BrokerD,Closed
+100333,Charlie,Stocks,53918.67,2022-04-04,2029-08-25,High,14.72,BrokerC,Active
+100334,Fay,Crypto,20329.47,2024-01-31,2029-02-22,Medium,10.9,BrokerC,Pending
+100335,Charlie,Crypto,12937.66,2021-11-25,2028-11-04,Low,10.57,BrokerD,Active
+100336,Charlie,Stocks,6817.25,2024-06-27,2027-12-15,Medium,4.75,BrokerC,Closed
+100337,Bob,Stocks,20746.08,2024-10-30,2025-07-11,High,11.54,BrokerB,Closed
+100338,Eve,Bonds,89631.28,2020-08-11,2028-08-16,Medium,11.63,BrokerA,Active
+100339,Fay,Mutual Funds,27946.0,2021-05-24,2028-10-05,High,5.78,BrokerA,Closed
+100340,Alice,Crypto,38655.78,2021-01-27,2027-05-18,High,8.03,BrokerD,Active
+100341,David,Bonds,15007.82,2021-01-24,2027-11-08,Medium,5.48,BrokerC,Closed
+100342,Alice,Mutual Funds,26124.32,2023-01-03,2027-01-12,Low,4.99,BrokerC,Closed
+100343,Eve,Bonds,54326.33,2022-07-07,2025-02-07,Medium,1.85,BrokerD,Pending
+100344,David,Crypto,62736.5,2020-10-14,2027-01-13,Low,5.35,BrokerA,Active
+100345,Eve,Stocks,28308.47,2022-05-14,2026-09-25,Low,8.98,BrokerB,Closed
+100346,Charlie,Stocks,10484.56,2021-01-10,2026-01-05,Medium,1.52,BrokerC,Active
+100347,David,Mutual Funds,42148.12,2021-07-24,2026-03-15,Low,5.32,BrokerD,Pending
+100348,Charlie,Real Estate,27249.32,2022-08-05,2026-12-01,Low,13.4,BrokerB,Active
+100349,Alice,Mutual Funds,25857.62,2021-05-26,2029-04-19,Medium,9.51,BrokerD,Pending
+100350,Alice,Real Estate,96186.97,2024-11-25,2027-09-23,Medium,9.71,BrokerD,Active
+100351,David,Bonds,63548.55,2020-06-03,2026-01-29,Medium,6.95,BrokerD,Active
+100352,David,Bonds,57903.45,2022-06-26,2026-04-09,Low,10.63,BrokerA,Pending
+100353,Fay,Crypto,44498.63,2024-07-12,2025-10-09,High,4.06,BrokerA,Closed
+100354,Eve,Real Estate,45749.71,2024-10-30,2025-11-14,Low,12.55,BrokerD,Closed
+100355,Fay,Crypto,56385.98,2024-10-19,2025-06-08,High,3.08,BrokerC,Closed
+100356,Eve,Stocks,71160.83,2023-02-01,2026-08-29,Medium,10.36,BrokerB,Active
+100357,Fay,Real Estate,71703.88,2020-07-19,2029-09-26,High,6.11,BrokerC,Active
+100358,Charlie,Mutual Funds,21310.92,2020-04-13,2029-06-03,Medium,11.59,BrokerA,Closed
+100359,David,Stocks,52510.71,2023-08-28,2025-07-27,Medium,8.92,BrokerB,Active
+100360,Alice,Stocks,44136.02,2023-01-12,2027-11-06,High,7.61,BrokerD,Active
+100361,Eve,Mutual Funds,87700.06,2024-09-08,2029-04-28,Medium,3.79,BrokerC,Closed
+100362,Eve,Stocks,64984.8,2020-01-31,2028-01-11,High,10.1,BrokerC,Pending
+100363,Alice,Real Estate,55587.89,2020-07-10,2029-09-07,Medium,14.66,BrokerD,Active
+100364,Fay,Crypto,15962.49,2024-03-23,2029-02-21,Low,12.65,BrokerC,Active
+100365,Eve,Stocks,62535.6,2024-10-04,2029-12-15,Low,2.31,BrokerA,Active
+100366,Charlie,Real Estate,16134.37,2021-04-29,2027-12-15,Medium,6.58,BrokerD,Active
+100367,David,Bonds,37034.62,2020-12-06,2025-03-19,Medium,14.0,BrokerC,Pending
+100368,Alice,Real Estate,18569.99,2022-04-12,2028-09-17,High,8.29,BrokerD,Closed
+100369,David,Crypto,70747.0,2022-09-21,2026-11-21,Low,10.44,BrokerB,Active
+100370,Eve,Real Estate,24593.95,2022-09-12,2029-11-30,High,13.82,BrokerD,Closed
+100371,Eve,Mutual Funds,42226.64,2021-03-13,2029-04-19,Medium,13.3,BrokerC,Active
+100372,Alice,Crypto,90089.1,2024-11-05,2028-06-19,Medium,8.27,BrokerA,Pending
+100373,Charlie,Bonds,24410.06,2022-04-01,2025-09-26,High,7.41,BrokerD,Closed
+100374,Bob,Mutual Funds,53241.48,2020-04-30,2028-05-08,Medium,6.09,BrokerD,Pending
+100375,Alice,Real Estate,44830.81,2020-12-03,2027-02-11,Low,11.21,BrokerC,Active
+100376,Bob,Crypto,6721.78,2022-02-15,2025-11-12,High,5.37,BrokerA,Pending
+100377,Fay,Bonds,80312.02,2020-01-05,2025-11-29,Low,4.87,BrokerA,Pending
+100378,Bob,Mutual Funds,11559.36,2022-03-10,2026-01-06,Low,6.31,BrokerB,Active
+100379,Charlie,Bonds,50054.23,2021-06-27,2029-08-30,Low,3.89,BrokerB,Active
+100380,Fay,Real Estate,58264.44,2024-05-24,2028-11-19,High,10.88,BrokerC,Closed
+100381,Bob,Bonds,64700.51,2024-05-26,2029-04-29,Medium,9.82,BrokerA,Active
+100382,Fay,Stocks,70420.0,2022-07-20,2028-07-03,Low,8.02,BrokerA,Closed
+100383,Bob,Mutual Funds,29060.88,2021-08-07,2029-07-15,Low,6.77,BrokerB,Pending
+100384,Charlie,Bonds,5947.98,2022-05-16,2025-12-06,Low,13.77,BrokerB,Pending
+100385,Bob,Real Estate,73727.15,2023-11-27,2029-01-16,Medium,1.89,BrokerC,Closed
+100386,Bob,Real Estate,55887.38,2024-02-05,2027-06-16,Medium,11.88,BrokerA,Active
+100387,Bob,Bonds,84431.18,2024-05-23,2025-03-31,High,13.68,BrokerD,Active
+100388,Alice,Real Estate,83031.89,2023-02-12,2027-04-22,Medium,7.53,BrokerB,Pending
+100389,Alice,Crypto,85115.99,2023-09-17,2027-01-17,High,8.93,BrokerC,Closed
+100390,Alice,Crypto,51083.99,2024-01-11,2028-10-17,High,14.25,BrokerA,Pending
+100391,Charlie,Crypto,36694.7,2022-09-23,2029-01-13,High,4.37,BrokerA,Pending
+100392,Fay,Stocks,80198.03,2020-11-13,2026-05-02,High,8.52,BrokerB,Active
+100393,Eve,Bonds,47872.94,2021-01-23,2027-06-29,High,7.91,BrokerC,Closed
+100394,Bob,Stocks,22427.01,2021-08-30,2028-06-04,Low,4.99,BrokerD,Pending
+100395,Bob,Real Estate,86222.53,2021-03-21,2026-08-07,Medium,12.55,BrokerB,Active
+100396,Charlie,Stocks,88843.19,2020-04-29,2029-03-21,Low,13.64,BrokerC,Pending
+100397,Bob,Real Estate,49299.43,2023-04-01,2029-03-14,High,12.06,BrokerA,Pending
+100398,Alice,Real Estate,12191.47,2024-02-15,2029-05-25,Medium,4.14,BrokerD,Active
+100399,Eve,Mutual Funds,41843.48,2023-01-15,2027-07-09,Low,2.67,BrokerC,Active
+100400,David,Crypto,81336.08,2020-05-04,2026-04-25,Low,9.67,BrokerD,Closed
+100401,Bob,Real Estate,90668.53,2024-03-11,2027-12-30,High,2.27,BrokerC,Pending
+100402,Alice,Mutual Funds,24329.91,2021-10-04,2026-05-05,Low,10.58,BrokerC,Closed
+100403,David,Crypto,11362.49,2020-04-27,2026-09-26,Low,8.66,BrokerC,Active
+100404,Eve,Real Estate,88348.29,2020-04-12,2029-07-15,Low,10.45,BrokerC,Active
+100405,David,Real Estate,41993.47,2023-04-11,2029-05-26,Low,9.47,BrokerD,Pending
+100406,Alice,Stocks,56467.29,2022-09-03,2027-08-19,Low,7.21,BrokerB,Closed
+100407,Fay,Stocks,96966.25,2022-10-26,2029-09-07,High,4.21,BrokerD,Closed
+100408,Fay,Crypto,11323.65,2024-10-12,2026-02-02,High,5.63,BrokerC,Pending
+100409,David,Real Estate,66590.21,2022-12-23,2027-01-24,Low,8.58,BrokerD,Pending
+100410,Charlie,Bonds,12040.02,2020-11-18,2028-10-21,High,10.3,BrokerD,Closed
+100411,David,Stocks,40669.55,2020-04-26,2028-03-14,High,12.02,BrokerD,Active
+100412,Bob,Crypto,81362.38,2022-11-06,2027-06-22,Medium,11.86,BrokerC,Active
+100413,Bob,Real Estate,46179.86,2020-06-13,2027-08-04,Low,14.63,BrokerD,Pending
+100414,Fay,Real Estate,99732.32,2024-10-09,2029-04-25,High,5.36,BrokerA,Closed
+100415,Charlie,Bonds,58110.63,2021-01-15,2026-08-01,High,2.46,BrokerC,Closed
+100416,Alice,Crypto,35510.4,2020-05-20,2029-05-13,Low,6.17,BrokerD,Closed
+100417,Bob,Real Estate,25910.58,2023-05-03,2027-02-22,Medium,11.53,BrokerA,Active
+100418,Fay,Stocks,38299.45,2020-05-19,2027-10-27,Low,7.41,BrokerD,Active
+100419,Eve,Bonds,40390.66,2023-10-14,2027-12-17,Medium,12.54,BrokerB,Closed
+100420,Fay,Crypto,11527.8,2024-10-31,2027-05-08,Low,8.92,BrokerD,Closed
+100421,Bob,Bonds,40109.55,2021-04-26,2025-11-28,Low,14.05,BrokerD,Pending
+100422,Bob,Stocks,49102.66,2022-04-06,2029-07-31,Low,14.3,BrokerB,Pending
+100423,Fay,Crypto,73660.09,2020-09-02,2026-02-13,Low,2.44,BrokerC,Closed
+100424,Alice,Bonds,67389.3,2024-12-28,2029-06-29,Medium,7.66,BrokerB,Closed
+100425,David,Mutual Funds,72332.74,2023-03-12,2028-05-23,Medium,9.73,BrokerC,Active
+100426,Bob,Stocks,5794.55,2021-05-19,2025-10-11,High,4.95,BrokerB,Closed
+100427,Fay,Stocks,25678.4,2023-03-31,2029-11-23,Low,7.0,BrokerD,Pending
+100428,Fay,Stocks,67860.01,2023-05-02,2026-05-28,Medium,10.65,BrokerD,Active
+100429,Charlie,Mutual Funds,50978.99,2020-03-22,2025-04-17,Medium,4.56,BrokerC,Pending
+100430,David,Mutual Funds,5504.78,2023-06-22,2028-08-06,Medium,9.63,BrokerC,Pending
+100431,Eve,Real Estate,81426.99,2020-06-16,2027-09-12,Low,10.92,BrokerA,Active
+100432,Alice,Bonds,78416.91,2022-05-08,2029-11-26,High,2.72,BrokerA,Pending
+100433,Eve,Real Estate,57099.82,2023-09-08,2027-01-31,Medium,8.22,BrokerD,Closed
+100434,David,Bonds,11314.02,2023-04-10,2028-02-10,Low,5.05,BrokerD,Pending
+100435,David,Mutual Funds,77818.93,2023-03-03,2025-07-30,Medium,11.28,BrokerA,Active
+100436,David,Mutual Funds,60452.79,2022-12-06,2028-12-27,Medium,4.06,BrokerA,Active
+100437,Eve,Real Estate,79286.2,2021-10-09,2029-09-29,High,13.55,BrokerC,Active
+100438,David,Crypto,76415.96,2021-06-18,2027-11-23,Medium,7.32,BrokerB,Pending
+100439,Fay,Real Estate,81285.2,2021-02-22,2029-10-10,Medium,4.17,BrokerC,Closed
+100440,Eve,Bonds,54210.77,2023-10-03,2025-09-13,Low,7.41,BrokerA,Active
+100441,David,Real Estate,18330.83,2024-01-06,2026-08-07,Low,7.02,BrokerD,Closed
+100442,Fay,Stocks,68759.96,2021-10-05,2025-06-21,High,7.29,BrokerA,Active
+100443,Charlie,Bonds,63945.01,2021-05-03,2029-04-12,Low,9.41,BrokerD,Closed
+100444,David,Bonds,75514.05,2021-06-27,2025-11-25,Low,8.54,BrokerD,Closed
+100445,Eve,Crypto,21138.7,2022-03-21,2026-07-13,High,3.52,BrokerD,Closed
+100446,Bob,Mutual Funds,23522.64,2020-09-25,2027-07-10,Medium,2.39,BrokerD,Active
+100447,David,Bonds,89588.9,2023-10-07,2027-11-18,High,11.35,BrokerB,Pending
+100448,Bob,Mutual Funds,76247.89,2023-08-14,2025-10-29,Low,9.06,BrokerA,Pending
+100449,Fay,Real Estate,91281.71,2021-09-06,2029-08-29,High,6.35,BrokerC,Pending
+100450,Charlie,Stocks,77077.96,2022-07-25,2027-06-15,Medium,12.41,BrokerD,Closed
+100451,Alice,Crypto,61729.75,2021-10-09,2025-07-07,High,6.74,BrokerD,Active
+100452,Charlie,Mutual Funds,67142.61,2024-03-19,2026-03-31,Low,12.25,BrokerC,Closed
+100453,David,Bonds,89467.15,2020-05-28,2029-07-31,Low,5.63,BrokerC,Active
+100454,Bob,Mutual Funds,59986.64,2020-01-20,2027-07-13,High,2.48,BrokerD,Closed
+100455,Bob,Bonds,65077.18,2022-07-27,2029-12-17,Medium,14.09,BrokerC,Active
+100456,Eve,Mutual Funds,19865.29,2023-06-26,2026-12-17,High,6.83,BrokerC,Active
+100457,Bob,Bonds,50022.52,2023-02-27,2025-02-24,Medium,12.2,BrokerB,Active
+100458,Eve,Real Estate,73057.73,2020-07-23,2027-04-30,Medium,5.27,BrokerC,Closed
+100459,Fay,Bonds,30739.56,2020-05-30,2025-04-20,High,10.23,BrokerA,Pending
+100460,Alice,Bonds,24214.15,2023-01-06,2027-03-23,Medium,13.29,BrokerA,Closed
+100461,David,Stocks,34813.55,2021-03-12,2027-10-26,Low,2.06,BrokerA,Closed
+100462,Eve,Bonds,27942.56,2022-11-02,2027-02-05,High,12.71,BrokerD,Active
+100463,Alice,Stocks,25416.7,2021-06-27,2026-04-28,Medium,9.21,BrokerA,Active
+100464,Bob,Crypto,45360.83,2020-09-28,2027-03-02,Low,9.7,BrokerB,Pending
+100465,Bob,Stocks,91244.66,2021-12-15,2025-06-17,High,8.56,BrokerA,Pending
+100466,Alice,Real Estate,53170.67,2024-12-09,2027-02-07,Low,13.31,BrokerD,Active
+100467,Bob,Stocks,22852.44,2020-05-20,2026-04-05,Low,2.09,BrokerB,Pending
+100468,Fay,Crypto,12312.31,2024-12-05,2025-02-27,Low,5.02,BrokerA,Pending
+100469,Fay,Real Estate,71134.83,2021-05-15,2026-10-15,Medium,13.32,BrokerB,Active
+100470,Alice,Mutual Funds,41365.88,2022-01-26,2025-07-22,High,11.66,BrokerB,Closed
+100471,Eve,Mutual Funds,83073.94,2021-08-06,2029-09-15,High,1.74,BrokerD,Pending
+100472,Eve,Stocks,67653.52,2020-11-19,2029-01-03,Medium,8.48,BrokerD,Active
+100473,Alice,Stocks,80642.94,2022-06-16,2028-08-24,High,8.65,BrokerB,Pending
+100474,Eve,Crypto,30834.87,2024-09-03,2026-11-18,Low,6.91,BrokerA,Pending
+100475,Eve,Crypto,70774.1,2023-01-17,2029-06-09,High,5.51,BrokerD,Active
+100476,Fay,Bonds,30085.89,2023-12-11,2025-10-27,Medium,10.7,BrokerB,Pending
+100477,Eve,Crypto,94211.51,2021-09-11,2025-10-09,Low,4.31,BrokerC,Pending
+100478,Charlie,Bonds,65455.56,2023-06-06,2025-03-20,Medium,12.29,BrokerC,Pending
+100479,David,Real Estate,35828.62,2024-07-10,2026-08-11,Low,12.34,BrokerD,Closed
+100480,Bob,Stocks,30603.63,2023-09-01,2029-08-27,Low,7.11,BrokerA,Closed
+100481,Charlie,Real Estate,23138.03,2022-12-19,2027-08-26,High,5.33,BrokerC,Pending
+100482,Eve,Crypto,70990.89,2020-01-17,2028-11-26,Low,5.33,BrokerC,Active
+100483,Fay,Real Estate,25777.98,2023-09-29,2029-08-30,Medium,8.01,BrokerC,Pending
+100484,Alice,Real Estate,61553.81,2024-07-31,2025-10-12,High,11.21,BrokerA,Pending
+100485,Eve,Real Estate,30140.33,2023-02-09,2029-04-04,Medium,6.34,BrokerA,Closed
+100486,Fay,Crypto,67887.05,2021-09-05,2028-12-15,Low,9.74,BrokerD,Closed
+100487,David,Real Estate,82419.27,2023-09-20,2027-08-19,Medium,6.66,BrokerD,Closed
+100488,Eve,Bonds,78912.4,2020-07-31,2027-07-08,Medium,5.61,BrokerC,Pending
+100489,Alice,Crypto,77280.88,2024-12-03,2028-06-14,Low,1.84,BrokerA,Pending
+100490,Fay,Real Estate,22833.63,2020-10-02,2025-01-11,High,1.55,BrokerB,Active
+100491,Fay,Crypto,13396.57,2021-06-25,2025-06-12,Medium,4.57,BrokerC,Pending
+100492,Fay,Mutual Funds,71400.14,2020-08-24,2025-02-08,Low,6.99,BrokerD,Pending
+100493,David,Bonds,39992.99,2024-12-27,2026-06-09,High,12.99,BrokerA,Closed
+100494,Eve,Real Estate,46072.89,2020-08-07,2026-03-18,High,12.28,BrokerD,Closed
+100495,David,Mutual Funds,7959.16,2024-02-29,2029-09-07,High,5.11,BrokerD,Closed
+100496,Bob,Mutual Funds,29659.76,2023-02-07,2025-11-03,Medium,4.8,BrokerA,Closed
+100497,Bob,Crypto,8199.26,2020-11-14,2028-01-29,Medium,4.57,BrokerC,Closed
+100498,Eve,Mutual Funds,88522.65,2021-07-11,2029-01-29,Medium,6.08,BrokerA,Active
+100499,David,Bonds,28122.68,2021-07-31,2028-05-31,High,8.23,BrokerC,Active
+100500,Alice,Bonds,57947.03,2023-05-23,2027-12-17,Medium,7.42,BrokerD,Active
+100501,Fay,Stocks,8703.04,2021-03-07,2027-05-17,Low,4.45,BrokerA,Closed
+100502,Fay,Bonds,68350.5,2024-01-09,2025-08-16,Medium,3.26,BrokerB,Closed
+100503,Eve,Mutual Funds,35687.6,2021-12-03,2029-05-09,Medium,1.67,BrokerC,Closed
+100504,Bob,Bonds,90302.32,2021-02-20,2026-08-14,High,3.58,BrokerB,Active
+100505,Bob,Crypto,89371.23,2023-11-08,2026-05-02,Medium,11.02,BrokerC,Closed
+100506,Fay,Stocks,35902.61,2023-07-22,2026-09-09,Low,4.79,BrokerA,Active
+100507,Eve,Mutual Funds,90591.29,2024-10-12,2025-09-07,High,7.83,BrokerB,Closed
+100508,David,Stocks,99634.98,2021-06-24,2025-04-08,Low,9.48,BrokerA,Pending
+100509,Bob,Mutual Funds,83414.49,2022-11-01,2026-05-04,High,13.47,BrokerC,Active
+100510,David,Crypto,85262.78,2022-09-27,2027-05-10,High,13.5,BrokerC,Pending
+100511,Bob,Stocks,28655.83,2021-05-29,2028-08-01,Medium,11.57,BrokerC,Active
+100512,Bob,Real Estate,59786.73,2024-09-28,2029-06-14,Low,1.97,BrokerC,Closed
+100513,Charlie,Mutual Funds,11389.31,2020-04-14,2028-06-29,High,9.26,BrokerD,Closed
+100514,Bob,Real Estate,14017.2,2020-07-08,2027-07-26,Medium,12.12,BrokerC,Pending
+100515,Alice,Stocks,99894.8,2023-07-23,2025-05-09,High,1.73,BrokerB,Closed
+100516,Eve,Real Estate,36030.73,2022-05-17,2025-08-16,High,8.92,BrokerC,Active
+100517,Eve,Real Estate,76077.47,2024-08-25,2029-09-10,High,13.08,BrokerA,Closed
+100518,David,Stocks,81633.18,2021-07-20,2027-10-21,High,7.9,BrokerD,Closed
+100519,Bob,Crypto,86512.21,2020-03-31,2028-05-07,High,1.56,BrokerB,Active
+100520,Alice,Real Estate,99774.69,2020-01-08,2028-01-03,High,1.65,BrokerD,Pending
+100521,David,Real Estate,27942.17,2021-11-14,2025-02-03,Medium,7.12,BrokerD,Pending
+100522,Charlie,Crypto,8833.33,2024-04-28,2028-07-18,High,3.59,BrokerD,Closed
+100523,David,Real Estate,44063.19,2020-09-24,2027-11-22,Low,10.47,BrokerA,Active
+100524,David,Real Estate,17357.66,2023-07-28,2028-03-23,Medium,11.07,BrokerD,Pending
+100525,Bob,Real Estate,7130.46,2021-06-20,2026-05-11,Low,3.9,BrokerD,Pending
+100526,Charlie,Bonds,39240.55,2020-11-26,2029-01-11,High,13.5,BrokerC,Closed
+100527,David,Crypto,79455.13,2024-02-27,2025-10-22,Low,7.47,BrokerA,Active
+100528,Alice,Real Estate,58787.17,2022-06-23,2026-08-20,High,3.43,BrokerB,Pending
+100529,Alice,Crypto,34713.91,2023-02-03,2027-05-30,High,11.82,BrokerB,Closed
+100530,Eve,Mutual Funds,67162.49,2023-12-16,2025-01-04,Medium,12.16,BrokerB,Closed
+100531,Charlie,Mutual Funds,27041.73,2022-05-25,2028-06-13,Medium,10.13,BrokerA,Closed
+100532,Charlie,Real Estate,6366.24,2023-02-22,2026-12-24,High,13.02,BrokerB,Closed
+100533,Eve,Crypto,77613.57,2020-01-20,2026-05-08,Medium,11.45,BrokerA,Pending
+100534,David,Crypto,64255.59,2020-08-17,2028-03-14,Low,13.41,BrokerC,Active
+100535,Charlie,Crypto,77418.75,2020-06-03,2027-05-04,Medium,7.36,BrokerC,Closed
+100536,Alice,Bonds,8699.11,2024-12-13,2026-01-19,Medium,11.59,BrokerA,Closed
+100537,Alice,Mutual Funds,84526.36,2023-11-16,2028-09-22,Low,15.0,BrokerB,Pending
+100538,Bob,Crypto,63854.99,2020-11-01,2028-09-30,Medium,11.29,BrokerA,Closed
+100539,Charlie,Crypto,58522.56,2023-01-22,2025-06-25,High,3.04,BrokerA,Closed
+100540,David,Bonds,64338.33,2020-03-14,2027-12-09,Low,8.5,BrokerD,Active
+100541,Eve,Bonds,87121.16,2024-09-05,2027-01-09,High,9.43,BrokerA,Closed
+100542,Eve,Crypto,60758.97,2022-01-26,2025-05-19,Low,3.85,BrokerD,Pending
+100543,David,Stocks,60190.29,2023-04-07,2027-12-14,High,14.5,BrokerC,Active
+100544,Fay,Crypto,99114.52,2023-02-05,2028-01-20,High,3.87,BrokerD,Pending
+100545,Bob,Crypto,76889.37,2020-10-30,2027-11-06,Medium,3.9,BrokerA,Active
+100546,Eve,Bonds,47017.91,2022-05-30,2029-05-30,High,13.85,BrokerC,Active
+100547,Charlie,Bonds,72202.72,2020-09-18,2027-11-06,Medium,7.78,BrokerD,Closed
+100548,Bob,Crypto,41976.89,2020-03-26,2028-02-09,Low,2.35,BrokerA,Closed
+100549,Charlie,Crypto,26743.17,2021-09-23,2025-02-11,High,9.58,BrokerC,Closed
+100550,Alice,Crypto,61700.93,2022-01-16,2027-03-11,High,9.62,BrokerD,Pending
+100551,Bob,Bonds,93177.3,2024-06-18,2029-11-24,Low,2.37,BrokerA,Closed
+100552,Eve,Crypto,93268.25,2024-10-28,2027-08-21,Low,14.63,BrokerA,Closed
+100553,Bob,Crypto,37481.0,2020-03-22,2025-03-31,High,8.84,BrokerB,Active
+100554,Bob,Real Estate,55129.36,2022-01-02,2028-07-25,Low,9.06,BrokerB,Closed
+100555,Bob,Stocks,25105.41,2021-03-06,2027-03-04,Medium,8.52,BrokerD,Closed
+100556,Fay,Mutual Funds,99584.96,2023-10-28,2027-02-04,Low,9.74,BrokerD,Closed
+100557,Bob,Stocks,98206.2,2021-05-26,2026-06-04,Low,5.07,BrokerD,Closed
+100558,Charlie,Real Estate,66703.35,2023-09-27,2029-03-11,High,5.38,BrokerA,Active
+100559,Alice,Mutual Funds,81419.34,2020-07-29,2025-02-03,Medium,8.4,BrokerD,Closed
+100560,David,Crypto,72934.52,2021-12-25,2027-01-02,Low,12.39,BrokerA,Active
+100561,Bob,Real Estate,61350.03,2024-05-16,2029-06-03,Medium,2.17,BrokerD,Pending
+100562,Eve,Crypto,10068.06,2023-02-20,2025-05-19,Medium,9.65,BrokerA,Closed
+100563,Bob,Bonds,48202.61,2024-12-15,2026-12-08,Medium,12.39,BrokerA,Closed
+100564,Eve,Real Estate,69104.7,2024-11-26,2026-05-09,High,3.62,BrokerB,Closed
+100565,Charlie,Bonds,69365.5,2022-04-12,2029-02-10,Low,1.7,BrokerC,Active
+100566,Eve,Real Estate,40446.65,2023-06-25,2028-09-07,High,5.72,BrokerA,Closed
+100567,David,Real Estate,94460.74,2024-03-14,2028-07-10,Low,9.44,BrokerD,Closed
+100568,Alice,Bonds,20898.92,2020-11-12,2025-08-01,Low,3.37,BrokerB,Pending
+100569,Eve,Mutual Funds,52534.15,2021-04-29,2029-04-30,High,7.25,BrokerD,Active
+100570,Eve,Stocks,70633.98,2024-11-05,2028-04-06,Medium,8.96,BrokerD,Active
+100571,Alice,Crypto,71227.9,2020-11-28,2029-02-14,Medium,9.58,BrokerA,Pending
+100572,David,Real Estate,66620.7,2024-06-26,2029-03-30,Low,5.2,BrokerA,Active
+100573,Bob,Crypto,31152.38,2024-07-18,2026-11-12,High,6.9,BrokerC,Closed
+100574,Eve,Bonds,19839.62,2020-12-28,2025-10-01,Medium,12.01,BrokerA,Closed
+100575,Alice,Crypto,65414.33,2024-12-10,2025-04-01,Medium,14.21,BrokerA,Pending
+100576,Charlie,Bonds,61933.7,2022-04-24,2026-12-23,Low,13.14,BrokerC,Active
+100577,Alice,Crypto,22038.82,2020-02-20,2028-01-24,Low,9.12,BrokerD,Active
+100578,Charlie,Stocks,71988.22,2021-01-02,2026-11-25,High,7.04,BrokerC,Active
+100579,David,Stocks,48241.34,2024-02-17,2029-07-25,Low,5.99,BrokerC,Pending
+100580,Bob,Stocks,68437.26,2021-11-11,2028-08-09,Medium,3.19,BrokerC,Closed
+100581,Alice,Stocks,84549.87,2024-05-21,2025-12-25,Medium,2.94,BrokerB,Pending
+100582,Fay,Stocks,21124.2,2022-04-23,2029-08-28,Medium,10.79,BrokerD,Closed
+100583,Eve,Stocks,6818.76,2024-06-30,2029-05-15,Medium,5.01,BrokerB,Pending
+100584,David,Bonds,79014.75,2023-10-03,2028-11-03,High,4.94,BrokerB,Closed
+100585,Alice,Real Estate,62921.26,2024-11-04,2027-08-10,High,14.98,BrokerA,Active
+100586,Eve,Crypto,71465.76,2024-02-14,2028-11-25,Low,4.04,BrokerC,Active
+100587,Alice,Stocks,84624.72,2024-07-18,2027-09-08,Low,3.5,BrokerC,Active
+100588,Charlie,Bonds,81267.04,2021-05-23,2028-07-17,Low,2.83,BrokerB,Pending
+100589,Alice,Bonds,96287.41,2021-06-30,2026-01-09,High,9.33,BrokerA,Pending
+100590,Fay,Bonds,55913.83,2020-11-22,2029-07-20,Medium,9.98,BrokerA,Pending
+100591,Alice,Real Estate,51407.09,2024-05-31,2025-10-04,Low,6.43,BrokerA,Active
+100592,Alice,Crypto,43179.28,2023-12-07,2025-05-10,Medium,8.73,BrokerD,Closed
+100593,Fay,Real Estate,19600.65,2020-08-09,2029-01-06,Low,12.14,BrokerB,Active
+100594,David,Mutual Funds,59397.69,2022-02-22,2029-05-09,Low,12.54,BrokerD,Active
+100595,Alice,Bonds,31316.19,2024-11-21,2027-07-27,Low,14.43,BrokerA,Closed
+100596,Fay,Mutual Funds,92524.21,2020-03-20,2025-03-17,Low,12.63,BrokerA,Closed
+100597,Eve,Stocks,60403.13,2024-10-24,2026-08-24,Low,9.13,BrokerA,Closed
+100598,Charlie,Stocks,61319.82,2022-08-21,2026-02-17,Medium,3.93,BrokerC,Closed
+100599,Charlie,Real Estate,38717.84,2021-03-31,2025-03-31,Low,2.85,BrokerB,Active
+100600,Alice,Crypto,9938.99,2021-02-12,2029-06-09,Medium,2.24,BrokerC,Pending
+100601,David,Mutual Funds,8015.66,2024-07-30,2026-02-13,High,10.5,BrokerD,Active
+100602,David,Crypto,45216.84,2022-07-31,2029-12-20,Low,12.4,BrokerC,Closed
+100603,Eve,Real Estate,13033.71,2021-12-17,2025-03-27,Medium,8.37,BrokerB,Pending
+100604,Alice,Stocks,62650.46,2021-09-17,2026-10-09,High,2.24,BrokerC,Pending
+100605,Charlie,Crypto,88692.44,2024-08-07,2026-09-28,High,8.73,BrokerA,Active
+100606,David,Crypto,88876.91,2024-06-16,2027-11-22,High,14.13,BrokerD,Active
+100607,Alice,Stocks,67609.31,2024-11-19,2027-03-27,Medium,9.57,BrokerD,Active
+100608,David,Mutual Funds,25067.02,2021-04-11,2029-07-28,Low,12.43,BrokerA,Pending
+100609,Fay,Stocks,86984.7,2021-04-01,2028-01-18,Low,12.3,BrokerA,Pending
+100610,David,Crypto,89178.88,2020-02-18,2027-08-28,Medium,14.08,BrokerA,Pending
+100611,Charlie,Mutual Funds,23682.09,2023-09-13,2026-06-03,Low,11.9,BrokerB,Closed
+100612,Bob,Mutual Funds,75055.48,2021-01-30,2025-03-16,Medium,11.59,BrokerC,Closed
+100613,Eve,Stocks,32219.36,2022-03-27,2029-03-23,Low,4.66,BrokerD,Active
+100614,Eve,Crypto,81250.83,2021-11-03,2028-08-17,High,2.31,BrokerC,Pending
+100615,Charlie,Real Estate,99737.6,2021-07-24,2026-01-27,Low,8.49,BrokerA,Active
+100616,David,Crypto,7852.47,2024-11-05,2026-08-09,Medium,3.18,BrokerA,Pending
+100617,Alice,Bonds,90249.76,2020-05-22,2027-01-02,Medium,14.49,BrokerC,Active
+100618,David,Real Estate,64149.9,2024-05-02,2029-11-01,High,5.41,BrokerD,Closed
+100619,Charlie,Mutual Funds,97471.35,2021-07-25,2029-05-19,Medium,13.01,BrokerB,Pending
+100620,Eve,Real Estate,49175.9,2021-12-20,2025-04-08,Low,6.73,BrokerC,Closed
+100621,David,Mutual Funds,85501.85,2023-08-06,2029-11-09,Low,5.86,BrokerA,Pending
+100622,Eve,Mutual Funds,10927.44,2022-11-09,2028-09-04,High,14.12,BrokerA,Active
+100623,Alice,Real Estate,36851.51,2022-03-29,2026-11-11,Medium,6.4,BrokerB,Pending
+100624,Eve,Mutual Funds,11366.57,2023-10-23,2026-07-14,High,6.77,BrokerC,Closed
+100625,Eve,Mutual Funds,97657.6,2024-09-23,2025-09-12,Low,2.93,BrokerB,Pending
+100626,Bob,Bonds,82612.52,2023-01-03,2029-06-26,High,10.55,BrokerB,Active
+100627,Bob,Crypto,85992.01,2021-11-09,2027-01-24,Medium,5.4,BrokerD,Pending
+100628,Fay,Crypto,94106.7,2020-02-26,2027-06-14,High,9.41,BrokerD,Closed
+100629,Bob,Bonds,13084.83,2020-08-24,2029-12-27,Medium,9.48,BrokerA,Active
+100630,Eve,Real Estate,41631.77,2024-12-01,2027-03-31,Medium,11.21,BrokerC,Closed
+100631,Charlie,Stocks,11748.31,2021-06-18,2029-03-03,Low,11.56,BrokerD,Pending
+100632,Eve,Stocks,25025.34,2020-12-31,2027-06-20,Low,8.45,BrokerA,Closed
+100633,Charlie,Stocks,26789.75,2023-04-04,2027-03-03,Low,5.97,BrokerC,Pending
+100634,Charlie,Bonds,49565.19,2021-06-27,2026-11-26,Medium,12.81,BrokerA,Active
+100635,Bob,Bonds,30513.41,2020-03-19,2026-01-18,High,5.68,BrokerD,Closed
+100636,David,Mutual Funds,14592.92,2020-08-10,2027-10-14,Medium,8.35,BrokerA,Closed
+100637,Alice,Stocks,20911.65,2023-05-06,2028-11-18,Low,6.92,BrokerC,Pending
+100638,Bob,Real Estate,18991.18,2022-06-08,2027-10-16,Low,13.04,BrokerC,Closed
+100639,Bob,Real Estate,97442.3,2021-12-08,2027-01-23,High,7.33,BrokerA,Closed
+100640,David,Stocks,77132.79,2024-02-01,2029-06-21,Low,6.71,BrokerC,Active
+100641,Alice,Stocks,96937.34,2024-05-29,2027-11-30,Low,10.81,BrokerA,Pending
+100642,Eve,Stocks,46775.35,2021-10-04,2026-07-01,Low,9.63,BrokerC,Pending
+100643,Fay,Bonds,31445.01,2022-06-12,2029-06-29,High,2.95,BrokerA,Active
+100644,Fay,Bonds,80837.85,2023-05-26,2025-06-19,Medium,8.36,BrokerA,Active
+100645,Eve,Bonds,35994.12,2022-11-13,2029-01-29,Low,11.43,BrokerA,Pending
+100646,Bob,Crypto,33441.42,2020-08-24,2027-05-20,High,14.89,BrokerB,Active
+100647,Alice,Real Estate,27088.07,2022-02-27,2025-06-11,Low,9.99,BrokerC,Active
+100648,Bob,Real Estate,17319.5,2023-03-26,2027-06-01,High,6.5,BrokerD,Active
+100649,Charlie,Mutual Funds,29363.99,2021-01-24,2028-05-18,Low,4.55,BrokerA,Pending
+100650,Bob,Bonds,38755.38,2021-06-05,2029-08-12,High,13.28,BrokerB,Active
+100651,Bob,Crypto,69029.45,2020-03-31,2026-01-05,Low,12.5,BrokerD,Closed
+100652,Eve,Crypto,10943.66,2023-12-22,2028-01-23,Medium,4.66,BrokerA,Closed
+100653,Eve,Real Estate,24998.16,2022-06-12,2026-08-25,Low,4.21,BrokerD,Pending
+100654,Eve,Bonds,81857.25,2020-01-04,2026-10-20,High,11.15,BrokerB,Active
+100655,Fay,Mutual Funds,18957.58,2022-11-30,2025-07-30,Low,5.75,BrokerD,Closed
+100656,Charlie,Bonds,37551.29,2024-07-09,2025-06-13,Medium,5.64,BrokerA,Pending
+100657,Eve,Stocks,87142.6,2023-01-07,2026-11-03,Low,3.56,BrokerD,Closed
+100658,Alice,Bonds,19717.9,2023-11-07,2028-09-15,High,5.06,BrokerD,Active
+100659,Fay,Stocks,12860.0,2024-01-13,2026-08-29,High,7.27,BrokerA,Pending
+100660,David,Stocks,51031.11,2024-02-28,2026-09-20,Medium,11.39,BrokerB,Closed
+100661,Alice,Mutual Funds,33729.85,2024-02-18,2027-07-03,High,6.04,BrokerB,Pending
+100662,Alice,Real Estate,58523.79,2023-10-05,2028-05-19,Low,5.94,BrokerD,Closed
+100663,Eve,Bonds,81361.46,2021-02-07,2029-01-09,Low,5.35,BrokerC,Closed
+100664,David,Stocks,18029.11,2022-01-15,2027-05-23,Low,7.96,BrokerD,Active
+100665,David,Bonds,60166.41,2022-06-02,2025-12-08,High,3.94,BrokerC,Active
+100666,Fay,Real Estate,53023.33,2020-05-23,2028-11-13,Low,8.06,BrokerD,Closed
+100667,David,Real Estate,18687.48,2023-09-22,2027-06-29,Low,11.01,BrokerB,Pending
+100668,Charlie,Crypto,64279.86,2021-11-07,2026-12-21,Low,1.9,BrokerD,Pending
+100669,Eve,Real Estate,30995.84,2023-06-30,2027-07-05,Medium,1.63,BrokerD,Active
+100670,David,Mutual Funds,51344.26,2021-10-04,2025-03-28,High,2.51,BrokerC,Closed
+100671,Fay,Stocks,12815.87,2023-09-20,2029-01-28,High,8.73,BrokerB,Active
+100672,Charlie,Crypto,48660.49,2024-10-02,2029-11-17,High,13.04,BrokerC,Closed
+100673,Bob,Mutual Funds,34114.03,2020-09-12,2026-12-24,Medium,1.57,BrokerD,Closed
+100674,Bob,Bonds,83126.22,2024-01-14,2028-06-13,High,14.14,BrokerA,Active
+100675,Charlie,Stocks,10412.98,2021-09-07,2027-06-10,Medium,2.93,BrokerD,Pending
+100676,Fay,Real Estate,44767.69,2022-11-04,2026-07-17,Medium,12.87,BrokerD,Active
+100677,Charlie,Stocks,48550.99,2021-09-25,2028-08-02,High,8.02,BrokerC,Closed
+100678,Eve,Bonds,73875.58,2023-09-27,2029-06-09,Low,10.4,BrokerA,Active
+100679,Eve,Crypto,59557.32,2022-04-16,2025-04-28,Low,8.39,BrokerA,Pending
+100680,Bob,Crypto,68385.17,2021-10-30,2025-06-03,High,7.94,BrokerC,Pending
+100681,David,Crypto,78819.68,2022-04-04,2028-10-06,High,12.77,BrokerB,Closed
+100682,Fay,Real Estate,86909.28,2023-11-28,2028-07-29,Medium,11.7,BrokerA,Active
+100683,Bob,Mutual Funds,34818.17,2021-08-28,2027-04-12,High,8.03,BrokerA,Pending
+100684,David,Mutual Funds,56112.16,2023-02-09,2027-01-15,Medium,3.01,BrokerC,Active
+100685,David,Stocks,84810.27,2020-09-17,2027-11-17,High,3.06,BrokerB,Pending
+100686,Eve,Real Estate,98997.86,2021-01-27,2029-06-29,Low,12.32,BrokerB,Closed
+100687,Alice,Crypto,89504.33,2022-05-11,2029-03-16,Low,8.65,BrokerD,Closed
+100688,Alice,Crypto,40289.39,2023-09-23,2028-10-23,High,8.0,BrokerD,Active
+100689,Charlie,Bonds,23540.82,2022-02-15,2025-11-24,Medium,10.69,BrokerC,Closed
+100690,Eve,Bonds,51492.29,2023-10-19,2025-03-05,Low,13.09,BrokerB,Pending
+100691,David,Crypto,75455.94,2024-03-12,2025-10-20,Medium,9.99,BrokerC,Closed
+100692,Fay,Crypto,51794.06,2020-12-22,2029-10-05,High,11.8,BrokerD,Pending
+100693,Alice,Real Estate,50902.18,2023-06-14,2028-05-29,High,11.83,BrokerC,Pending
+100694,David,Mutual Funds,84631.89,2023-03-11,2028-10-20,Low,6.31,BrokerC,Closed
+100695,Alice,Bonds,39333.36,2021-09-08,2029-05-20,High,5.2,BrokerA,Pending
+100696,Alice,Mutual Funds,86680.49,2022-04-11,2027-06-17,Low,12.32,BrokerA,Pending
+100697,Alice,Real Estate,43646.46,2023-01-27,2025-03-13,Medium,6.59,BrokerA,Active
+100698,Fay,Crypto,36182.15,2024-09-03,2025-09-16,Low,13.7,BrokerD,Active
+100699,Eve,Mutual Funds,48129.04,2020-01-01,2025-05-18,Low,2.44,BrokerC,Active
+100700,Fay,Crypto,77432.46,2021-09-14,2026-04-29,Medium,2.29,BrokerA,Closed
+100701,Bob,Crypto,16970.19,2021-08-10,2029-05-14,Low,14.01,BrokerA,Active
+100702,David,Stocks,23659.83,2021-03-06,2028-08-14,Low,10.25,BrokerA,Pending
+100703,Eve,Mutual Funds,95387.26,2022-05-30,2027-01-21,High,6.62,BrokerD,Closed
+100704,Eve,Mutual Funds,21671.7,2024-05-28,2027-01-12,Medium,11.69,BrokerD,Closed
+100705,Eve,Crypto,58934.1,2023-04-02,2027-02-24,Low,10.58,BrokerC,Closed
+100706,Eve,Real Estate,60034.87,2023-05-27,2028-03-07,Medium,8.67,BrokerC,Closed
+100707,Fay,Stocks,51514.32,2023-09-02,2025-03-08,Medium,2.83,BrokerC,Pending
+100708,Eve,Crypto,66250.8,2021-10-21,2028-05-24,Low,12.46,BrokerA,Pending
+100709,Charlie,Bonds,26833.54,2022-08-10,2025-11-11,High,13.19,BrokerB,Active
+100710,David,Bonds,57502.92,2022-06-23,2028-10-22,Medium,3.82,BrokerD,Closed
+100711,Eve,Stocks,40356.46,2022-06-24,2027-07-11,Low,12.98,BrokerA,Active
+100712,David,Real Estate,67858.39,2023-10-15,2027-01-30,Medium,13.35,BrokerA,Pending
+100713,Charlie,Crypto,18416.24,2021-03-13,2027-02-01,High,8.92,BrokerC,Closed
+100714,Charlie,Mutual Funds,59233.35,2022-11-12,2027-06-29,High,10.36,BrokerC,Pending
+100715,David,Stocks,22600.68,2022-08-27,2029-04-12,High,6.66,BrokerA,Active
+100716,Alice,Real Estate,31471.09,2024-06-13,2025-06-07,Low,5.3,BrokerD,Pending
+100717,Bob,Mutual Funds,25777.43,2024-06-18,2028-03-21,Low,11.25,BrokerD,Closed
+100718,Alice,Bonds,22369.59,2024-02-16,2025-10-09,High,13.14,BrokerA,Closed
+100719,Alice,Bonds,83442.54,2020-12-13,2027-12-21,Low,10.33,BrokerB,Active
+100720,Fay,Mutual Funds,32142.22,2023-09-11,2027-01-22,High,8.41,BrokerB,Closed
+100721,Alice,Stocks,93076.76,2020-06-22,2027-03-27,Low,3.65,BrokerD,Pending
+100722,Eve,Bonds,97143.02,2021-08-04,2026-10-06,High,2.22,BrokerC,Pending
+100723,Fay,Crypto,59269.74,2022-11-21,2028-08-23,Medium,7.52,BrokerB,Pending
+100724,Fay,Mutual Funds,18585.11,2023-09-21,2026-07-25,High,2.17,BrokerB,Pending
+100725,Charlie,Mutual Funds,40582.08,2023-07-20,2026-05-27,High,9.19,BrokerC,Active
+100726,Alice,Bonds,80784.57,2023-06-22,2025-08-21,Low,6.67,BrokerB,Pending
+100727,Charlie,Stocks,39902.12,2021-11-17,2025-02-23,Low,11.72,BrokerA,Active
+100728,David,Crypto,13266.64,2020-07-10,2029-02-15,Low,5.63,BrokerB,Pending
+100729,Bob,Stocks,57894.57,2024-08-03,2026-01-17,Low,9.51,BrokerC,Active
+100730,Fay,Real Estate,85286.48,2024-03-18,2027-10-20,Low,8.76,BrokerA,Pending
+100731,David,Real Estate,80613.01,2021-04-26,2027-11-27,Low,1.56,BrokerB,Pending
+100732,David,Bonds,21636.7,2023-10-09,2027-03-04,Medium,2.48,BrokerD,Active
+100733,Eve,Bonds,68912.64,2021-09-27,2028-02-25,High,5.42,BrokerA,Closed
+100734,Bob,Bonds,25947.91,2021-04-05,2025-08-30,High,13.41,BrokerA,Closed
+100735,David,Real Estate,25729.72,2024-07-09,2026-06-21,High,3.48,BrokerD,Closed
+100736,David,Stocks,88036.82,2021-02-11,2029-05-07,Medium,11.1,BrokerD,Active
+100737,Bob,Stocks,28718.55,2020-10-28,2026-06-18,High,14.64,BrokerB,Closed
+100738,Bob,Bonds,30008.5,2020-02-20,2028-12-12,Medium,12.17,BrokerB,Closed
+100739,David,Crypto,5062.07,2020-04-04,2027-07-03,Medium,4.78,BrokerC,Active
+100740,Bob,Stocks,87713.56,2021-05-16,2026-03-16,Medium,13.76,BrokerC,Closed
+100741,David,Real Estate,80296.51,2022-08-31,2028-06-07,High,2.76,BrokerA,Closed
+100742,David,Mutual Funds,64596.25,2023-06-05,2026-08-08,Medium,7.82,BrokerD,Closed
+100743,Eve,Mutual Funds,76275.25,2024-10-06,2028-11-22,High,13.48,BrokerD,Active
+100744,Alice,Mutual Funds,19444.61,2024-04-22,2027-10-03,High,10.16,BrokerC,Active
+100745,David,Crypto,48540.74,2020-05-29,2026-02-14,Low,7.08,BrokerA,Closed
+100746,Charlie,Bonds,38365.84,2022-07-21,2025-09-09,Low,5.45,BrokerA,Closed
+100747,Fay,Real Estate,13908.77,2022-04-28,2025-10-05,Medium,6.56,BrokerC,Active
+100748,Alice,Crypto,51182.4,2024-12-19,2029-10-13,Medium,8.37,BrokerC,Closed
+100749,Alice,Real Estate,92470.27,2023-07-13,2025-06-01,High,5.81,BrokerC,Active
+100750,Alice,Real Estate,8805.62,2023-03-24,2027-07-15,Medium,14.58,BrokerB,Closed
+100751,Eve,Bonds,32688.79,2021-02-02,2025-12-20,Medium,14.1,BrokerA,Active
+100752,David,Mutual Funds,24716.39,2024-01-11,2028-12-31,High,13.25,BrokerA,Pending
+100753,Eve,Bonds,27623.93,2023-11-27,2027-07-01,Medium,7.19,BrokerA,Pending
+100754,David,Crypto,91301.28,2022-02-25,2025-06-29,Medium,10.83,BrokerC,Active
+100755,Eve,Crypto,49466.56,2022-10-09,2029-07-18,High,13.69,BrokerC,Pending
+100756,Eve,Crypto,49298.44,2022-03-29,2028-10-28,High,12.98,BrokerC,Closed
+100757,Fay,Bonds,77254.69,2021-05-14,2029-09-28,Low,7.09,BrokerC,Active
+100758,Charlie,Real Estate,19676.76,2020-10-29,2026-10-17,High,3.02,BrokerD,Active
+100759,Eve,Real Estate,51290.21,2023-09-05,2028-09-29,Low,2.52,BrokerC,Closed
+100760,Fay,Stocks,45848.6,2023-11-09,2026-12-13,Medium,9.29,BrokerB,Closed
+100761,Bob,Crypto,61706.52,2020-01-12,2028-12-24,High,10.18,BrokerD,Active
+100762,Charlie,Real Estate,99957.98,2024-03-17,2025-05-13,High,12.97,BrokerD,Closed
+100763,Eve,Stocks,78097.64,2024-10-28,2028-02-01,High,5.45,BrokerC,Active
+100764,Alice,Real Estate,42797.24,2024-04-26,2028-01-16,Medium,3.76,BrokerA,Closed
+100765,Bob,Crypto,83617.54,2024-12-18,2026-08-18,Low,6.62,BrokerC,Active
+100766,Bob,Mutual Funds,21217.29,2020-08-06,2029-12-31,Medium,6.27,BrokerA,Closed
+100767,Fay,Crypto,7894.05,2024-05-13,2026-09-07,Medium,3.29,BrokerC,Closed
+100768,Bob,Bonds,24422.6,2022-05-20,2029-10-10,High,10.58,BrokerC,Pending
+100769,Charlie,Real Estate,37339.1,2021-03-24,2025-11-19,Low,8.37,BrokerA,Pending
+100770,Eve,Real Estate,53505.17,2020-12-26,2028-12-28,Medium,11.24,BrokerA,Pending
+100771,Eve,Bonds,63437.27,2024-07-04,2028-12-24,High,6.26,BrokerA,Closed
+100772,Alice,Bonds,91507.54,2023-11-26,2028-12-05,Medium,5.9,BrokerA,Active
+100773,Fay,Mutual Funds,53436.13,2022-11-26,2028-07-30,Medium,7.88,BrokerB,Closed
+100774,Alice,Real Estate,52621.19,2022-08-09,2025-12-23,High,13.34,BrokerA,Pending
+100775,Bob,Real Estate,9773.09,2020-04-12,2029-06-14,High,2.04,BrokerC,Closed
+100776,Alice,Mutual Funds,8316.6,2023-02-15,2027-01-11,Low,12.37,BrokerC,Pending
+100777,Charlie,Stocks,57360.2,2021-05-25,2027-11-08,Medium,6.48,BrokerB,Pending
+100778,Eve,Mutual Funds,46626.97,2024-10-03,2026-04-05,High,13.04,BrokerA,Active
+100779,Bob,Crypto,84722.14,2020-09-05,2025-09-06,High,12.33,BrokerC,Active
+100780,Alice,Real Estate,20264.56,2022-07-23,2026-02-16,Low,6.21,BrokerB,Pending
+100781,Fay,Bonds,7372.31,2020-09-30,2029-06-11,Low,10.87,BrokerC,Pending
+100782,Charlie,Crypto,47658.68,2024-06-29,2025-10-12,High,3.66,BrokerB,Closed
+100783,Charlie,Real Estate,27560.46,2022-08-09,2026-04-30,Low,13.6,BrokerB,Pending
+100784,Alice,Mutual Funds,9713.37,2023-09-29,2029-06-07,High,6.96,BrokerD,Closed
+100785,Eve,Crypto,73836.84,2022-12-23,2027-10-09,Medium,7.65,BrokerD,Pending
+100786,Alice,Real Estate,15601.33,2023-02-18,2025-02-23,Low,11.03,BrokerA,Active
+100787,Bob,Stocks,62790.35,2023-05-04,2027-01-10,Medium,12.58,BrokerD,Active
+100788,Alice,Stocks,31699.73,2021-10-11,2028-02-09,Medium,4.69,BrokerB,Pending
+100789,Charlie,Bonds,21482.12,2024-03-26,2028-03-18,Medium,10.43,BrokerC,Closed
+100790,Alice,Real Estate,41076.39,2024-12-30,2027-01-26,High,6.79,BrokerC,Closed
+100791,Eve,Stocks,81137.35,2022-06-25,2027-08-16,Medium,6.48,BrokerA,Closed
+100792,Fay,Mutual Funds,42248.89,2023-06-08,2029-07-04,Medium,10.82,BrokerD,Pending
+100793,David,Real Estate,76323.12,2024-07-27,2028-02-04,Medium,6.73,BrokerA,Pending
+100794,Alice,Mutual Funds,16921.2,2024-01-13,2025-09-23,High,6.17,BrokerB,Active
+100795,Eve,Mutual Funds,78413.28,2022-10-30,2028-06-07,Medium,12.78,BrokerD,Active
+100796,Eve,Stocks,27508.67,2022-05-23,2029-12-16,Medium,2.87,BrokerA,Pending
+100797,Fay,Real Estate,69352.35,2024-08-28,2025-06-26,Low,10.62,BrokerC,Active
+100798,Charlie,Crypto,58749.25,2023-01-27,2025-05-15,High,4.86,BrokerC,Closed
+100799,Eve,Stocks,93268.75,2022-07-02,2026-09-26,Medium,1.71,BrokerA,Closed
+100800,Eve,Stocks,41795.64,2020-11-21,2027-03-27,Low,3.75,BrokerA,Pending
+100801,Eve,Real Estate,11285.69,2024-03-03,2029-01-08,High,9.69,BrokerA,Closed
+100802,Eve,Real Estate,6819.77,2024-10-30,2029-01-12,High,11.07,BrokerB,Pending
+100803,Bob,Mutual Funds,83551.56,2022-08-30,2027-09-08,High,1.78,BrokerB,Closed
+100804,Bob,Real Estate,54849.89,2022-07-10,2027-12-13,High,1.99,BrokerC,Pending
+100805,Charlie,Mutual Funds,78648.18,2021-06-14,2027-04-22,High,13.68,BrokerB,Closed
+100806,Alice,Stocks,27270.43,2024-03-19,2029-04-25,High,2.49,BrokerB,Closed
+100807,Eve,Bonds,37782.96,2021-05-21,2027-04-19,Medium,13.57,BrokerD,Active
+100808,Fay,Crypto,7859.87,2024-09-16,2029-08-14,Medium,4.58,BrokerB,Active
+100809,Alice,Stocks,96341.77,2023-07-29,2028-03-23,Medium,11.49,BrokerD,Active
+100810,Fay,Real Estate,68447.45,2021-07-21,2025-06-01,Medium,5.68,BrokerB,Active
+100811,Alice,Crypto,93654.48,2024-04-17,2025-09-14,Low,13.09,BrokerC,Active
+100812,Charlie,Bonds,30222.16,2024-05-11,2026-10-12,Medium,10.96,BrokerA,Active
+100813,Eve,Bonds,63089.04,2022-12-03,2028-08-08,High,6.92,BrokerC,Pending
+100814,Eve,Mutual Funds,69457.5,2022-09-19,2025-06-01,Medium,2.53,BrokerB,Pending
+100815,David,Crypto,35167.22,2023-07-07,2027-07-11,Medium,11.39,BrokerA,Active
+100816,Fay,Mutual Funds,85570.38,2021-05-04,2027-08-13,High,9.83,BrokerA,Pending
+100817,Alice,Stocks,94980.34,2021-07-16,2028-10-24,Medium,1.54,BrokerA,Active
+100818,Alice,Crypto,89061.24,2022-06-19,2027-11-26,Medium,1.63,BrokerD,Pending
+100819,Bob,Stocks,75211.36,2020-06-07,2026-12-07,Medium,12.42,BrokerC,Closed
+100820,David,Mutual Funds,31359.14,2024-01-01,2025-09-20,Low,5.0,BrokerD,Pending
+100821,Bob,Crypto,31753.52,2021-08-08,2029-12-04,Medium,10.09,BrokerA,Pending
+100822,Bob,Mutual Funds,96519.23,2021-04-25,2029-08-25,High,7.63,BrokerC,Pending
+100823,Bob,Crypto,5977.03,2021-07-10,2029-05-17,High,13.16,BrokerC,Closed
+100824,Fay,Mutual Funds,73024.75,2021-11-18,2028-02-04,Medium,13.88,BrokerB,Active
+100825,Fay,Bonds,72093.39,2021-10-16,2028-08-03,Medium,14.96,BrokerD,Pending
+100826,Charlie,Mutual Funds,64155.51,2023-01-11,2028-04-18,Medium,3.57,BrokerD,Pending
+100827,Charlie,Bonds,99060.34,2020-06-14,2026-01-08,High,13.15,BrokerB,Closed
+100828,Bob,Mutual Funds,34628.55,2020-10-10,2029-04-22,High,5.09,BrokerD,Active
+100829,David,Crypto,37297.33,2020-11-04,2025-09-22,Low,9.48,BrokerA,Pending
+100830,Alice,Crypto,12499.24,2021-04-18,2027-06-06,Low,8.33,BrokerA,Closed
+100831,Fay,Crypto,47065.82,2022-02-23,2027-10-27,Low,1.74,BrokerD,Active
+100832,David,Real Estate,29799.61,2023-11-22,2029-11-14,High,14.09,BrokerB,Active
+100833,Eve,Stocks,37621.74,2020-11-08,2025-04-24,Low,2.56,BrokerC,Pending
+100834,Fay,Crypto,84284.32,2023-12-17,2029-08-30,Medium,10.79,BrokerD,Pending
+100835,Fay,Bonds,93871.03,2021-03-14,2025-09-12,Medium,12.1,BrokerC,Pending
+100836,Charlie,Crypto,22644.64,2020-05-11,2027-11-28,High,12.24,BrokerB,Pending
+100837,Alice,Real Estate,40388.35,2022-04-29,2025-11-10,Low,3.33,BrokerC,Closed
+100838,Alice,Bonds,93219.9,2022-04-14,2026-09-15,Medium,7.54,BrokerB,Closed
+100839,Eve,Real Estate,10871.8,2021-11-08,2025-12-04,High,12.7,BrokerB,Pending
+100840,Eve,Bonds,13774.25,2023-01-16,2025-11-28,Low,5.59,BrokerA,Active
+100841,Fay,Mutual Funds,20465.14,2022-08-12,2026-10-23,Medium,7.81,BrokerA,Pending
+100842,Bob,Stocks,61545.22,2022-05-01,2028-12-23,Low,5.18,BrokerB,Active
+100843,Charlie,Stocks,19294.87,2020-05-07,2026-04-07,High,7.76,BrokerD,Active
+100844,Charlie,Real Estate,96967.26,2021-02-27,2026-12-10,Low,13.49,BrokerA,Active
+100845,Fay,Stocks,47437.88,2024-09-01,2027-11-29,High,7.64,BrokerB,Closed
+100846,David,Real Estate,52644.21,2022-05-10,2026-08-05,Low,9.0,BrokerC,Active
+100847,Bob,Real Estate,28432.57,2022-03-08,2029-09-29,Medium,6.95,BrokerC,Active
+100848,Fay,Real Estate,49741.22,2024-04-25,2025-06-11,High,7.71,BrokerD,Closed
+100849,Bob,Stocks,67881.8,2023-04-11,2026-05-29,High,1.7,BrokerC,Active
+100850,Bob,Real Estate,76361.83,2023-11-25,2026-02-07,High,5.33,BrokerC,Active
+100851,Bob,Stocks,76617.47,2020-02-10,2028-07-24,Low,7.39,BrokerB,Pending
+100852,Fay,Real Estate,59899.66,2024-10-20,2028-02-03,Low,10.06,BrokerC,Active
+100853,Charlie,Crypto,90914.18,2024-12-08,2026-07-17,Medium,7.58,BrokerC,Active
+100854,Charlie,Real Estate,82653.75,2024-04-16,2025-09-14,High,6.06,BrokerC,Active
+100855,Bob,Bonds,76919.57,2023-03-25,2028-07-04,High,6.74,BrokerC,Active
+100856,David,Real Estate,10282.52,2022-02-18,2026-09-13,Low,4.77,BrokerB,Active
+100857,Alice,Mutual Funds,5653.41,2022-09-03,2028-06-12,Low,13.98,BrokerC,Closed
+100858,Fay,Real Estate,25182.49,2020-01-13,2027-12-29,Medium,8.54,BrokerD,Active
+100859,Alice,Bonds,68034.74,2021-12-21,2025-07-11,Medium,1.68,BrokerA,Active
+100860,David,Bonds,44063.76,2021-09-03,2027-10-27,Low,1.76,BrokerD,Closed
+100861,Fay,Stocks,43228.59,2024-03-23,2028-08-05,High,14.63,BrokerA,Closed
+100862,Bob,Crypto,89035.75,2022-03-09,2025-12-12,Medium,4.49,BrokerD,Active
+100863,Charlie,Real Estate,90078.47,2024-10-13,2028-04-27,Low,12.38,BrokerA,Active
+100864,Alice,Stocks,91371.65,2024-09-07,2028-04-04,Low,2.29,BrokerA,Active
+100865,Eve,Crypto,34818.42,2022-05-08,2025-11-12,High,13.94,BrokerA,Pending
+100866,Eve,Real Estate,70650.3,2023-01-07,2025-12-17,Low,13.3,BrokerA,Pending
+100867,David,Mutual Funds,30805.15,2024-03-10,2028-09-11,Low,9.21,BrokerB,Active
+100868,Bob,Real Estate,23107.93,2024-02-13,2028-07-02,Medium,1.62,BrokerD,Closed
+100869,Alice,Bonds,22540.08,2023-01-23,2029-01-15,Low,4.98,BrokerA,Active
+100870,Bob,Bonds,37500.22,2024-06-26,2028-05-24,Low,6.99,BrokerD,Closed
+100871,Alice,Mutual Funds,45845.97,2023-05-20,2026-11-23,Medium,7.71,BrokerC,Closed
+100872,David,Stocks,83940.17,2021-03-27,2029-09-22,High,5.52,BrokerA,Closed
+100873,David,Crypto,16389.65,2022-09-26,2028-02-29,High,1.94,BrokerD,Active
+100874,Eve,Real Estate,74817.96,2021-03-25,2025-03-26,Medium,9.47,BrokerB,Active
+100875,Bob,Bonds,55488.22,2021-07-12,2029-08-18,Medium,8.58,BrokerD,Closed
+100876,Fay,Stocks,32354.81,2022-06-11,2029-11-05,High,5.32,BrokerA,Pending
+100877,Eve,Mutual Funds,51817.86,2022-09-21,2025-02-28,High,2.01,BrokerC,Pending
+100878,Bob,Bonds,33494.5,2020-02-29,2025-06-16,High,14.93,BrokerD,Pending
+100879,Eve,Mutual Funds,61627.79,2022-03-07,2025-04-04,High,8.01,BrokerC,Closed
+100880,Fay,Real Estate,46215.17,2021-11-19,2028-08-06,High,11.71,BrokerB,Active
+100881,Charlie,Crypto,20618.53,2023-10-01,2029-04-29,Medium,7.61,BrokerD,Closed
+100882,Charlie,Bonds,16075.39,2023-10-22,2028-03-27,Low,2.08,BrokerD,Pending
+100883,Charlie,Bonds,56936.09,2024-06-22,2026-06-27,High,5.68,BrokerB,Active
+100884,Charlie,Real Estate,90729.24,2022-04-08,2028-08-26,High,5.82,BrokerB,Closed
+100885,Alice,Stocks,37675.98,2024-01-23,2026-03-08,Low,12.82,BrokerB,Closed
+100886,Charlie,Crypto,74635.01,2020-12-04,2029-04-20,Low,10.33,BrokerA,Pending
+100887,Fay,Bonds,67572.83,2024-09-17,2028-03-17,Low,5.22,BrokerA,Closed
+100888,David,Crypto,93497.72,2022-08-15,2027-05-04,Low,14.56,BrokerD,Active
+100889,David,Bonds,82993.2,2020-09-18,2028-06-19,Low,5.84,BrokerD,Pending
+100890,Alice,Crypto,58827.5,2023-06-28,2028-08-01,Low,14.98,BrokerD,Pending
+100891,Charlie,Mutual Funds,67417.9,2022-12-29,2025-03-04,Medium,14.95,BrokerC,Active
+100892,Charlie,Bonds,90346.71,2020-02-25,2027-10-17,Low,4.08,BrokerB,Pending
+100893,Charlie,Crypto,42954.28,2022-03-17,2029-12-26,Low,5.72,BrokerD,Closed
+100894,Eve,Stocks,36045.5,2023-04-27,2028-07-08,Medium,8.06,BrokerB,Closed
+100895,Bob,Mutual Funds,6027.05,2023-03-01,2028-01-23,Low,10.47,BrokerA,Pending
+100896,Eve,Mutual Funds,83522.35,2023-09-19,2026-08-17,High,8.63,BrokerB,Active
+100897,Bob,Stocks,81093.17,2020-02-25,2028-08-07,High,14.59,BrokerC,Closed
+100898,Charlie,Crypto,14923.18,2020-06-20,2026-09-11,Low,11.27,BrokerC,Active
+100899,Charlie,Real Estate,59801.45,2023-08-09,2027-09-17,Medium,4.36,BrokerB,Closed
+100900,Eve,Stocks,49078.26,2022-05-27,2026-05-17,High,2.92,BrokerC,Closed
+100901,Eve,Crypto,16277.36,2020-10-04,2029-07-07,Medium,10.79,BrokerC,Pending
+100902,Bob,Stocks,98153.98,2024-11-10,2029-07-12,High,3.64,BrokerA,Pending
+100903,David,Stocks,25396.11,2022-08-03,2028-11-03,Low,12.13,BrokerD,Active
+100904,Bob,Bonds,11387.25,2021-01-07,2027-04-12,Medium,5.7,BrokerC,Pending
+100905,Eve,Crypto,61510.5,2020-04-12,2026-09-02,Medium,5.91,BrokerD,Closed
+100906,Fay,Real Estate,75192.33,2021-06-16,2027-07-18,Medium,1.65,BrokerB,Closed
+100907,Eve,Bonds,8082.13,2022-02-15,2025-05-30,High,10.96,BrokerB,Active
+100908,Fay,Stocks,67578.18,2021-11-01,2028-11-11,High,3.03,BrokerC,Active
+100909,Alice,Stocks,55567.73,2021-03-09,2025-05-03,High,11.93,BrokerB,Closed
+100910,Eve,Stocks,14810.18,2022-07-20,2025-11-20,Low,8.14,BrokerA,Pending
+100911,Alice,Crypto,21389.77,2021-10-31,2027-06-20,High,12.09,BrokerC,Pending
+100912,David,Crypto,58957.56,2021-11-22,2027-05-02,Low,9.38,BrokerC,Active
+100913,Bob,Bonds,33153.97,2024-04-07,2027-09-19,Medium,2.61,BrokerC,Active
+100914,Fay,Real Estate,94139.99,2024-12-06,2027-08-10,Medium,11.84,BrokerB,Closed
+100915,Bob,Bonds,82780.32,2022-02-15,2026-02-22,Low,2.44,BrokerB,Closed
+100916,Alice,Mutual Funds,98438.88,2021-07-23,2026-11-28,High,7.96,BrokerC,Active
+100917,Fay,Stocks,29668.73,2024-03-20,2028-05-27,Low,3.83,BrokerD,Closed
+100918,Bob,Stocks,97123.75,2024-08-30,2025-10-22,Medium,11.66,BrokerB,Active
+100919,Eve,Stocks,45967.22,2022-05-13,2026-10-03,Medium,13.81,BrokerB,Active
+100920,Charlie,Bonds,38014.29,2021-05-31,2029-10-31,Low,8.98,BrokerC,Pending
+100921,Alice,Bonds,9783.21,2024-09-05,2029-01-11,High,8.62,BrokerD,Active
+100922,Bob,Stocks,10012.7,2020-06-16,2026-10-16,High,11.81,BrokerC,Closed
+100923,Alice,Bonds,70741.07,2022-08-21,2029-02-12,Low,1.57,BrokerB,Pending
+100924,Alice,Crypto,48503.25,2020-02-09,2029-10-29,Low,13.89,BrokerC,Pending
+100925,Fay,Crypto,26519.55,2024-03-14,2026-12-09,High,4.17,BrokerC,Closed
+100926,Fay,Bonds,63327.18,2023-01-09,2027-03-28,Medium,14.79,BrokerC,Closed
+100927,Charlie,Stocks,29021.52,2020-04-16,2025-09-25,Low,11.44,BrokerD,Closed
+100928,Eve,Bonds,59875.02,2021-12-17,2029-04-07,High,11.95,BrokerC,Active
+100929,Alice,Bonds,39124.83,2021-04-04,2027-01-29,High,10.36,BrokerB,Pending
+100930,Bob,Bonds,83237.46,2023-08-24,2027-11-21,Medium,7.87,BrokerC,Active
+100931,David,Mutual Funds,82966.14,2020-05-20,2028-02-25,Medium,9.22,BrokerD,Active
+100932,Alice,Crypto,50348.29,2024-05-18,2025-08-06,Medium,2.13,BrokerA,Active
+100933,Alice,Real Estate,38327.82,2023-08-27,2026-10-16,Medium,9.92,BrokerD,Active
+100934,Charlie,Real Estate,39443.18,2020-03-23,2026-05-11,Medium,9.95,BrokerC,Pending
+100935,Eve,Mutual Funds,81542.88,2024-03-24,2027-08-14,Low,13.53,BrokerA,Pending
+100936,David,Bonds,36177.05,2020-03-04,2025-09-08,High,8.33,BrokerC,Active
+100937,Fay,Mutual Funds,24860.64,2021-05-21,2026-07-02,Low,2.54,BrokerD,Closed
+100938,Fay,Mutual Funds,13045.39,2021-02-12,2027-07-10,Low,5.63,BrokerA,Pending
+100939,Bob,Stocks,49335.85,2024-09-14,2026-05-23,Low,10.35,BrokerA,Active
+100940,David,Crypto,50802.55,2020-02-11,2025-10-16,Low,4.73,BrokerC,Closed
+100941,Fay,Real Estate,84886.33,2023-06-26,2025-07-18,Low,5.29,BrokerC,Closed
+100942,Bob,Bonds,26017.68,2020-11-08,2025-04-14,Medium,12.58,BrokerD,Active
+100943,Eve,Real Estate,41194.17,2021-05-03,2026-08-18,Medium,9.39,BrokerC,Pending
+100944,Bob,Real Estate,81798.55,2020-09-15,2027-02-26,High,8.37,BrokerA,Closed
+100945,Fay,Crypto,83244.24,2022-08-27,2029-11-05,Low,5.8,BrokerB,Pending
+100946,Charlie,Real Estate,41538.05,2023-10-03,2028-06-14,High,11.37,BrokerB,Pending
+100947,Charlie,Real Estate,48616.78,2020-08-22,2027-05-07,Medium,5.38,BrokerD,Closed
+100948,Charlie,Mutual Funds,33812.16,2023-03-01,2026-05-24,Medium,11.45,BrokerC,Active
+100949,Fay,Crypto,93592.71,2021-03-22,2029-11-08,Medium,2.45,BrokerD,Closed
+100950,Charlie,Stocks,16271.16,2022-08-10,2025-11-24,Low,13.17,BrokerB,Closed
+100951,David,Bonds,93706.2,2023-12-03,2029-07-25,Low,8.24,BrokerB,Pending
+100952,Eve,Real Estate,69967.31,2021-06-08,2026-11-02,Medium,7.42,BrokerC,Active
+100953,Bob,Bonds,55499.35,2024-04-19,2028-03-29,High,9.75,BrokerA,Pending
+100954,Bob,Stocks,8102.61,2022-01-25,2029-01-16,High,9.93,BrokerC,Closed
+100955,Fay,Bonds,50181.64,2020-12-09,2026-10-03,Medium,3.28,BrokerB,Active
+100956,Charlie,Stocks,43736.07,2023-05-25,2026-01-24,High,11.71,BrokerA,Active
+100957,Charlie,Mutual Funds,20315.79,2023-05-28,2029-04-12,Medium,5.23,BrokerD,Active
+100958,Alice,Real Estate,67358.91,2024-03-11,2025-11-23,High,13.72,BrokerB,Active
+100959,Eve,Stocks,97259.34,2024-01-11,2027-10-18,Medium,12.54,BrokerD,Active
+100960,David,Bonds,58407.94,2020-08-22,2027-11-21,High,6.17,BrokerA,Closed
+100961,Bob,Real Estate,72901.56,2024-05-11,2027-08-15,Low,12.4,BrokerD,Closed
+100962,Alice,Mutual Funds,11502.79,2024-08-04,2027-10-19,Medium,6.31,BrokerB,Closed
+100963,Alice,Real Estate,44678.36,2020-12-01,2029-12-06,Medium,2.86,BrokerC,Pending
+100964,Fay,Stocks,16054.06,2021-09-29,2026-09-24,High,14.49,BrokerD,Active
+100965,Bob,Mutual Funds,63215.6,2020-08-09,2027-10-16,Medium,10.31,BrokerB,Active
+100966,Fay,Bonds,94155.81,2023-03-31,2025-02-17,Medium,7.66,BrokerB,Closed
+100967,David,Mutual Funds,67868.88,2020-02-22,2025-07-04,Medium,6.87,BrokerA,Active
+100968,Alice,Mutual Funds,12296.29,2021-09-30,2027-03-17,Low,5.88,BrokerB,Pending
+100969,Alice,Crypto,38693.29,2023-03-25,2027-11-02,Low,14.75,BrokerC,Active
+100970,Eve,Mutual Funds,57313.02,2023-10-19,2027-07-26,High,3.32,BrokerC,Active
+100971,David,Mutual Funds,43304.74,2022-02-07,2026-05-09,Low,5.75,BrokerD,Pending
+100972,Alice,Real Estate,84196.18,2022-03-23,2026-03-17,High,8.05,BrokerD,Closed
+100973,David,Bonds,82393.75,2024-01-04,2028-04-09,Low,7.95,BrokerD,Closed
+100974,Bob,Real Estate,63123.95,2021-02-10,2026-12-24,High,7.86,BrokerD,Active
+100975,Charlie,Real Estate,40478.5,2020-06-04,2025-04-10,Low,3.87,BrokerC,Pending
+100976,Alice,Stocks,29256.96,2023-04-27,2025-04-14,Low,3.46,BrokerA,Closed
+100977,Eve,Real Estate,15058.06,2023-11-15,2026-07-31,High,4.94,BrokerD,Closed
+100978,Bob,Crypto,38715.28,2024-08-28,2027-10-11,Medium,13.85,BrokerA,Closed
+100979,David,Crypto,44251.39,2023-07-08,2028-05-08,Medium,3.03,BrokerB,Active
+100980,Fay,Stocks,69203.18,2021-05-12,2029-12-13,Low,11.73,BrokerB,Pending
+100981,Bob,Bonds,67525.18,2020-07-27,2029-09-23,High,11.73,BrokerD,Active
+100982,Alice,Bonds,11660.27,2023-11-28,2028-09-01,Medium,12.43,BrokerB,Closed
+100983,David,Real Estate,42549.63,2024-05-01,2028-10-09,High,13.47,BrokerA,Pending
+100984,Charlie,Real Estate,22268.99,2021-09-09,2027-08-22,Medium,5.05,BrokerA,Active
+100985,Bob,Real Estate,19897.21,2024-10-07,2026-08-09,High,4.53,BrokerB,Closed
+100986,Alice,Bonds,83593.7,2023-11-02,2028-01-05,Low,7.78,BrokerD,Closed
+100987,Eve,Mutual Funds,8981.95,2023-05-14,2025-01-17,High,5.08,BrokerA,Active
+100988,Fay,Crypto,44822.37,2024-07-07,2029-10-02,Medium,11.41,BrokerA,Closed
+100989,David,Mutual Funds,20979.35,2020-09-04,2025-08-09,Low,10.09,BrokerC,Closed
+100990,Bob,Mutual Funds,88536.37,2024-06-18,2027-06-02,High,13.31,BrokerD,Pending
+100991,Bob,Bonds,57918.85,2023-03-05,2025-10-02,Medium,2.62,BrokerC,Closed
+100992,Charlie,Mutual Funds,26981.16,2024-05-21,2029-12-13,Low,13.85,BrokerB,Active
+100993,Charlie,Stocks,52730.59,2020-03-25,2026-06-26,High,5.46,BrokerB,Pending
+100994,Eve,Real Estate,74491.2,2021-12-12,2029-01-29,Medium,8.12,BrokerC,Active
+100995,Fay,Stocks,96021.21,2022-12-27,2027-01-20,High,7.42,BrokerD,Closed
+100996,Eve,Crypto,25942.37,2022-05-27,2029-04-14,High,11.76,BrokerA,Pending
+100997,Alice,Real Estate,89187.27,2023-09-16,2027-04-06,Low,7.17,BrokerB,Pending
+100998,Alice,Mutual Funds,93758.89,2022-01-28,2027-01-20,Low,14.24,BrokerD,Pending
+100999,Eve,Crypto,92059.95,2020-05-21,2025-04-03,Medium,13.68,BrokerD,Pending
+101000,Fay,Real Estate,65364.36,2022-11-02,2027-04-01,Low,13.27,BrokerB,Active
+101001,Eve,Mutual Funds,64832.96,2023-08-19,2025-04-15,Medium,2.46,BrokerB,Closed
+101002,Fay,Stocks,43305.01,2021-11-29,2028-03-13,High,13.03,BrokerD,Closed
+101003,Fay,Real Estate,76477.8,2020-01-26,2028-02-25,High,12.05,BrokerA,Pending
+101004,David,Mutual Funds,55472.93,2024-10-05,2026-02-03,Medium,2.9,BrokerC,Closed
+101005,Fay,Stocks,69356.62,2022-05-10,2027-01-13,High,2.95,BrokerB,Active
+101006,Charlie,Crypto,45703.5,2024-08-11,2028-02-08,Low,2.87,BrokerC,Closed
+101007,Fay,Crypto,74492.16,2022-09-30,2026-08-15,High,1.65,BrokerD,Active
+101008,Fay,Crypto,83324.79,2020-08-04,2025-05-31,Low,8.91,BrokerC,Active
+101009,Fay,Crypto,18911.44,2022-06-06,2027-03-03,Medium,14.64,BrokerA,Closed
+101010,Alice,Bonds,84128.32,2022-01-11,2027-10-30,Medium,7.42,BrokerD,Active
+101011,Charlie,Real Estate,56328.17,2023-07-25,2027-07-12,High,8.8,BrokerA,Active
+101012,Charlie,Real Estate,85243.26,2024-12-30,2029-04-15,High,14.57,BrokerD,Active
+101013,Eve,Bonds,45973.66,2024-08-24,2028-02-01,Low,4.94,BrokerA,Active
+101014,David,Mutual Funds,41008.85,2022-07-30,2026-07-27,Low,13.09,BrokerD,Pending
+101015,Fay,Mutual Funds,91930.77,2023-12-19,2029-08-18,High,8.88,BrokerA,Closed
+101016,Bob,Crypto,28861.08,2020-11-09,2028-06-30,High,9.19,BrokerD,Pending
+101017,David,Stocks,85200.17,2022-06-10,2028-10-25,Medium,6.13,BrokerA,Active
+101018,David,Mutual Funds,50981.95,2020-12-26,2028-06-05,Medium,9.08,BrokerD,Closed
+101019,Charlie,Stocks,53839.07,2024-02-11,2025-09-01,Medium,2.49,BrokerA,Active
+101020,David,Real Estate,34304.49,2022-12-04,2025-09-21,High,11.82,BrokerB,Closed
+101021,Fay,Stocks,59439.01,2023-08-25,2025-07-18,High,5.34,BrokerC,Pending
+101022,Fay,Real Estate,35895.06,2021-07-07,2027-03-18,High,13.48,BrokerD,Closed
+101023,Alice,Bonds,8730.59,2023-06-15,2027-02-04,Medium,6.47,BrokerA,Active
+101024,Fay,Bonds,30839.87,2024-07-13,2029-06-16,High,3.43,BrokerB,Closed
+101025,Fay,Crypto,5606.01,2023-01-07,2026-11-26,Low,10.89,BrokerD,Closed
+101026,Charlie,Mutual Funds,97943.7,2024-05-05,2028-02-17,High,3.72,BrokerD,Pending
+101027,Fay,Crypto,96745.98,2022-09-17,2027-01-19,High,11.67,BrokerD,Active
+101028,Alice,Real Estate,42539.75,2022-08-10,2029-03-27,High,14.57,BrokerC,Closed
+101029,Bob,Crypto,74195.23,2022-06-11,2025-10-23,High,12.02,BrokerA,Pending
+101030,Charlie,Stocks,37851.58,2024-08-18,2026-02-12,High,1.8,BrokerA,Closed
+101031,Bob,Real Estate,68753.85,2024-02-06,2028-05-18,Low,9.6,BrokerD,Active
+101032,Charlie,Bonds,81515.85,2023-04-28,2027-11-09,Low,10.89,BrokerD,Closed
+101033,Eve,Mutual Funds,94941.84,2021-07-03,2027-04-03,High,12.64,BrokerD,Closed
+101034,David,Real Estate,43020.17,2021-10-22,2027-10-22,Medium,2.26,BrokerB,Closed
+101035,Eve,Real Estate,79413.31,2024-10-10,2025-03-24,High,7.98,BrokerD,Closed
+101036,Fay,Stocks,30263.2,2021-05-17,2025-04-03,High,8.73,BrokerC,Active
+101037,Bob,Mutual Funds,99081.57,2024-08-28,2025-03-21,High,3.78,BrokerA,Pending
+101038,Fay,Bonds,7448.11,2020-06-26,2025-10-08,Medium,5.85,BrokerC,Pending
+101039,David,Real Estate,62335.24,2021-07-25,2029-01-01,Medium,7.44,BrokerD,Closed
+101040,Charlie,Real Estate,67653.07,2024-12-10,2026-11-14,Medium,12.75,BrokerB,Active
+101041,David,Stocks,70364.33,2022-07-12,2029-07-05,Low,14.05,BrokerD,Active
+101042,Alice,Crypto,16436.82,2021-05-14,2027-08-29,Medium,9.98,BrokerD,Active
+101043,David,Bonds,94160.33,2024-03-16,2027-11-30,Low,6.83,BrokerD,Active
+101044,Alice,Mutual Funds,22212.41,2022-08-09,2027-07-25,Low,4.93,BrokerD,Active
+101045,David,Real Estate,64161.57,2023-03-13,2025-11-02,Medium,14.76,BrokerD,Active
+101046,Alice,Real Estate,26154.23,2023-06-03,2028-05-26,Medium,14.77,BrokerA,Closed
+101047,Bob,Bonds,34185.56,2023-09-30,2027-11-22,Medium,13.99,BrokerC,Pending
+101048,Fay,Crypto,56913.56,2022-02-15,2025-10-14,Low,12.11,BrokerB,Pending
+101049,Fay,Real Estate,44633.37,2021-11-19,2026-11-03,High,5.9,BrokerD,Closed
+101050,Eve,Bonds,20221.43,2020-02-28,2028-06-09,Medium,12.53,BrokerB,Pending
+101051,Fay,Stocks,21238.96,2022-10-09,2026-10-15,Medium,7.02,BrokerA,Active
+101052,Charlie,Crypto,44723.75,2024-10-08,2025-11-29,Medium,5.91,BrokerC,Active
+101053,David,Mutual Funds,76941.88,2021-10-27,2027-03-16,Low,11.56,BrokerD,Pending
+101054,Eve,Real Estate,90306.64,2021-01-07,2028-06-16,Low,2.58,BrokerA,Active
+101055,Charlie,Bonds,12992.13,2022-09-25,2029-02-23,High,2.16,BrokerA,Active
+101056,Charlie,Stocks,42344.87,2021-03-10,2029-09-22,Medium,7.55,BrokerC,Pending
+101057,Alice,Mutual Funds,14523.33,2021-12-27,2026-09-05,Low,7.52,BrokerD,Closed
+101058,Fay,Bonds,6576.29,2024-06-21,2028-04-30,High,13.59,BrokerC,Pending
+101059,Bob,Bonds,67863.27,2021-06-13,2026-11-20,Medium,3.2,BrokerC,Pending
+101060,Bob,Mutual Funds,62232.7,2021-11-28,2027-11-05,Low,3.16,BrokerB,Pending
+101061,Eve,Stocks,20486.82,2021-07-26,2029-08-24,Medium,3.49,BrokerB,Pending
+101062,Bob,Stocks,27212.22,2024-12-07,2027-11-10,Medium,1.9,BrokerC,Closed
+101063,David,Crypto,7252.24,2023-05-05,2027-12-27,Low,2.47,BrokerB,Closed
+101064,Bob,Real Estate,84319.98,2023-12-07,2027-10-01,Low,10.41,BrokerA,Active
+101065,Eve,Mutual Funds,97595.61,2024-12-07,2028-12-22,Low,7.33,BrokerC,Active
+101066,Bob,Mutual Funds,17868.66,2021-07-19,2028-02-27,Medium,11.81,BrokerD,Pending
+101067,David,Mutual Funds,26990.15,2023-02-12,2026-09-06,Medium,14.9,BrokerD,Active
+101068,Alice,Stocks,87498.9,2020-01-21,2027-08-31,High,10.4,BrokerA,Closed
+101069,Eve,Real Estate,93014.06,2022-11-24,2029-07-29,Medium,2.18,BrokerD,Active
+101070,Alice,Crypto,44864.6,2021-01-26,2025-02-04,Low,2.91,BrokerD,Active
+101071,Alice,Bonds,9809.13,2020-06-24,2027-01-25,Medium,13.39,BrokerC,Active
+101072,Alice,Bonds,8742.22,2021-05-09,2026-11-10,High,8.62,BrokerA,Pending
+101073,Charlie,Mutual Funds,59525.24,2024-01-14,2028-10-11,High,12.64,BrokerC,Active
+101074,Fay,Real Estate,42325.04,2022-04-12,2025-08-13,Low,13.06,BrokerA,Closed
+101075,Charlie,Stocks,7721.98,2022-09-27,2027-05-04,Low,14.02,BrokerC,Closed
+101076,Fay,Real Estate,60408.98,2023-02-11,2028-04-10,High,14.32,BrokerC,Closed
+101077,Alice,Real Estate,6073.74,2024-04-01,2026-09-23,High,8.99,BrokerB,Closed
+101078,Eve,Stocks,79800.34,2021-05-07,2029-06-20,High,6.1,BrokerD,Active
+101079,Fay,Mutual Funds,34111.12,2023-11-15,2029-01-25,Low,14.49,BrokerA,Pending
+101080,David,Real Estate,8824.51,2022-09-02,2029-11-22,High,8.89,BrokerD,Closed
+101081,David,Bonds,60893.46,2023-08-15,2028-11-10,High,2.37,BrokerB,Closed
+101082,Bob,Stocks,42780.02,2023-12-28,2028-07-12,Low,10.18,BrokerA,Pending
+101083,Fay,Crypto,97511.04,2022-10-02,2025-02-24,Medium,9.43,BrokerB,Pending
+101084,Eve,Mutual Funds,56698.87,2022-07-06,2028-05-07,Medium,13.59,BrokerD,Closed
+101085,Charlie,Stocks,31147.72,2024-06-11,2027-08-30,High,10.32,BrokerC,Closed
+101086,Alice,Crypto,72396.69,2020-02-05,2026-06-28,Medium,6.21,BrokerB,Pending
+101087,Bob,Crypto,30791.74,2020-07-09,2028-09-04,Medium,14.54,BrokerB,Closed
+101088,David,Real Estate,90903.11,2021-08-25,2029-05-23,Medium,12.32,BrokerC,Closed
+101089,Charlie,Real Estate,40598.59,2021-03-29,2029-05-09,Medium,10.01,BrokerD,Active
+101090,Charlie,Real Estate,57237.51,2022-04-08,2028-03-30,High,5.45,BrokerB,Pending
+101091,Alice,Stocks,9804.44,2023-11-17,2028-03-28,Medium,6.54,BrokerD,Active
+101092,Fay,Stocks,45481.52,2021-05-13,2026-04-12,Medium,10.54,BrokerC,Active
+101093,David,Mutual Funds,84074.54,2021-09-19,2029-01-17,Low,2.47,BrokerA,Pending
+101094,Eve,Real Estate,81536.64,2023-09-21,2025-04-16,High,4.97,BrokerB,Active
+101095,Charlie,Crypto,26310.26,2023-04-06,2028-04-10,Low,11.14,BrokerD,Closed
+101096,Alice,Bonds,26477.51,2022-01-25,2027-09-11,Low,7.98,BrokerC,Active
+101097,Eve,Mutual Funds,82644.0,2022-08-27,2025-12-16,High,6.93,BrokerC,Pending
+101098,Fay,Stocks,93387.85,2023-02-07,2027-12-10,Medium,3.54,BrokerB,Closed
+101099,David,Mutual Funds,14059.29,2022-12-23,2028-07-12,Low,7.46,BrokerA,Closed
+101100,Fay,Mutual Funds,47755.57,2021-12-05,2029-01-16,High,11.9,BrokerB,Closed
+101101,Charlie,Mutual Funds,37058.16,2022-05-21,2028-06-23,Medium,5.06,BrokerD,Closed
+101102,Eve,Mutual Funds,87715.4,2024-03-07,2029-05-06,High,1.57,BrokerC,Active
+101103,Eve,Bonds,12934.87,2023-02-01,2029-09-19,Low,10.52,BrokerA,Active
+101104,Eve,Real Estate,25056.96,2021-11-08,2027-02-18,Medium,14.63,BrokerD,Closed
+101105,Charlie,Crypto,76484.49,2021-12-21,2025-10-30,Medium,9.69,BrokerB,Pending
+101106,Charlie,Mutual Funds,9872.92,2023-12-10,2029-08-10,High,3.12,BrokerC,Closed
+101107,Fay,Mutual Funds,51790.86,2022-07-18,2028-10-26,Medium,5.83,BrokerB,Active
+101108,Bob,Mutual Funds,47000.17,2021-07-08,2026-05-12,Low,13.21,BrokerA,Closed
+101109,Fay,Real Estate,36768.11,2021-09-19,2025-03-06,Low,4.64,BrokerA,Active
+101110,David,Stocks,42484.37,2021-05-29,2028-03-18,Low,9.7,BrokerA,Closed
+101111,Alice,Stocks,55344.36,2021-04-17,2028-12-05,High,6.94,BrokerA,Pending
+101112,Eve,Bonds,20329.9,2020-09-04,2025-08-14,Medium,4.31,BrokerA,Closed
+101113,Bob,Stocks,59339.61,2024-01-17,2026-01-26,Medium,12.48,BrokerB,Pending
+101114,Alice,Mutual Funds,81516.07,2021-01-29,2025-02-08,Medium,11.53,BrokerA,Pending
+101115,Bob,Mutual Funds,77215.29,2021-10-08,2027-06-23,Low,10.43,BrokerA,Closed
+101116,Fay,Mutual Funds,19620.49,2020-09-01,2026-10-05,Medium,4.69,BrokerC,Pending
+101117,Charlie,Bonds,19178.7,2024-03-01,2027-05-08,Low,2.82,BrokerA,Pending
+101118,Eve,Mutual Funds,30476.56,2023-01-02,2025-11-07,Medium,9.28,BrokerC,Active
+101119,Fay,Stocks,39302.1,2024-04-09,2027-04-26,Low,8.97,BrokerC,Active
+101120,Alice,Real Estate,43803.28,2023-11-14,2028-11-15,Medium,4.04,BrokerC,Pending
+101121,Alice,Real Estate,69571.24,2021-01-14,2026-02-22,High,2.26,BrokerB,Closed
+101122,Alice,Crypto,10384.64,2021-01-27,2027-04-21,High,2.59,BrokerB,Pending
+101123,Alice,Stocks,8293.91,2021-03-19,2027-10-25,Low,14.9,BrokerD,Closed
+101124,Alice,Mutual Funds,42231.5,2024-02-21,2029-05-07,Low,12.08,BrokerD,Active
+101125,Bob,Real Estate,71230.55,2022-09-18,2028-06-06,Medium,13.95,BrokerC,Closed
+101126,Fay,Stocks,23376.36,2021-07-20,2027-08-24,Medium,4.13,BrokerB,Pending
+101127,Eve,Real Estate,65942.93,2024-01-23,2029-11-23,High,14.47,BrokerA,Pending
+101128,Charlie,Mutual Funds,29683.67,2023-04-22,2029-10-04,Medium,3.43,BrokerD,Pending
+101129,Charlie,Real Estate,89178.18,2024-04-05,2029-02-15,Low,8.37,BrokerB,Pending
+101130,Fay,Crypto,90090.54,2022-12-10,2029-01-29,Low,12.7,BrokerA,Pending
+101131,Fay,Crypto,33242.28,2023-05-07,2025-05-08,Low,6.22,BrokerA,Closed
+101132,Charlie,Real Estate,26849.41,2021-08-02,2028-12-16,Low,7.24,BrokerB,Pending
+101133,Charlie,Stocks,44073.88,2020-07-24,2025-10-10,Low,3.23,BrokerD,Active
+101134,Bob,Stocks,27850.5,2024-09-01,2027-11-29,High,3.16,BrokerB,Pending
+101135,David,Stocks,68876.47,2021-02-01,2026-03-01,High,9.86,BrokerD,Closed
+101136,Eve,Real Estate,83476.15,2021-08-29,2028-02-23,Low,10.62,BrokerC,Pending
+101137,Alice,Stocks,68943.75,2021-04-10,2026-10-28,Medium,11.99,BrokerB,Pending
+101138,David,Mutual Funds,83313.29,2022-01-09,2028-09-18,Low,9.02,BrokerB,Closed
+101139,Fay,Crypto,42714.26,2021-01-02,2027-09-07,High,10.22,BrokerD,Pending
+101140,Charlie,Mutual Funds,19850.11,2021-09-11,2027-12-13,Low,1.68,BrokerD,Closed
+101141,David,Stocks,75105.34,2020-01-29,2027-02-11,High,3.69,BrokerB,Pending
+101142,Eve,Mutual Funds,39245.08,2023-12-21,2026-10-05,High,14.8,BrokerA,Active
+101143,Fay,Stocks,68770.73,2022-12-29,2025-12-21,Low,2.53,BrokerA,Pending
+101144,Alice,Real Estate,30711.17,2020-09-16,2027-07-31,Low,10.66,BrokerA,Closed
+101145,Alice,Mutual Funds,12716.82,2021-07-15,2027-12-28,Medium,3.88,BrokerC,Active
+101146,Eve,Real Estate,99295.27,2020-04-03,2026-12-03,High,11.18,BrokerC,Closed
+101147,Eve,Real Estate,19839.14,2020-04-21,2028-01-24,Medium,11.03,BrokerD,Pending
+101148,Charlie,Bonds,98899.99,2023-02-07,2026-12-27,Low,4.66,BrokerC,Active
+101149,Alice,Stocks,97841.59,2021-08-21,2028-10-16,High,5.14,BrokerA,Closed
+101150,Fay,Crypto,80412.72,2023-11-29,2029-05-01,Medium,10.34,BrokerB,Active
+101151,David,Stocks,67645.18,2020-09-15,2029-11-12,Medium,6.77,BrokerC,Active
+101152,Fay,Crypto,59891.67,2023-07-30,2029-01-16,Medium,4.13,BrokerC,Closed
+101153,Bob,Stocks,87279.65,2024-11-13,2028-10-26,Low,11.38,BrokerA,Active
+101154,Bob,Real Estate,32496.75,2024-03-21,2028-08-10,Low,3.58,BrokerC,Closed
+101155,Eve,Mutual Funds,49429.72,2022-10-02,2029-07-04,Low,13.05,BrokerD,Active
+101156,Charlie,Mutual Funds,63842.05,2020-07-29,2028-11-20,High,8.45,BrokerB,Active
+101157,Bob,Bonds,44063.1,2024-11-22,2026-06-26,Low,2.93,BrokerA,Active
+101158,Alice,Crypto,45611.21,2020-01-26,2028-06-03,High,10.87,BrokerD,Pending
+101159,Fay,Crypto,36377.04,2023-03-21,2027-09-19,Medium,8.51,BrokerA,Pending
+101160,Fay,Crypto,58602.02,2021-08-05,2026-01-29,Medium,5.52,BrokerD,Closed
+101161,Eve,Real Estate,85804.58,2022-08-19,2026-05-20,Low,7.2,BrokerB,Active
+101162,David,Crypto,24145.2,2022-09-07,2026-07-26,Medium,5.53,BrokerB,Closed
+101163,Eve,Mutual Funds,93771.14,2022-06-21,2028-02-17,Low,5.05,BrokerD,Pending
+101164,David,Real Estate,70463.33,2021-11-28,2026-09-04,High,3.71,BrokerD,Pending
+101165,Eve,Stocks,83210.96,2021-01-12,2026-04-06,Medium,6.4,BrokerD,Pending
+101166,Eve,Crypto,57838.12,2020-04-15,2026-09-02,Low,4.89,BrokerD,Pending
+101167,Eve,Crypto,79054.09,2021-06-01,2029-04-29,Medium,10.73,BrokerD,Closed
+101168,David,Stocks,6539.04,2024-10-30,2026-08-15,Medium,10.73,BrokerD,Active
+101169,David,Crypto,82746.14,2022-09-05,2028-12-14,Low,8.27,BrokerB,Closed
+101170,Eve,Stocks,8813.19,2020-08-21,2026-03-01,Medium,12.0,BrokerD,Active
+101171,Bob,Real Estate,89541.77,2024-08-10,2028-11-14,Medium,12.86,BrokerC,Pending
+101172,Charlie,Mutual Funds,99236.46,2020-05-13,2028-12-14,Medium,9.33,BrokerB,Active
+101173,Charlie,Stocks,32936.41,2022-03-31,2027-09-29,Medium,9.86,BrokerA,Pending
+101174,Charlie,Bonds,24980.26,2022-10-04,2026-10-12,High,5.32,BrokerB,Closed
+101175,David,Stocks,77709.52,2020-05-31,2027-09-10,Medium,13.58,BrokerA,Active
+101176,David,Crypto,29037.5,2023-03-27,2026-12-16,Medium,1.83,BrokerA,Closed
+101177,Bob,Real Estate,87228.43,2023-07-13,2028-02-22,Low,6.21,BrokerC,Pending
+101178,Charlie,Real Estate,14770.05,2023-11-06,2029-06-17,High,11.24,BrokerD,Closed
+101179,Charlie,Stocks,16965.74,2020-04-19,2029-01-17,Low,2.58,BrokerD,Pending
+101180,Eve,Mutual Funds,98019.4,2020-11-06,2026-07-15,Low,3.97,BrokerB,Pending
+101181,David,Bonds,69014.7,2020-11-01,2026-08-13,Low,9.46,BrokerD,Pending
+101182,Charlie,Real Estate,85454.29,2024-07-19,2025-09-07,High,9.06,BrokerC,Closed
+101183,Fay,Crypto,35811.29,2023-02-26,2028-03-20,Low,11.48,BrokerB,Closed
+101184,Bob,Crypto,69265.96,2021-09-14,2028-10-17,Low,12.47,BrokerB,Active
+101185,Fay,Mutual Funds,61452.97,2020-06-23,2028-01-18,Low,3.24,BrokerB,Active
+101186,Fay,Real Estate,62299.26,2021-05-23,2027-02-17,Medium,1.75,BrokerD,Closed
+101187,Bob,Stocks,69840.58,2020-08-30,2027-03-20,Low,10.81,BrokerD,Closed
+101188,Fay,Crypto,59659.12,2023-02-16,2029-08-04,High,5.57,BrokerD,Closed
+101189,Charlie,Mutual Funds,45760.93,2024-04-14,2026-12-08,High,9.95,BrokerB,Closed
+101190,David,Real Estate,31212.66,2022-05-02,2029-05-03,Medium,3.53,BrokerB,Pending
+101191,Bob,Real Estate,78015.23,2023-05-26,2029-07-06,High,7.83,BrokerA,Pending
+101192,Eve,Real Estate,26495.88,2023-05-05,2025-10-27,High,8.31,BrokerA,Pending
+101193,Fay,Real Estate,70773.66,2024-06-07,2026-08-18,Medium,9.4,BrokerD,Closed
+101194,Bob,Real Estate,27166.62,2023-06-20,2025-03-28,Low,8.43,BrokerB,Pending
+101195,Alice,Crypto,64406.37,2021-04-07,2026-08-13,Medium,8.19,BrokerD,Pending
+101196,Alice,Mutual Funds,75972.44,2024-05-07,2029-01-02,Low,5.99,BrokerD,Active
+101197,David,Real Estate,25777.82,2022-12-06,2025-06-11,Low,2.46,BrokerA,Active
+101198,Charlie,Bonds,10694.61,2022-02-18,2026-12-11,High,2.71,BrokerC,Pending
+101199,David,Bonds,17442.51,2022-07-11,2027-06-25,Medium,7.36,BrokerD,Pending
+101200,David,Mutual Funds,62569.71,2022-06-25,2028-09-05,High,6.3,BrokerC,Pending
+101201,David,Stocks,85697.41,2021-08-31,2026-06-10,High,8.47,BrokerC,Closed
+101202,David,Stocks,9274.7,2024-10-27,2029-03-11,Low,5.62,BrokerB,Active
+101203,Eve,Stocks,74744.37,2023-04-20,2027-09-09,High,10.79,BrokerB,Active
+101204,Eve,Bonds,37425.27,2022-05-28,2026-03-15,Medium,13.16,BrokerD,Active
+101205,Bob,Stocks,50460.2,2021-09-17,2026-02-18,High,5.53,BrokerA,Pending
+101206,Alice,Crypto,93241.66,2023-03-10,2029-08-23,High,4.11,BrokerA,Closed
+101207,David,Real Estate,36537.29,2023-06-25,2028-01-09,Low,3.07,BrokerD,Active
+101208,Bob,Bonds,49207.01,2020-05-03,2026-07-10,Medium,9.82,BrokerD,Active
+101209,Alice,Mutual Funds,6299.83,2023-06-02,2028-02-26,High,7.49,BrokerA,Closed
+101210,Fay,Mutual Funds,12751.88,2024-02-24,2028-11-26,Low,4.04,BrokerC,Pending
+101211,Charlie,Real Estate,29566.2,2020-07-22,2026-07-11,High,10.32,BrokerD,Pending
+101212,Eve,Bonds,7645.96,2024-04-11,2025-10-09,Medium,3.5,BrokerC,Active
+101213,Fay,Stocks,64980.66,2021-03-01,2025-08-12,High,8.98,BrokerD,Active
+101214,Alice,Stocks,45507.84,2023-07-05,2028-06-14,High,8.62,BrokerD,Closed
+101215,Fay,Crypto,57073.79,2021-03-08,2029-02-26,Low,11.41,BrokerC,Active
+101216,Charlie,Crypto,21591.48,2021-06-25,2028-04-16,High,2.24,BrokerC,Closed
+101217,Alice,Stocks,33113.54,2023-09-14,2026-05-06,Low,13.49,BrokerA,Active
+101218,Fay,Mutual Funds,68063.33,2020-06-15,2026-05-12,Medium,10.99,BrokerD,Active
+101219,Eve,Mutual Funds,96703.76,2020-11-17,2025-04-14,High,4.42,BrokerB,Active
+101220,Eve,Crypto,9789.59,2021-05-06,2028-10-03,Medium,3.98,BrokerB,Pending
+101221,Bob,Real Estate,89586.51,2020-12-21,2027-12-24,Medium,7.33,BrokerD,Closed
+101222,Fay,Stocks,59803.71,2023-02-04,2026-04-08,High,12.54,BrokerD,Closed
+101223,David,Crypto,58572.36,2020-06-02,2028-07-30,Low,12.88,BrokerD,Pending
+101224,Fay,Crypto,52526.46,2020-11-16,2026-04-22,Medium,8.53,BrokerC,Pending
+101225,Alice,Stocks,11592.44,2020-01-06,2025-04-18,Medium,13.12,BrokerB,Pending
+101226,Alice,Stocks,13538.3,2022-04-16,2025-07-25,High,1.57,BrokerB,Closed
+101227,Fay,Mutual Funds,62086.64,2022-07-11,2027-04-27,High,1.97,BrokerB,Active
+101228,Charlie,Real Estate,37391.06,2023-11-12,2026-11-08,High,13.81,BrokerD,Pending
+101229,Eve,Real Estate,92140.47,2023-05-01,2029-01-09,High,11.97,BrokerC,Pending
+101230,Alice,Stocks,43626.1,2022-08-20,2027-08-26,High,7.58,BrokerD,Pending
+101231,Eve,Bonds,18611.74,2021-08-19,2025-07-25,High,11.67,BrokerA,Active
+101232,Alice,Crypto,72898.29,2020-03-07,2028-10-27,Low,14.4,BrokerA,Active
+101233,Bob,Crypto,32868.58,2021-04-19,2029-04-28,Medium,11.92,BrokerB,Pending
+101234,David,Stocks,54919.68,2021-08-13,2025-10-09,Low,12.87,BrokerD,Active
+101235,Alice,Bonds,71294.11,2023-12-18,2025-01-11,Low,11.77,BrokerA,Pending
+101236,Eve,Mutual Funds,90525.09,2021-08-02,2028-02-02,High,3.77,BrokerA,Active
+101237,Bob,Stocks,80258.16,2023-12-10,2025-11-20,Medium,12.75,BrokerD,Closed
+101238,Alice,Stocks,69254.3,2024-10-26,2027-04-14,Low,4.13,BrokerC,Closed
+101239,Charlie,Crypto,69565.15,2022-07-18,2028-08-30,High,13.55,BrokerD,Active
+101240,David,Stocks,94862.84,2020-05-25,2029-12-09,High,7.69,BrokerD,Closed
+101241,Alice,Stocks,33103.29,2023-11-08,2029-12-04,Medium,10.64,BrokerC,Closed
+101242,Bob,Stocks,5105.65,2021-04-23,2027-09-02,Low,8.21,BrokerB,Closed
+101243,Charlie,Crypto,30835.68,2021-06-25,2027-09-05,Low,2.77,BrokerB,Pending
+101244,Fay,Mutual Funds,25699.68,2024-06-01,2028-08-25,Low,5.42,BrokerB,Active
+101245,Bob,Mutual Funds,67874.29,2024-06-08,2026-02-13,High,14.78,BrokerC,Active
+101246,Bob,Stocks,65202.6,2023-07-04,2029-03-29,Medium,14.47,BrokerA,Active
+101247,Charlie,Crypto,61378.83,2023-04-22,2026-08-12,Medium,5.83,BrokerC,Closed
+101248,Bob,Mutual Funds,6543.13,2023-09-16,2026-10-20,Low,14.95,BrokerD,Pending
+101249,Charlie,Mutual Funds,74233.92,2024-07-04,2026-08-08,High,12.91,BrokerC,Active
+101250,Alice,Mutual Funds,35735.39,2021-02-09,2028-08-15,Low,9.75,BrokerA,Closed
+101251,Charlie,Crypto,68180.32,2022-05-20,2025-05-02,Medium,2.04,BrokerA,Pending
+101252,Charlie,Crypto,57874.95,2020-08-23,2029-04-24,High,13.67,BrokerD,Pending
+101253,David,Stocks,37559.44,2023-01-20,2025-07-03,Low,9.03,BrokerB,Active
+101254,Charlie,Real Estate,17784.75,2021-04-05,2028-08-28,Low,13.22,BrokerA,Active
+101255,Charlie,Mutual Funds,13969.8,2023-08-19,2028-03-21,High,12.76,BrokerA,Closed
+101256,Fay,Real Estate,83994.24,2020-11-01,2026-04-21,Medium,12.75,BrokerA,Active
+101257,Alice,Crypto,92247.77,2021-06-28,2028-01-01,High,10.93,BrokerD,Closed
+101258,David,Crypto,66729.86,2024-08-19,2029-02-21,Low,5.43,BrokerA,Pending
+101259,Fay,Crypto,14826.24,2020-10-18,2029-01-20,Low,6.04,BrokerB,Pending
+101260,Eve,Real Estate,43192.59,2020-05-26,2029-10-08,Low,5.66,BrokerD,Pending
+101261,Alice,Crypto,74249.22,2020-05-02,2025-03-18,Low,1.77,BrokerB,Pending
+101262,Alice,Stocks,79082.98,2020-12-05,2025-12-25,Medium,9.36,BrokerA,Active
+101263,Eve,Crypto,16230.77,2024-06-11,2027-05-06,Medium,10.93,BrokerA,Active
+101264,Charlie,Bonds,5002.92,2021-09-21,2029-12-12,Low,13.03,BrokerB,Closed
+101265,Fay,Real Estate,72653.02,2023-05-03,2029-09-12,Medium,3.39,BrokerD,Closed
+101266,Bob,Bonds,38876.64,2024-03-13,2025-12-27,Medium,8.85,BrokerD,Closed
+101267,David,Crypto,29175.73,2024-08-15,2025-03-16,Medium,1.61,BrokerB,Closed
+101268,Bob,Stocks,6225.26,2023-03-11,2029-09-09,Low,2.78,BrokerA,Closed
+101269,Eve,Mutual Funds,56328.44,2021-08-14,2027-03-25,High,2.23,BrokerC,Pending
+101270,Alice,Crypto,85859.32,2022-06-18,2029-06-02,High,11.29,BrokerB,Pending
+101271,Alice,Stocks,95975.01,2020-09-11,2027-10-12,High,2.59,BrokerB,Pending
+101272,David,Real Estate,58745.77,2022-08-17,2026-01-17,Low,11.17,BrokerB,Closed
+101273,Alice,Bonds,53873.83,2023-11-11,2029-03-14,Medium,4.87,BrokerA,Pending
+101274,Alice,Bonds,13080.36,2021-09-14,2029-11-22,Medium,13.35,BrokerD,Pending
+101275,David,Bonds,57142.92,2023-12-04,2026-08-16,Low,12.48,BrokerA,Pending
+101276,Fay,Real Estate,41098.01,2022-04-04,2029-12-01,Low,14.43,BrokerB,Pending
+101277,Fay,Stocks,62677.85,2021-07-11,2025-03-18,High,13.43,BrokerA,Active
+101278,David,Real Estate,41929.0,2022-10-21,2025-01-19,High,14.1,BrokerA,Closed
+101279,Eve,Bonds,27828.42,2023-01-10,2026-09-04,Low,13.09,BrokerB,Closed
+101280,Alice,Crypto,14021.7,2022-10-08,2028-03-09,High,10.86,BrokerA,Active
+101281,Alice,Mutual Funds,34917.25,2022-06-15,2028-05-19,Medium,3.8,BrokerC,Pending
+101282,Eve,Real Estate,14181.26,2020-06-13,2025-08-08,Low,5.17,BrokerA,Pending
+101283,Fay,Real Estate,21805.21,2023-05-09,2026-11-18,Low,4.37,BrokerA,Pending
+101284,Charlie,Stocks,98796.94,2020-03-22,2026-08-06,Medium,9.65,BrokerD,Closed
+101285,Charlie,Stocks,47189.84,2024-12-26,2027-07-20,Medium,8.3,BrokerD,Closed
+101286,Charlie,Real Estate,55527.82,2022-06-03,2028-08-06,Medium,13.21,BrokerB,Closed
+101287,Fay,Bonds,87993.76,2024-02-13,2028-01-18,High,14.36,BrokerB,Closed
+101288,Fay,Mutual Funds,99579.05,2021-10-22,2027-12-10,Low,6.97,BrokerD,Closed
+101289,Eve,Stocks,60357.87,2023-05-21,2027-10-09,High,8.34,BrokerC,Active
+101290,Alice,Bonds,82185.01,2021-05-27,2029-12-27,Medium,14.62,BrokerA,Closed
+101291,Eve,Crypto,36059.4,2020-02-22,2025-10-02,High,5.23,BrokerC,Pending
+101292,Eve,Stocks,34045.68,2020-07-06,2029-10-09,Medium,12.2,BrokerC,Closed
+101293,Fay,Bonds,43256.85,2021-04-13,2027-10-30,High,4.54,BrokerD,Active
+101294,Charlie,Bonds,68888.19,2023-10-12,2027-08-17,High,10.7,BrokerB,Pending
+101295,Bob,Mutual Funds,69808.21,2024-09-08,2026-07-13,Medium,4.92,BrokerA,Active
+101296,Alice,Mutual Funds,34947.75,2024-10-28,2026-01-30,High,13.43,BrokerB,Pending
+101297,Fay,Crypto,17654.94,2023-03-24,2029-07-15,Low,9.08,BrokerC,Closed
+101298,Charlie,Bonds,65077.64,2023-04-17,2025-08-19,High,4.01,BrokerC,Active
+101299,Bob,Bonds,17190.96,2020-02-12,2026-11-09,High,4.53,BrokerB,Pending
+101300,Bob,Mutual Funds,59956.79,2024-04-15,2025-11-29,Low,8.17,BrokerB,Closed
+101301,Fay,Stocks,70875.1,2023-10-08,2029-02-06,Medium,14.48,BrokerD,Pending
+101302,David,Stocks,71558.09,2024-08-09,2027-07-29,Low,11.89,BrokerB,Active
+101303,Alice,Real Estate,76579.85,2021-07-05,2028-08-20,High,8.09,BrokerB,Active
+101304,Bob,Mutual Funds,87921.65,2023-03-26,2026-06-11,Medium,6.06,BrokerD,Active
+101305,Fay,Real Estate,52496.1,2020-03-23,2029-01-11,High,8.92,BrokerB,Active
+101306,Fay,Mutual Funds,74373.67,2024-04-11,2026-01-17,High,11.6,BrokerC,Closed
+101307,Charlie,Crypto,63821.41,2024-03-28,2025-01-29,Low,12.08,BrokerB,Pending
+101308,David,Bonds,22730.79,2020-12-24,2029-02-17,Low,5.88,BrokerA,Closed
+101309,Alice,Crypto,7440.52,2022-08-21,2026-11-22,Medium,11.24,BrokerC,Active
+101310,Eve,Mutual Funds,32031.43,2022-11-28,2029-06-08,Medium,10.38,BrokerD,Pending
+101311,Charlie,Bonds,47088.2,2023-08-27,2026-08-28,Medium,14.45,BrokerC,Active
+101312,Bob,Stocks,63625.06,2022-06-24,2028-03-08,High,14.07,BrokerD,Closed
+101313,Bob,Stocks,85746.14,2021-07-23,2028-10-13,Low,12.16,BrokerA,Closed
+101314,Charlie,Real Estate,23643.34,2021-01-06,2029-03-31,Low,11.27,BrokerA,Closed
+101315,Fay,Mutual Funds,16927.23,2023-04-13,2026-01-31,Low,5.2,BrokerC,Pending
+101316,Bob,Mutual Funds,96530.6,2022-06-11,2025-12-26,Medium,12.92,BrokerB,Pending
+101317,David,Stocks,15264.23,2023-07-24,2028-06-05,Low,7.27,BrokerC,Active
+101318,Alice,Crypto,50456.65,2024-07-25,2029-10-20,Low,5.18,BrokerC,Pending
+101319,David,Bonds,60628.55,2022-10-04,2028-08-01,Low,6.69,BrokerA,Pending
+101320,Bob,Crypto,56430.57,2020-07-05,2027-04-11,Medium,12.79,BrokerD,Closed
+101321,Eve,Crypto,13173.05,2022-08-20,2029-08-21,Low,3.51,BrokerC,Active
+101322,Alice,Stocks,10417.56,2021-12-13,2027-05-26,Medium,7.66,BrokerB,Closed
+101323,Alice,Stocks,15020.93,2022-04-16,2027-11-22,Low,8.15,BrokerA,Active
+101324,Charlie,Stocks,60630.83,2021-11-13,2026-11-03,Low,1.99,BrokerC,Active
+101325,Charlie,Real Estate,56712.76,2021-10-19,2025-06-27,Low,4.14,BrokerC,Pending
+101326,Eve,Crypto,27205.38,2023-10-04,2027-04-01,Medium,12.66,BrokerB,Closed
+101327,Fay,Mutual Funds,65588.54,2020-08-02,2028-10-02,Medium,12.72,BrokerC,Pending
+101328,Alice,Bonds,82906.41,2024-10-22,2025-07-15,Low,5.45,BrokerC,Pending
+101329,Eve,Real Estate,8950.0,2020-11-25,2026-01-14,High,13.31,BrokerC,Pending
+101330,Charlie,Mutual Funds,52322.34,2021-11-06,2025-10-15,Medium,11.92,BrokerC,Active
+101331,Charlie,Crypto,70484.49,2022-04-23,2027-09-05,Medium,7.14,BrokerB,Closed
+101332,Alice,Stocks,28969.63,2023-11-21,2026-10-25,Low,11.6,BrokerC,Closed
+101333,David,Crypto,34238.24,2022-10-11,2026-05-24,High,14.48,BrokerC,Pending
+101334,Bob,Bonds,63295.6,2021-08-13,2025-01-14,Low,7.7,BrokerC,Active
+101335,Charlie,Real Estate,90303.85,2023-09-18,2026-06-19,Medium,4.72,BrokerA,Closed
+101336,Fay,Real Estate,81942.82,2022-03-31,2027-02-25,Medium,14.21,BrokerB,Closed
+101337,Fay,Bonds,60397.37,2024-07-24,2026-04-28,Low,9.65,BrokerA,Pending
+101338,Charlie,Mutual Funds,74371.06,2024-04-06,2027-07-04,Low,2.92,BrokerA,Active
+101339,David,Mutual Funds,39658.13,2023-01-31,2029-03-24,High,9.23,BrokerB,Pending
+101340,David,Real Estate,65891.73,2020-03-16,2026-07-01,High,8.26,BrokerA,Closed
+101341,Eve,Real Estate,49287.25,2022-07-20,2026-11-07,Medium,13.05,BrokerA,Active
+101342,Fay,Stocks,23043.93,2020-06-29,2026-09-11,High,8.66,BrokerA,Pending
+101343,Eve,Mutual Funds,71665.14,2021-10-06,2028-04-07,High,4.95,BrokerB,Closed
+101344,Fay,Bonds,57864.14,2021-05-31,2029-01-20,Medium,10.62,BrokerC,Pending
+101345,Bob,Mutual Funds,39069.05,2021-10-24,2028-03-19,Medium,8.82,BrokerD,Pending
+101346,Bob,Stocks,91577.22,2020-08-25,2025-01-24,Medium,4.65,BrokerD,Pending
+101347,Alice,Real Estate,6988.74,2024-05-01,2026-06-20,Medium,9.24,BrokerB,Active
+101348,Eve,Real Estate,34998.45,2022-04-07,2028-08-31,Low,12.59,BrokerD,Closed
+101349,Charlie,Stocks,10403.73,2024-11-06,2027-01-07,Medium,1.89,BrokerB,Closed
+101350,Eve,Bonds,77820.1,2022-11-19,2028-11-19,Medium,10.02,BrokerB,Closed
+101351,Charlie,Real Estate,71700.21,2024-08-16,2026-04-29,Medium,6.22,BrokerD,Closed
+101352,David,Crypto,36478.46,2020-01-03,2025-05-08,High,5.45,BrokerA,Active
+101353,Eve,Real Estate,69187.98,2023-09-08,2028-09-29,Medium,6.8,BrokerC,Pending
+101354,David,Crypto,42614.04,2024-11-15,2025-08-31,Low,6.12,BrokerD,Closed
+101355,Bob,Stocks,76844.11,2023-01-16,2027-08-12,Low,12.74,BrokerD,Active
+101356,Bob,Stocks,48147.45,2022-08-04,2026-09-21,Medium,5.21,BrokerD,Pending
+101357,Alice,Real Estate,44166.57,2022-04-26,2025-11-24,Low,11.4,BrokerD,Active
+101358,Eve,Mutual Funds,93799.34,2020-04-21,2027-04-11,High,2.77,BrokerB,Active
+101359,David,Crypto,28833.51,2021-01-19,2028-11-06,Medium,14.34,BrokerB,Closed
+101360,Charlie,Bonds,16442.5,2022-11-27,2027-10-27,Low,9.9,BrokerC,Closed
+101361,Bob,Real Estate,60531.6,2022-01-10,2029-12-24,Low,11.04,BrokerC,Pending
+101362,Bob,Bonds,97085.57,2023-06-29,2028-12-11,Medium,5.52,BrokerD,Pending
+101363,Charlie,Real Estate,40894.73,2024-03-29,2029-04-26,Low,7.06,BrokerD,Closed
+101364,David,Mutual Funds,10893.49,2022-10-17,2026-09-29,Medium,4.52,BrokerD,Active
+101365,David,Mutual Funds,37234.0,2023-07-04,2028-11-14,Low,14.09,BrokerC,Closed
+101366,Eve,Mutual Funds,53063.51,2022-06-24,2025-08-29,High,8.09,BrokerD,Pending
+101367,Eve,Mutual Funds,20382.69,2024-04-05,2028-08-01,Low,10.01,BrokerA,Active
+101368,Fay,Stocks,67519.71,2020-04-15,2026-08-28,Low,11.41,BrokerC,Active
+101369,Fay,Stocks,99786.19,2021-02-20,2027-01-23,Medium,6.51,BrokerA,Active
+101370,Alice,Crypto,47915.25,2021-06-30,2028-06-12,Low,11.22,BrokerD,Closed
+101371,Bob,Bonds,38699.21,2023-01-29,2026-03-29,Medium,10.63,BrokerB,Closed
+101372,Eve,Real Estate,43066.9,2020-09-25,2026-03-25,High,11.03,BrokerA,Pending
+101373,David,Real Estate,15938.89,2021-08-12,2025-10-01,Medium,8.1,BrokerC,Active
+101374,Charlie,Stocks,88910.99,2022-06-16,2027-09-07,Medium,6.67,BrokerA,Active
+101375,David,Real Estate,44408.44,2024-12-08,2025-11-10,Low,4.5,BrokerC,Closed
+101376,Bob,Stocks,41791.07,2023-12-01,2027-07-21,High,12.63,BrokerD,Pending
+101377,Fay,Crypto,67670.58,2022-09-19,2029-03-12,Medium,9.71,BrokerA,Pending
+101378,David,Bonds,46993.17,2020-09-05,2028-05-25,Low,7.5,BrokerB,Active
+101379,Alice,Crypto,66582.18,2020-02-29,2027-02-05,Low,14.24,BrokerA,Closed
+101380,Bob,Mutual Funds,10837.4,2023-07-14,2027-05-02,Medium,2.15,BrokerB,Active
+101381,Fay,Mutual Funds,82303.72,2023-05-31,2028-12-08,Low,12.98,BrokerC,Closed
+101382,Charlie,Mutual Funds,94347.88,2024-06-24,2028-01-30,Medium,14.97,BrokerD,Pending
+101383,Fay,Crypto,66632.71,2021-05-05,2027-08-23,Medium,13.47,BrokerD,Active
+101384,Alice,Real Estate,95683.76,2023-12-24,2029-04-01,Medium,12.44,BrokerB,Active
+101385,Bob,Bonds,19386.07,2020-11-20,2028-01-06,High,6.55,BrokerC,Active
+101386,Charlie,Mutual Funds,50354.54,2021-09-28,2029-07-01,Medium,4.62,BrokerD,Pending
+101387,Alice,Mutual Funds,62171.64,2023-02-02,2028-09-22,Low,11.42,BrokerC,Active
+101388,Fay,Mutual Funds,60264.98,2020-01-29,2029-08-18,High,5.61,BrokerB,Pending
+101389,Alice,Bonds,43138.87,2023-02-05,2026-03-24,Low,3.88,BrokerB,Closed
+101390,Bob,Mutual Funds,37118.02,2022-04-15,2029-04-10,High,12.12,BrokerA,Pending
+101391,Eve,Bonds,17048.28,2020-07-09,2026-05-22,High,5.72,BrokerD,Closed
+101392,Alice,Mutual Funds,42215.53,2021-04-05,2028-10-25,High,13.84,BrokerD,Pending
+101393,Alice,Crypto,20452.78,2024-09-19,2029-03-26,High,12.85,BrokerA,Pending
+101394,Fay,Crypto,74764.74,2020-08-20,2028-05-05,Low,12.94,BrokerB,Active
+101395,Fay,Bonds,24838.94,2022-08-03,2029-11-24,Medium,11.92,BrokerB,Pending
+101396,Charlie,Crypto,10563.7,2020-08-28,2029-06-01,Low,13.39,BrokerB,Active
+101397,Fay,Bonds,57474.78,2023-08-19,2025-06-17,Medium,12.38,BrokerB,Closed
+101398,David,Crypto,61546.82,2024-08-31,2027-12-13,Low,9.63,BrokerC,Closed
+101399,Bob,Crypto,87831.74,2020-11-11,2027-07-04,High,5.49,BrokerD,Active
+101400,Bob,Bonds,59813.25,2022-10-17,2027-12-18,High,13.49,BrokerD,Closed
+101401,Eve,Real Estate,37820.68,2024-01-07,2028-12-12,Medium,12.85,BrokerB,Pending
+101402,Eve,Crypto,81286.13,2021-08-20,2027-01-11,Medium,7.88,BrokerB,Active
+101403,Bob,Mutual Funds,56326.49,2022-11-08,2025-06-09,Low,2.03,BrokerB,Active
+101404,Eve,Real Estate,12531.63,2023-12-15,2028-03-01,Medium,10.12,BrokerD,Active
+101405,Charlie,Bonds,58755.8,2021-07-13,2025-08-18,Low,2.18,BrokerD,Closed
+101406,Fay,Real Estate,91261.76,2022-04-30,2025-05-07,Medium,14.0,BrokerB,Closed
+101407,Bob,Stocks,42649.7,2024-09-05,2029-08-25,Medium,14.48,BrokerC,Pending
+101408,Eve,Stocks,33150.95,2022-09-15,2028-01-27,Medium,4.06,BrokerA,Pending
+101409,Bob,Crypto,18629.6,2022-08-25,2027-11-02,High,10.63,BrokerA,Active
+101410,David,Crypto,19387.32,2021-05-14,2026-02-19,High,2.75,BrokerA,Pending
+101411,Alice,Mutual Funds,46113.29,2022-07-24,2028-03-18,Low,11.35,BrokerD,Closed
+101412,Fay,Real Estate,61589.58,2023-02-02,2028-01-05,Medium,6.19,BrokerD,Pending
+101413,Bob,Stocks,12658.46,2020-10-23,2025-11-03,Low,10.69,BrokerA,Closed
+101414,Alice,Crypto,94259.02,2022-02-24,2025-12-03,Medium,6.53,BrokerA,Pending
+101415,Eve,Real Estate,76737.69,2021-01-25,2026-11-03,High,3.47,BrokerC,Closed
+101416,Alice,Crypto,60729.27,2023-05-12,2029-10-16,High,6.98,BrokerD,Closed
+101417,Fay,Crypto,83701.67,2022-11-06,2027-12-02,Medium,3.02,BrokerD,Pending
+101418,Bob,Stocks,12617.74,2024-03-08,2027-06-24,Medium,9.29,BrokerA,Pending
+101419,David,Stocks,50299.69,2024-12-05,2025-08-27,High,2.05,BrokerC,Closed
+101420,Eve,Crypto,64858.85,2020-10-06,2028-10-25,High,8.62,BrokerC,Active
+101421,Bob,Bonds,83722.03,2024-11-04,2026-02-25,Low,13.47,BrokerA,Pending
+101422,Fay,Crypto,79429.61,2020-05-22,2029-01-08,High,12.81,BrokerA,Closed
+101423,Eve,Crypto,31321.58,2021-07-19,2028-04-09,Medium,13.42,BrokerD,Pending
+101424,Charlie,Mutual Funds,94383.62,2024-05-01,2027-09-29,Low,13.95,BrokerA,Pending
+101425,Alice,Mutual Funds,16812.85,2024-06-05,2025-07-06,Medium,2.91,BrokerB,Pending
+101426,Fay,Mutual Funds,88137.69,2024-10-15,2027-11-12,Low,3.24,BrokerC,Pending
+101427,Charlie,Bonds,97239.32,2022-04-29,2027-07-02,Medium,9.02,BrokerA,Pending
+101428,Bob,Bonds,21829.58,2021-11-27,2029-07-15,High,13.57,BrokerB,Active
+101429,David,Crypto,73596.28,2024-06-01,2025-04-24,Medium,14.65,BrokerC,Active
+101430,Eve,Mutual Funds,8827.12,2022-11-05,2027-07-18,Low,2.12,BrokerB,Active
+101431,Alice,Bonds,43515.17,2021-07-01,2025-09-28,Medium,6.3,BrokerB,Closed
+101432,Eve,Stocks,54046.91,2024-08-07,2027-11-18,Low,4.37,BrokerA,Active
+101433,Bob,Crypto,60161.3,2020-01-06,2027-05-01,Medium,11.71,BrokerC,Active
+101434,Eve,Real Estate,93914.04,2021-08-02,2027-07-25,High,10.14,BrokerB,Closed
+101435,Alice,Crypto,68863.82,2024-01-26,2028-02-29,High,3.12,BrokerD,Active
+101436,Bob,Real Estate,50721.41,2021-09-03,2025-04-29,Medium,8.03,BrokerC,Pending
+101437,Eve,Mutual Funds,81919.13,2024-09-11,2028-02-19,Medium,10.75,BrokerD,Active
+101438,David,Real Estate,95300.62,2023-04-17,2027-08-05,Medium,12.02,BrokerA,Active
+101439,Fay,Mutual Funds,7096.28,2023-04-02,2028-10-09,Low,1.77,BrokerD,Active
+101440,Bob,Stocks,98339.52,2023-09-13,2029-07-11,Medium,13.52,BrokerC,Pending
+101441,Fay,Real Estate,13182.55,2022-09-29,2026-09-24,Medium,9.19,BrokerB,Pending
+101442,Bob,Crypto,82366.74,2024-11-07,2029-01-21,Low,12.46,BrokerB,Pending
+101443,David,Mutual Funds,31631.8,2020-10-31,2025-02-14,High,12.41,BrokerC,Pending
+101444,Fay,Crypto,17557.07,2022-07-03,2027-03-22,Medium,4.06,BrokerB,Closed
+101445,Charlie,Bonds,46786.29,2023-01-08,2026-06-06,Medium,2.99,BrokerD,Pending
+101446,Alice,Mutual Funds,66175.88,2022-09-18,2029-07-31,High,11.24,BrokerB,Pending
+101447,Charlie,Real Estate,41190.43,2021-12-07,2025-01-07,High,3.61,BrokerB,Pending
+101448,Eve,Mutual Funds,10183.71,2021-11-11,2029-03-08,Low,12.97,BrokerD,Pending
+101449,David,Crypto,61948.81,2023-02-04,2026-03-23,Medium,11.3,BrokerD,Closed
+101450,Charlie,Stocks,90728.31,2024-04-11,2028-03-30,Medium,12.86,BrokerD,Active
+101451,Bob,Mutual Funds,41405.46,2023-01-17,2025-05-30,Low,5.54,BrokerA,Active
+101452,Eve,Real Estate,25551.61,2022-02-11,2025-04-03,High,5.77,BrokerD,Pending
+101453,Eve,Bonds,47044.85,2022-07-21,2027-05-18,Low,10.56,BrokerD,Pending
+101454,Charlie,Stocks,9594.46,2021-10-21,2026-12-07,High,1.92,BrokerA,Pending
+101455,Charlie,Bonds,82946.32,2024-11-15,2028-12-05,Low,11.31,BrokerB,Active
+101456,David,Mutual Funds,83502.38,2021-01-21,2025-05-11,High,12.78,BrokerD,Active
+101457,Alice,Crypto,60860.04,2023-11-29,2028-01-14,Low,7.1,BrokerC,Pending
+101458,Charlie,Crypto,38544.77,2021-05-04,2025-05-04,High,11.83,BrokerD,Active
+101459,Charlie,Real Estate,80979.42,2023-03-17,2025-05-22,High,3.86,BrokerD,Closed
+101460,Fay,Crypto,57695.27,2022-02-23,2027-08-25,High,5.85,BrokerA,Pending
+101461,Bob,Stocks,83463.57,2021-04-23,2025-03-06,High,14.65,BrokerC,Pending
+101462,Fay,Crypto,64988.59,2024-10-19,2026-08-11,High,14.82,BrokerB,Closed
+101463,Fay,Real Estate,79518.52,2024-05-07,2027-04-18,Medium,8.42,BrokerB,Closed
+101464,Eve,Mutual Funds,61863.48,2022-04-21,2026-01-04,High,14.11,BrokerC,Active
+101465,Alice,Mutual Funds,44343.4,2020-03-30,2029-04-24,Medium,8.56,BrokerD,Closed
+101466,Bob,Crypto,96004.86,2021-10-13,2025-10-05,High,5.44,BrokerA,Pending
+101467,David,Bonds,56405.81,2024-03-05,2029-04-18,Medium,5.1,BrokerC,Active
+101468,David,Mutual Funds,62483.5,2022-08-26,2028-08-06,Medium,14.05,BrokerC,Closed
+101469,Charlie,Crypto,25946.33,2023-12-15,2029-02-02,Low,3.83,BrokerB,Active
+101470,Charlie,Real Estate,64436.82,2024-07-19,2028-08-15,High,9.33,BrokerA,Active
+101471,David,Crypto,59302.73,2022-02-19,2027-05-11,Low,9.0,BrokerC,Active
+101472,Charlie,Mutual Funds,22559.65,2022-03-01,2027-02-06,Low,11.48,BrokerA,Active
+101473,Alice,Real Estate,10660.77,2023-09-21,2029-12-31,High,8.24,BrokerD,Closed
+101474,Fay,Crypto,62414.14,2024-06-10,2027-02-23,Low,5.18,BrokerB,Pending
+101475,Charlie,Stocks,77550.77,2024-08-07,2027-07-08,High,3.79,BrokerD,Pending
+101476,Eve,Real Estate,54723.13,2023-08-28,2029-11-16,Low,9.88,BrokerA,Closed
+101477,Charlie,Stocks,26543.4,2020-11-07,2027-02-13,High,11.21,BrokerD,Pending
+101478,Bob,Bonds,68319.59,2022-10-11,2027-02-09,High,9.19,BrokerB,Active
+101479,Alice,Real Estate,12610.04,2020-03-16,2025-06-14,High,11.47,BrokerA,Active
+101480,Bob,Stocks,46974.2,2020-09-15,2028-10-30,Medium,3.41,BrokerC,Active
+101481,Bob,Mutual Funds,20519.84,2022-10-25,2028-09-17,Low,13.41,BrokerD,Closed
+101482,Eve,Mutual Funds,22523.61,2023-04-23,2029-11-27,Medium,9.36,BrokerB,Active
+101483,Alice,Bonds,24217.93,2021-11-10,2028-01-10,Low,3.21,BrokerC,Active
+101484,Alice,Real Estate,41737.17,2024-11-16,2025-09-30,Low,7.74,BrokerB,Closed
+101485,Alice,Real Estate,9859.27,2020-07-24,2028-08-31,Low,12.9,BrokerA,Active
+101486,Alice,Real Estate,42790.38,2024-11-25,2029-10-28,Medium,13.62,BrokerA,Active
+101487,Alice,Bonds,53612.21,2024-09-26,2026-12-14,Low,5.07,BrokerD,Pending
+101488,Eve,Real Estate,50912.96,2022-06-20,2025-08-31,Medium,11.1,BrokerB,Closed
+101489,Charlie,Mutual Funds,41364.49,2020-07-23,2026-01-01,High,2.85,BrokerB,Active
+101490,Bob,Stocks,84718.93,2022-12-13,2028-01-06,Low,1.95,BrokerB,Active
+101491,Alice,Mutual Funds,18806.04,2022-07-24,2027-03-16,Low,9.07,BrokerA,Active
+101492,Charlie,Mutual Funds,53041.19,2020-02-01,2027-12-20,High,10.88,BrokerD,Active
+101493,Charlie,Stocks,10893.93,2024-01-19,2025-09-18,High,12.24,BrokerB,Pending
+101494,Bob,Mutual Funds,11759.79,2020-10-22,2029-01-30,Low,6.09,BrokerB,Pending
+101495,Eve,Bonds,59517.26,2022-04-19,2026-04-02,High,1.59,BrokerC,Pending
+101496,David,Stocks,58771.75,2024-11-18,2029-09-06,Medium,7.97,BrokerB,Pending
+101497,David,Mutual Funds,88413.18,2023-09-02,2025-01-08,Medium,1.71,BrokerD,Closed
+101498,Charlie,Crypto,57998.0,2020-11-12,2029-03-29,Low,2.74,BrokerC,Active
+101499,Fay,Mutual Funds,96180.15,2020-06-02,2025-02-16,Medium,5.91,BrokerC,Pending
+101500,Fay,Bonds,9626.01,2022-08-19,2026-09-04,Medium,7.4,BrokerC,Active
+101501,Bob,Real Estate,14310.73,2024-05-19,2027-08-07,Low,5.27,BrokerA,Closed
+101502,David,Mutual Funds,9186.26,2021-06-26,2028-10-11,High,9.36,BrokerC,Active
+101503,Charlie,Real Estate,22601.3,2021-11-24,2029-01-12,Low,2.25,BrokerB,Active
+101504,Eve,Crypto,56420.66,2023-06-30,2028-01-21,Medium,3.45,BrokerA,Pending
+101505,David,Mutual Funds,66329.36,2023-11-19,2027-05-19,Low,10.89,BrokerA,Pending
+101506,Charlie,Stocks,9330.59,2022-03-25,2027-12-26,Low,3.42,BrokerA,Closed
+101507,Charlie,Real Estate,94867.23,2023-08-23,2027-02-16,Medium,10.14,BrokerA,Active
+101508,Alice,Crypto,85005.71,2020-06-13,2029-08-14,Medium,2.24,BrokerA,Pending
+101509,Eve,Stocks,33178.19,2024-10-10,2026-04-16,Low,7.0,BrokerA,Pending
+101510,Alice,Stocks,12332.82,2021-11-03,2026-05-22,Medium,3.9,BrokerA,Pending
+101511,Bob,Stocks,21139.27,2024-10-11,2027-08-02,Medium,2.98,BrokerC,Closed
+101512,Alice,Stocks,17059.72,2023-10-13,2026-12-10,Medium,9.15,BrokerD,Active
+101513,Alice,Mutual Funds,16711.96,2024-10-25,2025-11-14,Medium,14.03,BrokerB,Pending
+101514,David,Mutual Funds,54263.36,2022-12-28,2026-07-19,Medium,2.24,BrokerB,Active
+101515,Fay,Mutual Funds,28355.51,2022-02-17,2026-01-22,Medium,7.19,BrokerC,Closed
+101516,Charlie,Crypto,39023.27,2021-10-10,2029-11-28,High,11.05,BrokerC,Active
+101517,Eve,Crypto,99003.01,2023-07-07,2029-01-24,Low,7.75,BrokerA,Pending
+101518,Alice,Crypto,70009.85,2024-01-11,2029-04-17,Medium,12.39,BrokerD,Active
+101519,Eve,Bonds,95153.16,2024-12-22,2025-08-20,Low,3.93,BrokerA,Active
+101520,Fay,Crypto,18542.87,2024-04-04,2025-03-07,High,14.45,BrokerC,Closed
+101521,Fay,Mutual Funds,41303.25,2022-09-26,2029-07-16,Medium,6.7,BrokerA,Closed
+101522,Alice,Mutual Funds,57699.52,2024-11-21,2028-09-14,Low,6.11,BrokerB,Active
+101523,Bob,Bonds,12292.02,2023-01-13,2027-05-09,Medium,13.31,BrokerB,Active
+101524,Alice,Bonds,5397.81,2020-03-14,2028-06-13,Medium,9.11,BrokerA,Active
+101525,David,Crypto,68691.26,2023-06-18,2029-04-18,Medium,8.47,BrokerD,Closed
+101526,Charlie,Real Estate,65972.85,2020-05-20,2029-12-15,Medium,11.31,BrokerA,Closed
+101527,Bob,Bonds,44024.94,2021-04-25,2029-12-26,Medium,9.33,BrokerA,Active
+101528,Alice,Stocks,51516.19,2023-07-16,2025-02-02,Medium,3.69,BrokerD,Closed
+101529,Eve,Mutual Funds,44467.09,2023-11-02,2026-05-08,Medium,10.6,BrokerD,Pending
+101530,Bob,Stocks,7280.48,2021-08-11,2026-02-27,High,3.3,BrokerD,Closed
+101531,Bob,Mutual Funds,36860.3,2021-04-10,2025-05-18,High,12.38,BrokerB,Closed
+101532,Alice,Mutual Funds,21822.81,2024-03-09,2025-07-26,Medium,14.86,BrokerA,Closed
+101533,Bob,Bonds,14350.3,2020-07-04,2028-05-01,Medium,6.59,BrokerC,Pending
+101534,Eve,Bonds,95888.44,2022-06-07,2025-03-10,High,7.5,BrokerD,Pending
+101535,Fay,Stocks,61939.17,2020-07-20,2027-07-04,High,2.13,BrokerD,Pending
+101536,Bob,Mutual Funds,74222.35,2024-04-06,2028-05-09,High,1.69,BrokerA,Active
+101537,Fay,Stocks,34959.56,2023-07-21,2028-10-08,Medium,13.94,BrokerC,Active
+101538,Eve,Real Estate,42348.98,2023-12-12,2028-12-11,Low,3.24,BrokerA,Pending
+101539,Alice,Stocks,27507.78,2024-11-22,2029-11-22,Low,7.52,BrokerA,Active
+101540,Charlie,Crypto,14211.74,2020-07-24,2025-04-10,Low,12.51,BrokerD,Active
+101541,Bob,Stocks,22008.01,2022-06-27,2026-05-17,Low,13.51,BrokerD,Active
+101542,Charlie,Crypto,80763.83,2020-12-06,2029-02-25,Medium,8.51,BrokerB,Pending
+101543,Eve,Crypto,69366.85,2023-11-22,2025-04-01,Low,9.13,BrokerC,Closed
+101544,Bob,Crypto,56958.24,2021-09-05,2027-04-04,High,10.54,BrokerC,Pending
+101545,Fay,Real Estate,50133.54,2020-02-29,2027-06-18,High,14.48,BrokerD,Pending
+101546,David,Stocks,92631.26,2020-04-04,2026-04-25,Low,9.64,BrokerD,Active
+101547,Charlie,Stocks,11909.82,2021-10-26,2028-01-11,High,9.05,BrokerD,Active
+101548,Bob,Real Estate,31657.08,2024-06-18,2026-03-21,Medium,1.7,BrokerC,Closed
+101549,Charlie,Mutual Funds,38244.1,2020-04-24,2029-03-25,Low,2.59,BrokerB,Closed
+101550,Bob,Bonds,79330.45,2021-08-23,2029-11-04,Low,9.29,BrokerC,Closed
+101551,Alice,Stocks,99288.89,2022-01-04,2029-05-09,Medium,14.14,BrokerD,Closed
+101552,Fay,Bonds,27863.7,2022-02-06,2025-04-26,High,13.2,BrokerD,Pending
+101553,Charlie,Real Estate,88059.2,2022-06-01,2025-10-14,Medium,14.76,BrokerB,Closed
+101554,David,Mutual Funds,83909.16,2020-10-25,2027-10-29,Medium,8.63,BrokerA,Pending
+101555,David,Mutual Funds,26342.45,2021-05-15,2026-08-16,High,12.14,BrokerA,Active
+101556,Eve,Mutual Funds,42936.6,2022-12-23,2026-04-25,Medium,12.85,BrokerC,Closed
+101557,Bob,Real Estate,43918.92,2022-04-23,2029-07-29,High,10.25,BrokerA,Active
+101558,Charlie,Crypto,97930.96,2023-03-05,2029-02-07,High,6.07,BrokerA,Active
+101559,Eve,Crypto,22184.73,2023-10-28,2028-03-25,Medium,7.84,BrokerC,Pending
+101560,Charlie,Bonds,80920.01,2024-06-11,2026-10-16,High,13.08,BrokerD,Closed
+101561,Bob,Crypto,36748.31,2021-01-03,2028-03-28,Medium,5.53,BrokerA,Pending
+101562,David,Crypto,74432.68,2020-12-14,2028-05-09,High,13.97,BrokerD,Active
+101563,Alice,Mutual Funds,44901.05,2020-12-24,2029-05-02,Low,4.6,BrokerC,Closed
+101564,David,Mutual Funds,59944.18,2020-06-10,2028-10-09,High,11.62,BrokerD,Active
+101565,Eve,Bonds,84098.12,2023-06-02,2029-08-04,High,10.01,BrokerD,Active
+101566,Fay,Stocks,81395.73,2024-11-18,2026-10-19,Medium,11.62,BrokerC,Closed
+101567,Alice,Bonds,87310.2,2022-02-22,2026-05-01,High,7.4,BrokerD,Closed
+101568,Eve,Bonds,10663.65,2023-06-23,2026-09-11,Low,14.09,BrokerA,Closed
+101569,Bob,Real Estate,70744.8,2023-10-31,2029-11-30,Low,10.04,BrokerA,Pending
+101570,Alice,Real Estate,18298.8,2021-05-08,2025-10-21,High,5.39,BrokerA,Pending
+101571,Eve,Bonds,44502.76,2022-10-16,2028-09-14,High,10.12,BrokerA,Active
+101572,Bob,Bonds,57115.9,2023-04-09,2027-12-04,Low,5.37,BrokerD,Closed
+101573,David,Bonds,43260.25,2020-10-20,2026-03-29,Medium,5.46,BrokerA,Active
+101574,Fay,Crypto,54363.11,2021-04-20,2027-04-27,Low,6.89,BrokerD,Active
+101575,Bob,Real Estate,99670.0,2022-08-02,2026-09-08,Low,13.01,BrokerB,Active
+101576,Charlie,Bonds,17845.64,2023-07-30,2026-07-18,High,8.25,BrokerD,Active
+101577,Bob,Mutual Funds,69168.32,2021-06-04,2025-05-05,High,10.67,BrokerA,Active
+101578,Bob,Mutual Funds,42620.09,2022-07-30,2028-02-15,Low,6.79,BrokerB,Closed
+101579,Fay,Crypto,17635.93,2021-06-06,2028-04-26,Medium,5.06,BrokerC,Pending
+101580,Charlie,Crypto,20079.99,2023-09-27,2029-12-07,Low,14.39,BrokerD,Closed
+101581,Eve,Stocks,95180.95,2020-01-20,2029-02-14,Low,9.65,BrokerA,Closed
+101582,Eve,Stocks,88562.14,2024-07-05,2025-12-25,Medium,14.11,BrokerA,Closed
+101583,Bob,Stocks,91168.99,2022-08-10,2028-07-06,Low,4.25,BrokerA,Pending
+101584,Charlie,Crypto,99195.61,2021-08-12,2028-10-22,Low,3.48,BrokerC,Pending
+101585,Charlie,Crypto,24789.96,2023-10-19,2027-05-25,High,13.05,BrokerB,Pending
+101586,Fay,Crypto,38766.74,2023-01-24,2028-02-13,Medium,10.69,BrokerB,Closed
+101587,David,Mutual Funds,68575.81,2020-11-19,2027-10-13,High,4.02,BrokerA,Pending
+101588,Eve,Crypto,50961.24,2020-05-31,2025-04-07,High,5.14,BrokerD,Active
+101589,Fay,Mutual Funds,44747.01,2022-06-23,2026-12-07,Medium,12.31,BrokerA,Pending
+101590,Alice,Stocks,38992.07,2021-12-08,2028-08-10,Medium,7.63,BrokerA,Closed
+101591,Eve,Stocks,61409.16,2023-04-18,2028-10-06,Low,10.55,BrokerD,Closed
+101592,Fay,Stocks,59681.38,2021-09-04,2027-02-20,High,5.8,BrokerA,Active
+101593,Eve,Bonds,20338.49,2023-08-01,2029-05-29,Medium,6.65,BrokerC,Pending
+101594,David,Bonds,49815.28,2022-05-18,2027-12-11,High,14.87,BrokerA,Pending
+101595,Alice,Real Estate,57579.82,2023-11-14,2026-10-15,High,4.84,BrokerC,Active
+101596,David,Real Estate,59177.26,2021-05-27,2028-11-27,Medium,8.34,BrokerA,Closed
+101597,Alice,Real Estate,24960.18,2022-07-24,2027-05-03,Low,12.9,BrokerB,Closed
+101598,Bob,Bonds,75515.78,2024-09-27,2027-04-17,High,4.73,BrokerD,Pending
+101599,Fay,Bonds,7393.91,2021-09-10,2025-11-02,Medium,7.11,BrokerB,Pending
+101600,Alice,Real Estate,38709.03,2021-02-11,2026-09-07,Low,9.8,BrokerA,Pending
+101601,David,Real Estate,79120.2,2022-02-26,2027-02-10,High,8.0,BrokerA,Pending
+101602,Eve,Crypto,58569.83,2024-10-13,2026-01-12,Medium,7.7,BrokerC,Pending
+101603,Alice,Real Estate,29810.43,2022-09-16,2029-03-26,High,6.39,BrokerA,Closed
+101604,Fay,Crypto,71020.55,2020-08-06,2028-01-07,Medium,9.42,BrokerA,Closed
+101605,Alice,Mutual Funds,58902.14,2021-04-30,2027-08-28,Medium,9.93,BrokerA,Closed
+101606,Charlie,Bonds,80643.14,2022-02-20,2026-05-09,High,10.32,BrokerB,Closed
+101607,Eve,Real Estate,74827.39,2023-03-17,2029-10-06,High,2.45,BrokerC,Active
+101608,Fay,Bonds,62960.25,2022-01-05,2026-04-07,Medium,10.02,BrokerB,Closed
+101609,Fay,Bonds,51376.88,2023-03-23,2026-09-08,Low,14.37,BrokerC,Active
+101610,Bob,Bonds,17652.3,2021-08-28,2029-10-23,High,8.8,BrokerB,Closed
+101611,David,Mutual Funds,29826.64,2023-12-03,2028-12-20,Medium,11.16,BrokerA,Pending
+101612,Bob,Stocks,44814.45,2021-08-27,2025-10-23,Medium,9.02,BrokerB,Pending
+101613,Fay,Real Estate,61933.43,2020-02-14,2029-07-09,Low,13.04,BrokerB,Pending
+101614,Eve,Stocks,53802.25,2024-08-26,2027-08-07,Low,14.05,BrokerC,Active
+101615,Alice,Stocks,32377.53,2023-09-10,2025-04-29,Low,3.99,BrokerC,Closed
+101616,Alice,Stocks,5614.11,2022-03-21,2028-02-26,High,7.4,BrokerB,Closed
+101617,Eve,Bonds,52142.73,2021-07-16,2027-04-26,Medium,6.8,BrokerC,Active
+101618,Fay,Crypto,32134.47,2020-01-17,2027-05-04,Medium,6.97,BrokerC,Active
+101619,Alice,Bonds,74787.79,2023-03-05,2028-02-16,Medium,3.19,BrokerC,Active
+101620,Alice,Bonds,7274.9,2024-11-06,2027-12-22,Low,12.48,BrokerD,Active
+101621,Alice,Stocks,60558.64,2023-11-05,2025-10-02,Medium,1.98,BrokerC,Active
+101622,David,Bonds,94440.05,2024-05-12,2027-03-07,High,8.63,BrokerD,Pending
+101623,David,Stocks,21568.88,2024-03-05,2026-05-13,Low,10.44,BrokerD,Closed
+101624,Charlie,Crypto,49806.7,2020-04-10,2026-06-07,Low,4.3,BrokerC,Active
+101625,Bob,Real Estate,13685.09,2023-05-26,2026-02-21,Low,13.73,BrokerB,Pending
+101626,Eve,Stocks,64439.78,2024-03-06,2026-11-08,Low,12.82,BrokerC,Active
+101627,Eve,Crypto,57300.51,2022-10-14,2028-08-17,High,7.86,BrokerA,Pending
+101628,Eve,Real Estate,43699.72,2024-09-01,2025-06-11,Medium,7.05,BrokerB,Active
+101629,Charlie,Mutual Funds,54530.82,2021-08-09,2027-07-11,High,4.69,BrokerD,Closed
+101630,David,Stocks,90174.59,2024-05-07,2029-10-01,Medium,11.35,BrokerD,Active
+101631,Fay,Stocks,23647.96,2024-06-24,2027-01-30,High,3.28,BrokerB,Active
+101632,Fay,Mutual Funds,7143.63,2021-04-16,2025-07-09,Low,10.68,BrokerB,Closed
+101633,Charlie,Mutual Funds,86858.16,2023-05-28,2028-01-02,Low,12.87,BrokerC,Closed
+101634,Fay,Stocks,59826.12,2024-06-30,2029-01-23,High,4.58,BrokerD,Active
+101635,Eve,Mutual Funds,89612.55,2021-12-22,2029-08-26,High,13.2,BrokerA,Closed
+101636,Bob,Bonds,61709.8,2021-03-24,2026-01-26,Medium,1.95,BrokerC,Closed
+101637,Alice,Real Estate,81965.3,2023-07-27,2025-04-16,High,13.82,BrokerB,Pending
+101638,David,Real Estate,45818.97,2021-01-24,2026-07-04,High,3.1,BrokerD,Closed
+101639,David,Real Estate,76236.69,2023-06-25,2027-02-12,Medium,10.22,BrokerB,Closed
+101640,Charlie,Bonds,91738.94,2021-05-28,2028-10-11,Medium,4.88,BrokerB,Active
+101641,David,Mutual Funds,59351.68,2023-10-20,2028-05-23,Medium,12.79,BrokerB,Active
+101642,Eve,Crypto,22174.59,2024-03-27,2028-05-19,High,8.42,BrokerC,Pending
+101643,Fay,Mutual Funds,30535.77,2024-01-16,2025-03-22,Medium,3.33,BrokerA,Active
+101644,Eve,Stocks,23871.23,2024-04-20,2029-11-25,Low,9.21,BrokerA,Closed
+101645,Charlie,Real Estate,28451.42,2023-09-12,2025-05-30,Low,7.01,BrokerD,Closed
+101646,Eve,Mutual Funds,34109.47,2023-10-26,2026-01-21,Low,10.43,BrokerB,Closed
+101647,Fay,Crypto,57737.71,2024-09-12,2029-07-06,High,13.41,BrokerA,Active
+101648,Bob,Stocks,60859.2,2020-10-07,2029-04-09,Low,7.03,BrokerB,Closed
+101649,Charlie,Bonds,45517.48,2023-07-10,2028-04-18,High,5.41,BrokerD,Closed
+101650,Bob,Bonds,63464.97,2020-07-17,2029-01-23,High,1.7,BrokerB,Pending
+101651,Alice,Crypto,12749.62,2023-07-09,2028-10-07,Low,9.26,BrokerA,Pending
+101652,Bob,Stocks,13339.88,2023-08-16,2028-02-19,Medium,6.93,BrokerB,Pending
+101653,Alice,Real Estate,21323.8,2020-03-21,2026-03-21,High,6.56,BrokerA,Active
+101654,Alice,Mutual Funds,54217.36,2021-09-24,2027-09-09,Low,3.97,BrokerD,Closed
+101655,Bob,Stocks,25329.49,2024-06-03,2026-03-04,High,7.31,BrokerB,Closed
+101656,Charlie,Bonds,31912.02,2022-06-21,2029-11-16,Medium,14.79,BrokerA,Closed
+101657,Fay,Crypto,43029.72,2020-03-09,2026-11-13,Medium,5.52,BrokerD,Pending
+101658,Eve,Crypto,82127.28,2023-04-01,2026-09-13,Low,9.6,BrokerB,Closed
+101659,Eve,Mutual Funds,6316.9,2022-01-17,2025-02-01,High,11.98,BrokerD,Closed
+101660,Fay,Crypto,66690.99,2024-02-08,2026-03-10,High,11.61,BrokerA,Closed
+101661,Alice,Crypto,68543.27,2020-09-26,2026-01-25,High,5.94,BrokerB,Closed
+101662,Alice,Stocks,80872.3,2020-07-03,2029-02-27,High,9.75,BrokerB,Closed
+101663,Charlie,Real Estate,93611.53,2021-08-27,2025-08-29,Low,13.26,BrokerB,Active
+101664,David,Mutual Funds,6913.1,2021-10-31,2029-03-10,Medium,1.71,BrokerD,Closed
+101665,Bob,Stocks,19609.45,2024-03-10,2029-03-25,Low,7.38,BrokerD,Active
+101666,Alice,Real Estate,89186.27,2022-04-30,2027-09-08,High,4.53,BrokerA,Closed
+101667,Eve,Stocks,48559.26,2020-12-25,2026-05-12,High,6.75,BrokerC,Active
+101668,Charlie,Stocks,58636.11,2021-02-15,2028-11-25,Medium,7.12,BrokerB,Closed
+101669,Bob,Crypto,67987.58,2020-09-27,2028-05-22,High,11.58,BrokerB,Closed
+101670,Charlie,Real Estate,69511.33,2024-05-29,2028-12-12,Low,2.77,BrokerA,Closed
+101671,Bob,Mutual Funds,93515.34,2023-01-09,2026-02-23,Low,8.42,BrokerB,Closed
+101672,Bob,Mutual Funds,99710.19,2024-11-29,2027-03-24,Medium,9.12,BrokerD,Pending
+101673,Fay,Real Estate,73414.96,2022-01-19,2026-05-06,Low,8.17,BrokerD,Closed
+101674,Alice,Crypto,32286.01,2022-12-23,2028-02-05,Low,11.38,BrokerB,Active
+101675,Charlie,Bonds,88576.48,2022-10-24,2026-10-21,Low,6.68,BrokerB,Pending
+101676,Charlie,Stocks,9675.99,2021-07-12,2029-05-08,Low,14.26,BrokerD,Pending
+101677,Fay,Crypto,26952.68,2024-08-27,2026-08-03,High,8.0,BrokerB,Closed
+101678,Eve,Real Estate,90251.64,2020-12-02,2027-02-19,Low,9.21,BrokerD,Active
+101679,Eve,Stocks,29338.19,2021-06-10,2027-08-13,Medium,12.64,BrokerC,Active
+101680,Alice,Mutual Funds,25961.85,2024-08-15,2027-12-29,Medium,5.22,BrokerC,Pending
+101681,Alice,Bonds,18121.9,2022-09-13,2028-08-21,Low,2.52,BrokerB,Active
+101682,David,Mutual Funds,86615.62,2024-07-09,2027-01-06,Medium,11.06,BrokerB,Closed
+101683,Fay,Real Estate,52505.53,2021-08-27,2026-09-24,Low,8.02,BrokerB,Closed
+101684,Eve,Stocks,69114.85,2024-03-08,2026-06-20,Medium,13.6,BrokerD,Closed
+101685,Bob,Real Estate,27711.31,2024-11-17,2027-01-07,Medium,14.77,BrokerC,Closed
+101686,Charlie,Stocks,77013.84,2021-11-24,2027-11-17,Low,6.89,BrokerC,Closed
+101687,Alice,Crypto,77200.53,2024-07-05,2029-12-13,Low,7.11,BrokerA,Pending
+101688,Charlie,Bonds,34696.81,2020-08-23,2027-10-16,High,7.01,BrokerA,Closed
+101689,Charlie,Crypto,44014.85,2022-08-17,2027-08-13,Low,5.88,BrokerB,Closed
+101690,David,Crypto,24920.58,2020-06-03,2025-07-21,Low,12.05,BrokerD,Pending
+101691,Eve,Real Estate,97773.3,2020-10-15,2029-07-03,High,11.75,BrokerB,Pending
+101692,Alice,Bonds,66332.24,2024-03-24,2029-01-19,Low,7.96,BrokerC,Pending
+101693,Charlie,Stocks,93781.67,2021-04-07,2027-08-20,Low,2.1,BrokerB,Active
+101694,Alice,Stocks,33821.63,2024-10-27,2029-04-09,High,5.68,BrokerB,Active
+101695,Bob,Mutual Funds,79279.64,2023-10-17,2029-09-16,Low,5.45,BrokerC,Closed
+101696,David,Stocks,77756.57,2024-01-23,2026-10-18,Low,12.45,BrokerC,Closed
+101697,Bob,Real Estate,70707.29,2023-10-13,2026-02-21,High,2.68,BrokerC,Closed
+101698,Alice,Crypto,96735.7,2022-03-24,2027-01-30,High,12.38,BrokerC,Active
+101699,Alice,Crypto,42387.76,2024-09-28,2026-10-03,Medium,10.53,BrokerA,Closed
+101700,Eve,Crypto,17418.15,2024-07-05,2027-04-28,Low,11.39,BrokerD,Closed
+101701,Charlie,Bonds,68812.34,2023-02-15,2025-04-04,Medium,7.33,BrokerD,Active
+101702,Charlie,Stocks,74284.43,2022-01-19,2028-02-27,Medium,10.68,BrokerC,Pending
+101703,Bob,Real Estate,59630.75,2020-07-03,2029-11-05,High,9.72,BrokerD,Active
+101704,David,Bonds,24647.7,2024-06-07,2026-03-30,Low,11.88,BrokerD,Closed
+101705,Fay,Mutual Funds,52923.31,2022-03-19,2029-02-27,Low,7.53,BrokerD,Active
+101706,Charlie,Real Estate,34658.02,2020-01-29,2025-10-26,High,7.88,BrokerD,Pending
+101707,Eve,Real Estate,45609.32,2021-06-25,2025-02-03,Medium,10.19,BrokerC,Pending
+101708,Bob,Real Estate,66295.76,2023-01-03,2026-06-19,High,2.96,BrokerB,Pending
+101709,Bob,Crypto,75795.4,2020-09-10,2028-02-08,Low,7.39,BrokerB,Pending
+101710,Fay,Real Estate,27061.35,2022-07-20,2028-04-11,High,14.62,BrokerB,Pending
+101711,Eve,Stocks,43505.91,2022-01-24,2028-04-01,Low,2.01,BrokerA,Pending
+101712,David,Real Estate,30570.35,2023-10-09,2029-01-14,Medium,5.77,BrokerD,Closed
+101713,Eve,Crypto,23870.0,2024-03-13,2027-05-06,Low,5.74,BrokerC,Closed
+101714,David,Real Estate,79421.79,2023-10-08,2026-08-28,Medium,10.05,BrokerC,Active
+101715,Eve,Mutual Funds,91379.01,2021-06-20,2025-11-09,Medium,2.93,BrokerA,Closed
+101716,Eve,Mutual Funds,40172.06,2023-04-12,2026-02-06,Low,9.99,BrokerC,Pending
+101717,Alice,Crypto,76371.5,2022-02-19,2026-11-07,Low,2.78,BrokerB,Closed
+101718,Bob,Stocks,90214.55,2024-08-11,2026-04-17,Medium,2.78,BrokerA,Active
+101719,Eve,Stocks,85381.8,2023-07-31,2027-02-17,High,11.33,BrokerC,Pending
+101720,Fay,Bonds,22367.27,2022-01-30,2028-03-12,Low,5.88,BrokerA,Closed
+101721,Eve,Crypto,95847.73,2020-08-09,2029-09-03,Medium,14.7,BrokerA,Closed
+101722,Charlie,Real Estate,40784.26,2023-10-14,2026-05-19,Medium,2.0,BrokerC,Active
+101723,Bob,Crypto,37227.86,2021-04-23,2027-10-20,High,7.51,BrokerB,Pending
+101724,Charlie,Bonds,10930.98,2022-08-23,2028-02-02,Low,3.03,BrokerC,Active
+101725,Bob,Crypto,51186.5,2020-02-21,2028-09-02,Medium,6.24,BrokerD,Pending
+101726,Charlie,Crypto,15356.29,2023-06-22,2028-11-03,High,14.98,BrokerD,Pending
+101727,Eve,Bonds,28611.28,2024-12-15,2026-11-23,Medium,13.5,BrokerC,Closed
+101728,Eve,Stocks,35109.55,2023-02-23,2026-06-12,Low,2.15,BrokerB,Active
+101729,Alice,Real Estate,81838.5,2021-11-02,2029-04-13,High,9.1,BrokerD,Active
+101730,Fay,Bonds,88171.42,2023-06-03,2029-08-10,Medium,10.25,BrokerD,Active
+101731,Charlie,Mutual Funds,33734.3,2021-03-29,2027-09-28,High,4.33,BrokerC,Pending
+101732,David,Stocks,86576.32,2023-08-19,2029-01-21,Low,3.46,BrokerC,Active
+101733,Alice,Mutual Funds,86436.94,2020-05-09,2028-08-07,High,13.71,BrokerC,Pending
+101734,Charlie,Stocks,77641.84,2023-07-25,2029-02-23,Low,14.58,BrokerA,Active
+101735,Charlie,Real Estate,18936.04,2024-08-14,2027-10-02,Medium,14.89,BrokerA,Active
+101736,Alice,Real Estate,70580.67,2022-08-08,2027-08-02,Low,12.16,BrokerA,Closed
+101737,Eve,Crypto,94777.29,2023-12-06,2025-12-11,Medium,10.46,BrokerC,Active
+101738,Charlie,Mutual Funds,69841.35,2021-09-10,2029-02-09,Medium,6.17,BrokerB,Closed
+101739,Eve,Stocks,36503.6,2023-08-22,2029-06-17,Low,3.81,BrokerD,Closed
+101740,Alice,Real Estate,52555.04,2022-04-16,2026-12-23,Medium,2.57,BrokerA,Pending
+101741,Eve,Bonds,66343.88,2020-08-26,2025-12-13,High,10.86,BrokerB,Active
+101742,Bob,Real Estate,53504.19,2020-10-13,2025-10-14,Medium,12.09,BrokerC,Active
+101743,David,Bonds,16395.53,2020-04-02,2029-01-15,Low,12.66,BrokerA,Active
+101744,Charlie,Stocks,34646.08,2020-03-17,2028-01-25,High,13.84,BrokerC,Closed
+101745,Fay,Real Estate,81227.62,2021-09-15,2027-09-28,High,13.38,BrokerB,Active
+101746,David,Real Estate,86834.71,2022-10-05,2026-01-12,Medium,15.0,BrokerA,Pending
+101747,Eve,Stocks,18043.5,2020-08-25,2029-12-27,Medium,4.79,BrokerA,Pending
+101748,Charlie,Real Estate,95476.74,2020-07-18,2028-01-16,Low,11.8,BrokerA,Active
+101749,Eve,Bonds,36238.15,2021-04-25,2028-08-07,High,9.42,BrokerA,Closed
+101750,Bob,Real Estate,67919.81,2024-12-22,2025-05-01,Low,5.03,BrokerB,Pending
+101751,Alice,Mutual Funds,76423.39,2023-01-05,2027-12-10,Medium,14.76,BrokerA,Pending
+101752,Charlie,Crypto,82134.89,2020-10-04,2025-03-11,High,13.62,BrokerD,Closed
+101753,Bob,Bonds,94846.22,2022-03-06,2029-09-15,Low,3.23,BrokerD,Pending
+101754,Bob,Mutual Funds,34727.36,2022-07-18,2029-10-01,Low,1.85,BrokerC,Closed
+101755,Charlie,Stocks,86558.11,2022-01-29,2025-06-02,Low,10.79,BrokerA,Pending
+101756,Eve,Bonds,17510.26,2023-10-05,2029-08-03,Low,9.66,BrokerD,Closed
+101757,Fay,Crypto,71978.89,2024-03-01,2028-09-30,Low,14.13,BrokerD,Pending
+101758,Bob,Crypto,75487.88,2023-11-27,2025-04-10,High,4.66,BrokerD,Active
+101759,David,Stocks,69383.71,2023-01-11,2029-04-15,Low,2.64,BrokerB,Pending
+101760,Bob,Stocks,28969.9,2022-05-08,2025-01-14,High,5.0,BrokerA,Pending
+101761,Fay,Bonds,87939.1,2023-04-17,2027-04-25,Low,1.76,BrokerB,Active
+101762,Eve,Real Estate,21041.55,2024-02-29,2025-10-09,Medium,1.98,BrokerB,Active
+101763,Eve,Stocks,10095.31,2024-01-28,2029-09-22,Medium,13.85,BrokerD,Active
+101764,David,Real Estate,73159.17,2020-11-12,2028-07-15,Low,6.25,BrokerD,Active
+101765,Bob,Mutual Funds,50170.19,2024-12-18,2026-04-19,Medium,7.05,BrokerC,Closed
+101766,Eve,Crypto,85664.31,2022-04-29,2025-05-20,High,1.75,BrokerA,Closed
+101767,Fay,Real Estate,41422.73,2023-09-03,2028-12-19,Low,5.15,BrokerA,Pending
+101768,Charlie,Crypto,20986.47,2020-07-21,2025-11-06,High,12.36,BrokerD,Pending
+101769,Alice,Real Estate,84462.01,2024-09-03,2025-01-19,Low,9.81,BrokerD,Pending
+101770,Alice,Mutual Funds,57146.42,2022-09-29,2026-03-24,Medium,11.68,BrokerA,Closed
+101771,Alice,Stocks,22973.6,2023-06-14,2027-11-02,High,7.54,BrokerC,Pending
+101772,Bob,Mutual Funds,73436.48,2022-04-15,2027-07-23,Medium,5.68,BrokerD,Pending
+101773,David,Stocks,53555.8,2021-07-26,2027-02-04,Medium,8.02,BrokerC,Closed
+101774,Eve,Stocks,62409.73,2020-03-08,2025-05-04,Low,5.86,BrokerB,Pending
+101775,Charlie,Crypto,48785.34,2023-11-14,2028-06-19,High,12.83,BrokerD,Closed
+101776,Fay,Mutual Funds,83727.35,2022-01-28,2028-07-30,Medium,5.52,BrokerB,Closed
+101777,Charlie,Real Estate,83808.46,2021-03-20,2028-09-27,Low,10.41,BrokerD,Active
+101778,Fay,Mutual Funds,72391.94,2022-06-27,2028-06-16,Low,3.35,BrokerB,Active
+101779,Bob,Crypto,15013.13,2022-06-29,2027-09-17,Low,10.77,BrokerD,Closed
+101780,Alice,Stocks,84691.12,2021-04-28,2028-09-12,Medium,13.83,BrokerC,Closed
+101781,Bob,Crypto,68746.23,2024-10-17,2027-09-27,Low,9.72,BrokerC,Active
+101782,David,Bonds,71217.3,2022-01-12,2025-02-02,High,9.06,BrokerC,Pending
+101783,David,Bonds,39483.37,2020-07-22,2025-01-14,High,14.48,BrokerB,Pending
+101784,Fay,Real Estate,88531.56,2023-11-05,2027-12-26,Medium,9.97,BrokerC,Pending
+101785,Eve,Crypto,73910.3,2022-01-22,2028-02-04,High,5.0,BrokerB,Closed
+101786,Eve,Real Estate,15696.09,2023-01-20,2027-04-23,Low,5.45,BrokerD,Active
+101787,Fay,Real Estate,43738.91,2023-08-13,2025-01-25,Medium,11.02,BrokerB,Pending
+101788,David,Bonds,89206.13,2022-01-04,2025-02-04,Low,11.43,BrokerD,Active
+101789,David,Real Estate,9483.69,2020-05-04,2027-12-21,Medium,5.6,BrokerA,Active
+101790,David,Bonds,96334.58,2022-03-26,2029-01-19,Medium,6.16,BrokerA,Closed
+101791,Bob,Stocks,69520.44,2021-07-19,2026-07-17,Low,14.88,BrokerA,Pending
+101792,David,Crypto,64980.72,2021-01-23,2028-01-03,High,2.88,BrokerB,Active
+101793,Charlie,Real Estate,30703.13,2020-09-07,2026-08-11,High,6.96,BrokerA,Closed
+101794,Alice,Bonds,28635.22,2024-10-02,2025-02-05,Medium,2.34,BrokerA,Closed
+101795,David,Mutual Funds,94495.53,2024-08-14,2027-10-26,Low,12.58,BrokerA,Closed
+101796,Fay,Real Estate,33335.88,2022-07-20,2029-07-24,Low,2.75,BrokerD,Pending
+101797,Alice,Stocks,78673.0,2020-07-06,2028-11-30,Medium,10.6,BrokerC,Pending
+101798,Bob,Stocks,42346.57,2023-09-19,2028-10-12,High,2.26,BrokerB,Closed
+101799,Fay,Mutual Funds,18229.14,2021-03-10,2027-06-01,Low,10.58,BrokerA,Pending
+101800,Alice,Bonds,6017.95,2023-08-07,2029-07-10,High,12.88,BrokerD,Pending
+101801,Fay,Real Estate,56704.45,2023-08-02,2026-01-03,High,6.88,BrokerC,Active
+101802,Bob,Bonds,97698.99,2023-05-07,2025-08-08,Medium,8.55,BrokerC,Closed
+101803,Charlie,Stocks,40067.94,2020-02-13,2025-07-17,Medium,6.92,BrokerC,Closed
+101804,Bob,Bonds,38933.27,2020-04-13,2027-12-10,High,5.56,BrokerD,Pending
+101805,Bob,Stocks,37688.7,2024-05-30,2025-11-01,Low,12.34,BrokerA,Closed
+101806,Fay,Bonds,54451.66,2021-11-14,2026-05-09,Low,5.17,BrokerC,Closed
+101807,Eve,Mutual Funds,46863.16,2021-05-13,2026-01-29,Medium,11.26,BrokerD,Closed
+101808,David,Crypto,88591.89,2020-09-14,2028-06-23,High,4.28,BrokerD,Pending
+101809,David,Mutual Funds,53024.48,2024-05-30,2027-12-15,Low,4.87,BrokerB,Pending
+101810,Charlie,Mutual Funds,53236.99,2023-03-02,2026-06-01,Low,6.04,BrokerD,Pending
+101811,Charlie,Crypto,18145.3,2021-02-24,2029-07-28,Medium,9.45,BrokerC,Active
+101812,David,Crypto,98360.26,2020-05-20,2026-12-27,High,7.63,BrokerC,Closed
+101813,Eve,Real Estate,28747.42,2024-08-26,2026-07-02,Low,11.56,BrokerD,Active
+101814,David,Real Estate,11969.59,2024-04-16,2029-06-17,Medium,4.38,BrokerC,Pending
+101815,Eve,Mutual Funds,67998.89,2023-02-09,2027-03-24,Low,1.64,BrokerD,Active
+101816,Charlie,Mutual Funds,61559.81,2021-02-28,2025-06-11,Low,11.98,BrokerC,Closed
+101817,Alice,Stocks,44438.84,2023-04-15,2027-02-04,Low,12.59,BrokerB,Closed
+101818,Fay,Stocks,45108.26,2021-03-18,2027-04-12,Medium,2.3,BrokerA,Pending
+101819,Charlie,Real Estate,79581.07,2024-07-23,2027-07-30,High,9.75,BrokerB,Pending
+101820,Charlie,Real Estate,23592.7,2024-11-16,2028-03-03,Medium,6.61,BrokerB,Active
+101821,Bob,Stocks,82924.07,2021-04-22,2026-05-14,High,12.22,BrokerA,Pending
+101822,Bob,Stocks,66630.98,2021-11-03,2028-11-28,Low,13.3,BrokerC,Active
+101823,Bob,Bonds,44802.13,2024-05-04,2026-04-08,High,12.99,BrokerA,Closed
+101824,Fay,Bonds,48512.72,2020-10-29,2026-09-07,Low,11.99,BrokerD,Closed
+101825,Bob,Stocks,29381.48,2024-06-03,2028-11-01,Low,5.13,BrokerA,Closed
+101826,Eve,Bonds,76450.86,2023-05-05,2029-08-23,Medium,12.46,BrokerB,Closed
+101827,David,Crypto,53723.1,2020-01-06,2029-10-03,Low,8.7,BrokerA,Closed
+101828,Alice,Real Estate,35481.18,2021-07-21,2025-06-15,Medium,2.21,BrokerC,Active
+101829,Charlie,Real Estate,61624.76,2024-10-24,2028-08-31,High,7.67,BrokerB,Closed
+101830,Eve,Stocks,99594.77,2020-10-23,2029-10-24,High,14.22,BrokerD,Active
+101831,Alice,Mutual Funds,46349.92,2020-09-23,2028-08-23,Low,13.49,BrokerC,Closed
+101832,Eve,Stocks,92465.68,2023-01-11,2029-04-05,Medium,2.88,BrokerB,Active
+101833,Eve,Bonds,37776.6,2021-05-28,2025-03-06,Low,11.55,BrokerD,Active
+101834,Charlie,Mutual Funds,10199.61,2024-06-23,2025-07-11,Medium,12.38,BrokerC,Active
+101835,David,Bonds,24403.0,2020-12-23,2027-04-11,Medium,5.16,BrokerD,Pending
+101836,Bob,Crypto,44776.04,2020-08-13,2027-02-16,Medium,7.87,BrokerA,Active
+101837,Fay,Bonds,25865.32,2023-09-15,2027-02-12,High,11.1,BrokerA,Active
+101838,David,Crypto,5021.57,2024-11-09,2028-02-06,Medium,7.43,BrokerD,Closed
+101839,Fay,Crypto,91925.15,2020-02-22,2027-09-02,High,3.02,BrokerA,Active
+101840,Charlie,Bonds,85168.54,2020-09-26,2025-04-25,Medium,11.03,BrokerD,Active
+101841,Charlie,Bonds,75517.76,2020-01-31,2028-07-28,High,13.81,BrokerC,Pending
+101842,Charlie,Crypto,20942.39,2022-01-03,2025-01-20,High,10.31,BrokerB,Closed
+101843,Alice,Mutual Funds,16434.54,2024-06-05,2028-12-10,High,11.95,BrokerD,Pending
+101844,Fay,Crypto,11422.45,2024-06-02,2025-12-17,Low,6.34,BrokerB,Pending
+101845,David,Real Estate,73782.77,2021-05-02,2025-06-19,Medium,3.97,BrokerB,Pending
+101846,David,Crypto,93236.76,2023-04-20,2027-10-21,Low,10.18,BrokerD,Active
+101847,Eve,Mutual Funds,45900.9,2021-10-25,2029-09-28,Medium,5.92,BrokerA,Pending
+101848,Eve,Real Estate,16318.36,2020-02-02,2027-06-08,Medium,13.11,BrokerC,Pending
+101849,Eve,Stocks,53677.32,2020-12-22,2028-08-13,Low,3.16,BrokerB,Closed
+101850,Charlie,Stocks,38139.03,2021-06-27,2029-05-26,High,7.35,BrokerC,Closed
+101851,David,Mutual Funds,40608.37,2020-04-17,2026-11-10,Medium,6.86,BrokerB,Closed
+101852,Fay,Crypto,64026.41,2020-09-16,2028-03-04,High,14.16,BrokerD,Closed
+101853,Charlie,Bonds,73278.22,2024-02-28,2029-10-24,Low,3.57,BrokerA,Pending
+101854,Alice,Mutual Funds,15507.34,2022-05-12,2025-07-15,High,1.63,BrokerC,Closed
+101855,Eve,Real Estate,8381.07,2022-12-13,2027-12-18,Medium,4.71,BrokerB,Active
+101856,Charlie,Real Estate,99461.38,2020-08-20,2025-03-29,Medium,12.57,BrokerD,Pending
+101857,Charlie,Stocks,27109.19,2024-03-07,2026-04-16,Medium,4.33,BrokerD,Closed
+101858,Alice,Real Estate,10113.9,2020-05-10,2026-03-09,Low,4.75,BrokerB,Pending
+101859,Bob,Mutual Funds,23038.16,2022-09-02,2029-11-13,Medium,3.25,BrokerB,Closed
+101860,David,Real Estate,8701.0,2022-07-07,2028-11-18,Low,11.16,BrokerB,Pending
+101861,Fay,Mutual Funds,42222.03,2024-05-12,2029-12-23,High,2.43,BrokerA,Closed
+101862,Bob,Bonds,81228.17,2022-01-11,2028-03-06,Medium,5.97,BrokerB,Active
+101863,Eve,Stocks,37418.22,2022-11-17,2027-09-01,Medium,5.31,BrokerB,Closed
+101864,Charlie,Real Estate,47197.42,2023-04-30,2026-07-10,Medium,8.99,BrokerA,Pending
+101865,Alice,Mutual Funds,69180.74,2020-08-11,2025-04-06,High,11.36,BrokerD,Pending
+101866,Alice,Crypto,53344.94,2022-07-14,2025-06-02,Medium,8.69,BrokerB,Active
+101867,David,Stocks,86837.34,2022-10-28,2028-11-02,Low,14.07,BrokerC,Pending
+101868,Bob,Bonds,87273.39,2021-03-29,2026-07-29,High,14.34,BrokerD,Active
+101869,David,Mutual Funds,5941.52,2023-06-13,2028-01-18,High,6.38,BrokerC,Pending
+101870,Charlie,Bonds,78914.4,2020-03-29,2028-02-29,High,12.0,BrokerB,Pending
+101871,David,Bonds,48769.69,2024-01-29,2028-09-09,High,11.47,BrokerA,Active
+101872,Fay,Real Estate,98939.85,2024-05-23,2025-03-09,High,13.56,BrokerA,Pending
+101873,Alice,Real Estate,50907.05,2024-11-10,2026-01-03,Low,7.55,BrokerA,Pending
+101874,Alice,Mutual Funds,98755.11,2023-09-11,2029-10-08,High,8.66,BrokerB,Active
+101875,Eve,Crypto,76684.09,2022-12-03,2026-10-07,Medium,7.11,BrokerB,Closed
+101876,Eve,Mutual Funds,28617.46,2021-09-09,2025-02-02,High,12.98,BrokerC,Active
+101877,Charlie,Crypto,56147.52,2022-07-27,2026-03-01,High,4.6,BrokerA,Pending
+101878,Fay,Bonds,99252.89,2023-08-10,2028-04-17,High,4.74,BrokerB,Closed
+101879,Bob,Stocks,86465.41,2020-03-04,2025-10-23,High,6.53,BrokerD,Closed
+101880,David,Mutual Funds,14249.85,2020-05-04,2029-03-21,High,4.61,BrokerB,Closed
+101881,Charlie,Mutual Funds,72105.34,2022-09-07,2029-08-08,Low,9.07,BrokerB,Active
+101882,Eve,Crypto,37830.06,2024-10-01,2028-12-30,Low,3.32,BrokerD,Closed
+101883,David,Bonds,5663.31,2022-04-02,2029-08-09,High,5.82,BrokerA,Closed
+101884,Eve,Bonds,43330.69,2022-05-23,2027-03-27,Low,13.83,BrokerD,Closed
+101885,David,Crypto,27301.67,2023-11-06,2025-06-07,Medium,7.02,BrokerA,Pending
+101886,Bob,Bonds,82792.58,2020-08-09,2026-09-05,High,11.6,BrokerD,Active
+101887,Charlie,Real Estate,37046.41,2022-10-01,2025-11-29,Medium,3.03,BrokerC,Active
+101888,David,Stocks,83614.75,2023-12-29,2028-02-29,Medium,4.84,BrokerA,Pending
+101889,Fay,Mutual Funds,5056.8,2022-06-27,2026-05-08,High,12.4,BrokerB,Closed
+101890,Alice,Stocks,34242.82,2020-05-30,2028-03-06,Medium,11.8,BrokerC,Pending
+101891,Fay,Mutual Funds,27910.7,2020-06-14,2029-09-06,Medium,6.71,BrokerA,Pending
+101892,Fay,Real Estate,27188.9,2021-10-21,2029-10-06,Medium,14.38,BrokerA,Closed
+101893,Alice,Bonds,11477.73,2023-05-30,2027-03-08,High,13.79,BrokerA,Closed
+101894,Fay,Crypto,22776.81,2020-10-30,2028-10-18,High,14.49,BrokerD,Active
+101895,David,Real Estate,57777.21,2020-05-14,2028-01-13,Medium,7.28,BrokerA,Closed
+101896,David,Stocks,32679.3,2020-09-15,2026-11-11,High,4.17,BrokerB,Pending
+101897,David,Crypto,44652.5,2021-07-17,2027-02-26,High,9.96,BrokerA,Pending
+101898,Alice,Bonds,40802.35,2023-07-02,2029-03-28,Medium,10.74,BrokerB,Closed
+101899,Fay,Real Estate,88210.97,2023-07-20,2029-02-23,High,3.19,BrokerB,Active
+101900,Alice,Crypto,91003.4,2023-04-13,2025-10-14,Low,12.12,BrokerB,Pending
+101901,David,Real Estate,51830.91,2023-01-28,2029-06-07,High,1.74,BrokerC,Closed
+101902,Fay,Real Estate,36364.82,2023-12-29,2028-11-12,Low,8.02,BrokerB,Active
+101903,Fay,Bonds,15146.07,2021-10-27,2029-01-23,Medium,5.97,BrokerD,Active
+101904,Eve,Mutual Funds,95573.27,2022-02-19,2025-06-10,High,11.49,BrokerA,Pending
+101905,Eve,Crypto,10721.56,2023-05-08,2027-10-23,Medium,5.72,BrokerD,Pending
+101906,Bob,Bonds,33276.78,2022-12-22,2029-03-07,Medium,12.66,BrokerC,Active
+101907,Charlie,Real Estate,33316.29,2021-08-26,2026-12-10,Medium,9.53,BrokerA,Active
+101908,Eve,Bonds,35438.12,2022-07-18,2025-04-20,Medium,12.22,BrokerB,Active
+101909,Alice,Mutual Funds,20607.25,2022-11-01,2025-07-20,Medium,14.86,BrokerA,Closed
+101910,Eve,Crypto,79400.34,2023-05-24,2027-06-15,High,10.67,BrokerC,Pending
+101911,Bob,Mutual Funds,16637.3,2022-05-31,2026-04-21,Low,14.8,BrokerC,Active
+101912,Fay,Stocks,65316.13,2020-07-22,2029-09-14,High,1.89,BrokerD,Pending
+101913,Bob,Crypto,16765.37,2024-06-12,2025-06-05,High,6.06,BrokerA,Pending
+101914,Fay,Mutual Funds,11700.89,2023-12-08,2026-11-29,High,2.96,BrokerA,Pending
+101915,Fay,Real Estate,91395.8,2020-08-22,2028-05-24,High,5.04,BrokerA,Active
+101916,Charlie,Crypto,23062.23,2024-10-12,2029-04-24,Low,12.82,BrokerD,Closed
+101917,Eve,Crypto,83018.76,2023-09-02,2028-06-11,High,1.94,BrokerC,Active
+101918,Alice,Bonds,56739.93,2023-08-26,2028-05-04,Medium,8.52,BrokerB,Pending
+101919,Alice,Real Estate,12396.37,2024-12-02,2027-03-24,High,9.16,BrokerA,Active
+101920,David,Stocks,95767.58,2024-04-23,2029-05-04,High,9.08,BrokerD,Active
+101921,Fay,Mutual Funds,28461.31,2023-02-03,2026-10-31,Low,7.92,BrokerD,Pending
+101922,Alice,Bonds,86666.31,2024-01-16,2025-03-02,Low,12.17,BrokerB,Pending
+101923,Charlie,Mutual Funds,21036.95,2024-11-07,2028-07-22,Medium,3.3,BrokerC,Active
+101924,Fay,Stocks,86124.57,2021-03-16,2026-07-14,High,5.69,BrokerA,Active
+101925,Charlie,Stocks,6256.74,2022-05-30,2029-05-24,High,9.81,BrokerA,Active
+101926,Alice,Crypto,53619.14,2022-07-13,2027-07-12,High,10.83,BrokerD,Active
+101927,Alice,Stocks,78097.05,2024-12-23,2027-10-02,Medium,6.96,BrokerC,Closed
+101928,David,Mutual Funds,93805.57,2021-04-12,2026-04-13,Low,13.32,BrokerA,Active
+101929,Alice,Real Estate,91374.2,2022-04-27,2026-12-30,Medium,7.11,BrokerB,Closed
+101930,Fay,Real Estate,82864.36,2021-11-25,2028-02-07,High,6.94,BrokerC,Pending
+101931,Fay,Crypto,89378.18,2024-08-21,2027-02-08,Low,1.99,BrokerC,Closed
+101932,Fay,Mutual Funds,23925.87,2022-07-17,2027-06-04,Low,8.94,BrokerD,Pending
+101933,David,Mutual Funds,31997.51,2022-03-27,2026-01-16,Medium,11.07,BrokerD,Closed
+101934,David,Stocks,32452.01,2022-05-01,2028-10-24,Low,3.04,BrokerA,Pending
+101935,Alice,Mutual Funds,40820.12,2024-02-03,2028-04-14,Low,5.62,BrokerD,Active
+101936,Bob,Bonds,42365.46,2020-07-13,2028-09-15,High,12.05,BrokerC,Closed
+101937,Bob,Stocks,56732.76,2021-10-02,2027-02-18,High,6.44,BrokerA,Closed
+101938,David,Bonds,20188.58,2022-05-24,2025-06-25,Low,4.76,BrokerA,Pending
+101939,Alice,Crypto,70668.43,2021-10-02,2029-05-01,Low,10.57,BrokerC,Pending
+101940,Bob,Real Estate,20918.82,2023-09-24,2028-06-20,Medium,4.16,BrokerA,Closed
+101941,Alice,Crypto,34479.31,2021-06-06,2026-08-28,Medium,13.59,BrokerB,Pending
+101942,Alice,Real Estate,52817.79,2022-02-05,2029-06-23,Low,2.93,BrokerB,Active
+101943,Alice,Crypto,80661.85,2020-11-08,2026-05-20,High,11.04,BrokerA,Closed
+101944,Eve,Mutual Funds,75249.58,2023-11-07,2028-12-31,Low,8.24,BrokerD,Active
+101945,Fay,Bonds,66325.76,2022-08-29,2025-05-31,Low,13.24,BrokerB,Closed
+101946,Alice,Real Estate,19798.46,2020-05-17,2025-06-18,High,3.2,BrokerA,Active
+101947,Eve,Stocks,56969.31,2020-07-05,2026-07-03,High,10.65,BrokerB,Closed
+101948,David,Bonds,13307.42,2024-08-30,2025-11-12,Medium,9.22,BrokerD,Pending
+101949,Bob,Stocks,40849.5,2020-06-23,2027-02-18,Medium,7.98,BrokerC,Closed
+101950,Fay,Bonds,44284.07,2020-07-09,2028-12-28,Medium,8.13,BrokerA,Active
+101951,Bob,Bonds,8782.09,2022-06-03,2029-05-25,Medium,11.25,BrokerA,Closed
+101952,Fay,Crypto,31028.87,2020-07-16,2028-07-22,High,14.16,BrokerA,Active
+101953,Bob,Real Estate,95786.7,2024-03-04,2025-11-12,Low,2.73,BrokerA,Active
+101954,Fay,Real Estate,95595.1,2024-02-22,2029-02-23,Medium,1.76,BrokerA,Active
+101955,Bob,Bonds,38471.07,2022-02-02,2027-03-09,Medium,12.38,BrokerA,Pending
+101956,Bob,Mutual Funds,9094.51,2024-07-20,2026-10-11,High,2.96,BrokerD,Closed
+101957,Bob,Mutual Funds,22014.02,2020-09-23,2027-01-09,High,14.82,BrokerC,Active
+101958,Bob,Stocks,42260.69,2023-02-13,2025-08-07,Low,9.86,BrokerD,Pending
+101959,David,Stocks,95039.07,2020-05-02,2025-07-07,Low,10.29,BrokerD,Active
+101960,Alice,Crypto,18413.91,2023-04-16,2025-01-11,High,4.19,BrokerC,Closed
+101961,Charlie,Bonds,77534.01,2023-02-24,2026-09-24,Medium,4.74,BrokerD,Pending
+101962,Eve,Stocks,15324.84,2023-02-24,2027-06-30,Medium,10.4,BrokerB,Active
+101963,Charlie,Stocks,98219.47,2021-11-06,2027-01-08,Medium,13.78,BrokerD,Active
+101964,Charlie,Bonds,41253.57,2023-10-04,2029-04-09,Low,14.76,BrokerA,Active
+101965,Fay,Crypto,78647.28,2020-09-07,2026-07-07,Medium,4.17,BrokerB,Closed
+101966,Alice,Stocks,37546.15,2022-04-21,2025-07-29,Medium,3.31,BrokerB,Pending
+101967,Fay,Crypto,64628.54,2021-12-25,2025-09-29,High,2.26,BrokerC,Pending
+101968,Alice,Real Estate,23241.53,2024-11-24,2025-06-28,Medium,13.22,BrokerD,Pending
+101969,Alice,Crypto,18872.0,2023-09-24,2026-01-19,High,5.48,BrokerD,Active
+101970,Bob,Mutual Funds,94116.09,2024-03-16,2027-06-02,Medium,1.52,BrokerB,Pending
+101971,David,Mutual Funds,92176.49,2022-05-16,2027-07-09,Low,4.52,BrokerD,Active
+101972,Bob,Crypto,89309.55,2024-11-12,2028-02-15,Medium,6.1,BrokerD,Closed
+101973,David,Mutual Funds,64416.18,2024-01-16,2028-02-11,Medium,14.88,BrokerC,Pending
+101974,Fay,Real Estate,81785.48,2020-04-15,2027-11-16,High,8.57,BrokerB,Active
+101975,David,Bonds,11558.51,2021-08-12,2027-04-16,High,4.26,BrokerA,Pending
+101976,Fay,Mutual Funds,36804.96,2023-05-14,2025-07-31,High,6.02,BrokerB,Pending
+101977,Charlie,Mutual Funds,34801.8,2021-10-01,2025-02-23,Medium,5.96,BrokerC,Closed
+101978,Charlie,Crypto,65386.31,2021-12-21,2025-07-03,Medium,1.77,BrokerC,Pending
+101979,David,Real Estate,38815.99,2020-07-31,2026-12-26,Low,3.32,BrokerC,Closed
+101980,David,Bonds,19108.14,2023-03-29,2028-02-10,Medium,10.89,BrokerD,Pending
+101981,Fay,Crypto,61664.37,2022-11-05,2025-07-10,Low,3.12,BrokerB,Pending
+101982,Bob,Crypto,82366.47,2021-03-11,2028-05-07,High,4.61,BrokerD,Pending
+101983,Fay,Real Estate,41301.73,2020-11-12,2028-05-09,High,6.23,BrokerD,Pending
+101984,Bob,Bonds,17565.53,2023-09-06,2029-05-26,High,11.73,BrokerB,Pending
+101985,Charlie,Real Estate,23685.38,2022-09-14,2026-10-27,Low,9.36,BrokerC,Pending
+101986,Alice,Bonds,27560.91,2021-04-04,2029-11-04,Medium,10.8,BrokerA,Closed
+101987,David,Real Estate,33490.27,2024-10-01,2027-02-28,High,9.15,BrokerA,Closed
+101988,Bob,Crypto,66065.53,2020-08-09,2025-01-26,Medium,10.73,BrokerB,Active
+101989,Fay,Crypto,62089.82,2021-12-18,2026-08-21,Medium,1.54,BrokerB,Pending
+101990,Charlie,Stocks,71127.59,2024-09-27,2027-04-28,High,14.07,BrokerC,Closed
+101991,Bob,Mutual Funds,39437.69,2023-02-13,2027-03-06,Low,3.0,BrokerB,Pending
+101992,Fay,Real Estate,83279.78,2022-01-22,2029-05-15,Medium,6.98,BrokerB,Pending
+101993,David,Stocks,24388.33,2020-08-23,2025-06-23,High,11.91,BrokerC,Closed
+101994,David,Mutual Funds,49558.87,2024-04-10,2029-01-24,Medium,7.38,BrokerC,Pending
+101995,Eve,Real Estate,81089.18,2021-07-24,2028-02-20,Medium,14.28,BrokerD,Closed
+101996,Alice,Bonds,22115.07,2023-03-21,2026-05-13,Medium,7.81,BrokerB,Closed
+101997,Eve,Mutual Funds,15437.0,2021-04-08,2028-03-17,Medium,13.31,BrokerA,Active
+101998,Charlie,Crypto,88949.98,2024-07-11,2027-12-04,Medium,12.45,BrokerB,Active
+101999,Bob,Stocks,37578.32,2022-05-28,2025-12-14,Low,14.74,BrokerA,Active

@@ -1,0 +1,75 @@
+1. Verify Row Count---- Source and Bronze
+select count(*) from bronze_table
+
+2. Schema Validation----- column names,Data types, Nullability
+select column_name,data_type,is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'bronze_table'
+
+3. Schema Drift ----- select column_name,data_type,is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'bronze_table'
+EXCEPT
+select column_name,data_type,is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'source_table';
+
+4. Duplicates Values----Property ID (Primary Key)
+SELECT Property_ID, COUNT(Property_ID) AS PropertyCount FROM bronze_table
+GROUP BY Property_ID HAVING COUNT(Property_ID) > 1;
+
+5. Data Type Validation----square_Feet----"unknown" instead of a number
+this helps detec ingestion issues in the early stage
+---try cast
+SELECT * FROM bronze_realestate WHERE TRY_CAST(Square_Feet AS INT) IS NULL
+    OR TRY_CAST(Listing_Price AS DECIMAL(12, 2)) IS NULL;
+
+property_id sq_ft listing_price
+101      1500        600 rs
+102       1500 sqft  600 
+
+
+
+
+six hundred
+600 rs
+
+6) Check Null Critical Fields-----Property_id, address,sq_ft,Listing_price, listing_date
+
+
+7) Latency Check/Freshness Check---
+Ingestion_Timestamp
+When was the last record loaded into the bronze layer?
+How many hours have passed since last ingestion?
+
+Crucial:
+detecting failures or delays in data ingestion
+monitoring data pipeline health
+
+
+
+
+
+
+
+
+
+
+
+Data Transformation---- Silver Layer
+1) Row Count Comparison (Bronze, Silver)
+2) Data Cleansing Verification---- Shrutiwadhwa 
+3) DEduplication Check
+4) Transformation Logic Validation
+1) Price(12,2)
+2) check datatypes, is null---information_schema
+3)zipcode---length exactly should be 5
+4)Referential Integrity---lookup
+
+
+
+
+
+
+
+
+
+
+
+
+
+

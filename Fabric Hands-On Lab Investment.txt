@@ -1,0 +1,95 @@
+Hands-On Lab: Investment Dataset – Bronze & Silver Layer Validation
+🟦 Category 1: Record Count & Schema Validation
+Record Count Comparison:
+
+How do you verify that the number of records ingested into the Bronze layer matches the source system?
+
+How can you ensure that the number of records in the Silver layer is logically aligned with the Bronze layer after applying cleansing or filtering?
+
+Schema Validation:
+
+How do you compare the schema (column names and data types) between the source file and the Bronze table?
+
+How would you identify if any schema drift (e.g., extra or missing columns) occurred during ingestion?
+
+🟦 Category 2: Data Type & Casting Validation
+Numeric Data Type Validation:
+
+How would you confirm that the Investment_Amount and Return_Rate columns have valid numeric data in the Bronze layer?
+
+Date Conversion Validation:
+
+How can you verify that all date fields (e.g., Investment_Date, Maturity_Date) are successfully cast to proper date formats in the Silver layer?
+
+🟦 Category 3: Null, Duplicate, and Uniqueness Checks
+Null Checks:
+
+How can you identify the number of records with missing values in key fields such as Investment_ID, Investor_Name, or Investment_Amount?
+
+Duplicate Detection:
+
+How would you detect duplicate rows based on Investment_ID in the Bronze table?
+
+Uniqueness Validation in Silver:
+
+How can you ensure that Investment_ID is unique in the Silver table, even if it wasn’t in the Bronze?
+
+🟦 Category 4: Data Cleansing & Transformation Validation
+Whitespace and Format Standardization:
+
+How do you validate that fields like Investor_Name and Broker have been trimmed and standardized in casing during the Bronze-to-Silver transformation?
+
+Business Rule Application Validation:
+
+How can you check that business rules (e.g., excluding investments below a certain threshold) were applied correctly in the Silver layer?
+
+Audit Columns Validation:
+
+How do you confirm that last_updated_timestamp and processed_by_pipeline_id are correctly populated in the Silver table?
+
+🟦 Category 5: Data Freshness & Latency
+Ingestion Timestamp Validation:
+
+How do you find out when the last data load occurred in the Bronze layer?
+
+Latency Check:
+
+How would you measure the time delay between the last ingestion time and the current system time to assess data freshness?
+
+
+🟦 Category 6: Schema Evolution and Versioning
+Schema Evolution Handling:
+
+How would you validate that newly added columns to the source file are correctly propagated into the Bronze and Silver tables?
+
+Backward Compatibility:
+
+How can you ensure that schema changes (e.g., adding optional fields) don’t break downstream reporting logic?
+
+🟦 Category 7: Derived Column and Transformation Logic
+Derived Column Validation:
+
+If a new column like Investment_Duration_Days is derived from Maturity_Date - Investment_Date, how do you validate its correctness across all rows?
+
+Categorical Bucketing:
+
+If risk is categorized based on Return_Rate, how do you validate that the bucketing logic (Low/Medium/High) is correctly applied?
+
+🟦 Category 8: Data Lineage and Traceability
+Traceability:
+
+How do you trace a specific record in the Silver table back to its raw record in the source or Bronze layer?
+
+Version History Validation (Time Travel):
+
+How would you validate what changed in the table between two pipeline runs using Delta Lake’s versioning features?
+
+🟦 Category 9: Referential Integrity (if multiple tables exist)
+Foreign Key Relationship Check:
+
+If there’s a separate Investor_Master table, how do you ensure every Investor_Name in the investment dataset exists in the master?
+
+Join Validation Across Layers:
+
+How would you test joins between Bronze and Silver tables (e.g., validating lookups or enrichments) without losing or duplicating records?
+
