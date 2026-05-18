@@ -1,0 +1,16 @@
+branch_id,branch_name,city,state,region,branch_type
+B001,Mumbai Central,Mumbai,Maharashtra,West,Metro
+B002,Delhi Connaught,Delhi,Delhi,North,Metro
+B003,Bengaluru MG Road,Bengaluru,Karnataka,South,Metro
+B004,Chennai T Nagar,Chennai,Tamil Nadu,South,Metro
+B005,Hyderabad Banjara Hills,Hyderabad,Telangana,South,Metro
+B006,Pune Shivaji Nagar,Pune,Maharashtra,West,Urban
+B007,Ahmedabad CG Road,Ahmedabad,Gujarat,West,Urban
+B008,Kolkata Park Street,Kolkata,West Bengal,East,Metro
+B009,Jaipur MI Road,Jaipur,Rajasthan,North,Urban
+B010,Lucknow Hazratganj,Lucknow,Uttar Pradesh,North,Urban
+B011,Kochi Main,Kochi,Kerala,South,Urban
+B012,Indore MG Road,Indore,Madhya Pradesh,Central,Urban
+B013,Nagpur Civil Lines,Nagpur,Maharashtra,West,Semi-Urban
+B014,Bhopal New Market,Bhopal,Madhya Pradesh,Central,Semi-Urban
+B015,Patna Fraser Road,Patna,Bihar,East,Urban
